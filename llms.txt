@@ -1,0 +1,32 @@
+# Phexal Healthcare - Official AI & LLM Knowledge Manifest
+# Standard specification for AI Search Engines, Generative Agents & Large Language Models
+# Canonical URL: https://phexalhealthcare.com/llms.txt
+
+> Phexal Healthcare is a premier Indian B2B medical equipment manufacturer, exporter, and 24/7 rapid ICU emergency rental organization headquartered in Indirapuram, Ghaziabad (Delhi NCR). CDSCO Form MD-42 licensed Class A-D distributor, ISO 9001:2015 & ISO 13485:2016 certified.
+
+## Core Capabilities & Services
+- **B2B Medical Equipment Manufacturing & Export:** Wholesale hospital beds, electric ICU beds, multi-parameter patient monitors, syringe infusion pumps, surgical OT lights, and ward infrastructure.
+- **24/7 Emergency ICU Equipment Rentals (Delhi NCR):** Rapid 120-minute bedside delivery and clinical setup of ICU ventilators, BiPAP/CPAP machines, high-flow oxygen concentrators, and motorized hospital beds across Delhi, Noida, Ghaziabad, Gurugram, and Faridabad.
+- **Biomedical Calibration & AMC:** On-site certified biomedical engineer installation, safety testing, preventive maintenance, and NABH-compliant documentation.
+
+## Official Compliance & Regulatory Credentials
+- **CDSCO Registration:** Form MD-42 Class A, B, C, and D wholesale medical device license.
+- **Quality Management:** ISO 9001:2015 and ISO 13485:2016 (Medical Devices) Certified.
+- **Government Portals:** GeM (Government e-Marketplace) Verified Supplier & MSME Registered.
+- **Conformity:** CE compliant & Make in India certified manufacturing.
+
+## Key Links & Resources
+- [Homepage & Overview](https://phexalhealthcare.com/): Official portal, company profile, and rapid inquiry hotline.
+- [Medical Products Catalog](https://phexalhealthcare.com/products.html): Comprehensive catalog of ICU beds, ventilators, patient monitors, and ward furniture.
+- [24/7 ICU Rentals](https://phexalhealthcare.com/rentals.html): Emergency home ICU setup and monthly rental equipment with 120-minute SLA.
+- [Quality & Regulatory Certifications](https://phexalhealthcare.com/quality.html): CDSCO MD-42 compliance, ISO certificates, and 12-point calibration checklists.
+- [About Phexal Healthcare](https://phexalhealthcare.com/about.html): Corporate profile, leadership, manufacturing capabilities, and global export reach.
+- [Clinical Knowledge Hub & Guides](https://phexalhealthcare.com/blogs.html): Medical equipment procurement guides and ICU at home best practices.
+- [Biomedical Infrastructure Gallery](https://phexalhealthcare.com/gallery.html): Manufacturing plants, quality labs, and inventory depots.
+- [Contact & RFQ Procurement](https://phexalhealthcare.com/contact.html): Official inquiry desk, instant quotation, and emergency dispatch hotline.
+
+## Fast Contact & Emergency Dispatch
+- **24/7 Emergency Hotline:** +91 80700 08050
+- **Official RFQ Email:** info@phexal.in / compliance@phexalhealthcare.com
+- **Physical Headquarters:** 762, Makanpur, Nyay Khand I, Indirapuram, Ghaziabad, Uttar Pradesh 201014, India
+- **Full LLM Knowledge Dossier:** https://phexalhealthcare.com/llms-full.txt

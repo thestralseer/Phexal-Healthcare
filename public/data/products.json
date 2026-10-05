@@ -1,0 +1,4185 @@
+[
+  {
+    "id": "phx-bed-plain-eco",
+    "name": "Plain Bed Eco",
+    "category": "hospital-furniture",
+    "categoryName": "01. Hospital Beds & Furniture",
+    "subCategory": "general-beds",
+    "subCategoryName": "General Ward Beds",
+    "sku": "PHX-BED-PLECO",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-sky-50 text-sky-700 border-sky-200",
+    "rating": "4.9",
+    "reviews": "25",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "2 Years Frame Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Dimensions",
+        "val": "2030L × 900W × 600H mm"
+      },
+      {
+        "label": "Structure",
+        "val": "Heavy Gauge CRCA Steel Tube"
+      },
+      {
+        "label": "Mattress Deck",
+        "val": "Welded Wire Mesh Platform"
+      },
+      {
+        "label": "Finish",
+        "val": "7-Tank Epoxy Powder Coated"
+      }
+    ],
+    "img": "/images/products/phx-bed-plain-eco.jpg",
+    "features": [
+      "Heavy-duty rectangular tubular frame with pre-treated epoxy powder coating",
+      "Uniform wire mesh mattress platform ensuring continuous aeration",
+      "Fitted with heavy-duty PVC protective stump shoes to prevent floor abrasion",
+      "Provisions for telescopic IV drip rod at all four corners"
+    ],
+    "usage": "Install Plain Bed Eco per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-bed-plain-eco.png",
+    "galleryImages": [
+      "/images/products/phx-bed-plain-eco.png"
+    ]
+  },
+  {
+    "id": "phx-bed-plain-deluxe",
+    "name": "Plain Bed Deluxe",
+    "category": "hospital-furniture",
+    "categoryName": "01. Hospital Beds & Furniture",
+    "subCategory": "general-beds",
+    "subCategoryName": "General Ward Beds",
+    "sku": "PHX-BED-PLDLX",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-sky-50 text-sky-700 border-sky-200",
+    "rating": "4.9",
+    "reviews": "26",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "2 Years Frame AMC",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Dimensions",
+        "val": "2060L × 910W × 600H mm"
+      },
+      {
+        "label": "Bows Material",
+        "val": "Grade 304 Stainless Steel"
+      },
+      {
+        "label": "Safe Load",
+        "val": "180 kg Patient Capacity"
+      },
+      {
+        "label": "IV Sockets",
+        "val": "4 Corner Standard Mounts"
+      }
+    ],
+    "img": "/images/products/phx-bed-plain-deluxe.jpg",
+    "features": [
+      "Stainless steel tubular head and foot bow panels with laminated inserts",
+      "Reinforced CRCA steel framework for patient stability",
+      "Pre-treated and finished with antibacterial epoxy polyester coating",
+      "Universal dual IV pole sockets on head and foot sides"
+    ],
+    "usage": "Install Plain Bed Deluxe per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-bed-plain-deluxe.png",
+    "galleryImages": [
+      "/images/products/phx-bed-plain-deluxe.png"
+    ]
+  },
+  {
+    "id": "phx-bed-semifowler-eco",
+    "name": "Semi Fowler Bed Eco",
+    "category": "hospital-furniture",
+    "categoryName": "01. Hospital Beds & Furniture",
+    "subCategory": "semi-fowler",
+    "subCategoryName": "Semi Fowler Beds",
+    "sku": "PHX-BED-SFECO",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-sky-50 text-sky-700 border-sky-200",
+    "rating": "4.9",
+    "reviews": "27",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "2 Years Mechanical Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Backrest Tilt",
+        "val": "0° to 70° Smooth Crank"
+      },
+      {
+        "label": "Dimensions",
+        "val": "2080L × 920W × 600H mm"
+      },
+      {
+        "label": "Mechanism",
+        "val": "Enclosed Stainless Steel Screw"
+      },
+      {
+        "label": "Weight Capacity",
+        "val": "175 kg"
+      }
+    ],
+    "img": "/images/products/phx-bed-semifowler-eco.jpg",
+    "features": [
+      "Single manual foldable crank mechanism with thrust bearing for effortless backrest elevation",
+      "Backrest positioning from 0° to 70° with self-locking screw protection",
+      "Perforated CRCA sheet top for uniform ventilation and lumbar support",
+      "Epoxy powder-coated tubular frame with integrated IV pole brackets"
+    ],
+    "usage": "Install Semi Fowler Bed Eco per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-bed-semifowler-eco.png",
+    "galleryImages": [
+      "/images/products/phx-bed-semifowler-eco.png"
+    ]
+  },
+  {
+    "id": "phx-bed-semifowler-deluxe",
+    "name": "Semi Fowler Bed Super Deluxe",
+    "category": "hospital-furniture",
+    "categoryName": "01. Hospital Beds & Furniture",
+    "subCategory": "semi-fowler",
+    "subCategoryName": "Semi Fowler Beds",
+    "sku": "PHX-BED-SFSDX",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-sky-50 text-sky-700 border-sky-200",
+    "rating": "4.9",
+    "reviews": "28",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "3 Years Comprehensive",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Panels",
+        "val": "Detachable Molded ABS"
+      },
+      {
+        "label": "Side Rails",
+        "val": "Collapsible Aluminium Alloy"
+      },
+      {
+        "label": "Castors",
+        "val": "100mm Swivel with Dual Brakes"
+      },
+      {
+        "label": "Backrest Tilt",
+        "val": "0° to 75° Adjustable"
+      }
+    ],
+    "img": "/images/products/phx-bed-semifowler-deluxe.jpg",
+    "features": [
+      "Detachable polymer ABS head and foot boards with integrated patient chart holder",
+      "Foldable full-length aluminium side railings with one-touch latch release",
+      "Heavy-duty 100mm diagonal locking swivel castors for ward mobility",
+      "Perforated CRCA 2-section top with anti-slip mattress retainers"
+    ],
+    "usage": "Install Semi Fowler Bed Super Deluxe per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-bed-semifowler-deluxe.png",
+    "galleryImages": [
+      "/images/products/phx-bed-semifowler-deluxe.png"
+    ]
+  },
+  {
+    "id": "phx-bed-semifowler-elec",
+    "name": "Semi Fowler Bed Electric",
+    "category": "hospital-furniture",
+    "categoryName": "01. Hospital Beds & Furniture",
+    "subCategory": "semi-fowler",
+    "subCategoryName": "Semi Fowler Beds",
+    "sku": "PHX-BED-SFELC",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-sky-50 text-sky-700 border-sky-200",
+    "rating": "4.9",
+    "reviews": "29",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "3 Years Actuator Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Motor",
+        "val": "LINAK / Moteck 24V DC Linear Actuator"
+      },
+      {
+        "label": "Back Elevation",
+        "val": "0° to 75° Motorized"
+      },
+      {
+        "label": "Voltage",
+        "val": "220V 50Hz with Battery Backup"
+      },
+      {
+        "label": "Safety Class",
+        "val": "IEC 60601-1 Medical Class II"
+      }
+    ],
+    "img": "/images/products/phx-bed-semifowler-elec.jpg",
+    "features": [
+      "Whisper-quiet medical grade linear actuator with waterproof IP54 rating",
+      "Ergonomic wired hand pendant with clear graphical touch buttons",
+      "Detachable ABS head & foot boards with collapsible safety side rails",
+      "Emergency manual crank backup in case of power failure"
+    ],
+    "usage": "Install Semi Fowler Bed Electric per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-bed-semifowler-elec.png",
+    "galleryImages": [
+      "/images/products/phx-bed-semifowler-elec.png"
+    ]
+  },
+  {
+    "id": "phx-bed-fowler-eco",
+    "name": "Fowler Bed Eco",
+    "category": "hospital-furniture",
+    "categoryName": "01. Hospital Beds & Furniture",
+    "subCategory": "fowler-beds",
+    "subCategoryName": "Full Fowler Beds",
+    "sku": "PHX-BED-FWECO",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-sky-50 text-sky-700 border-sky-200",
+    "rating": "4.9",
+    "reviews": "30",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "2 Years Frame AMC",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Backrest Range",
+        "val": "0° to 75°"
+      },
+      {
+        "label": "Knee-Rest Range",
+        "val": "0° to 40°"
+      },
+      {
+        "label": "Platform",
+        "val": "4-Section Perforated Sheet"
+      },
+      {
+        "label": "Safe Load",
+        "val": "180 kg"
+      }
+    ],
+    "img": "/images/products/phx-bed-fowler-eco.jpg",
+    "features": [
+      "Dual independent foldable stainless steel crank handles at foot end",
+      "4-section perforated sheet platform for contoured ergonomic support",
+      "Pre-treated anti-rust epoxy powder coating for long clinical lifespan",
+      "Four corner IV sockets with heavy-duty bumper corners"
+    ],
+    "usage": "Install Fowler Bed Eco per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-bed-fowler-eco.png",
+    "galleryImages": [
+      "/images/products/phx-bed-fowler-eco.png"
+    ]
+  },
+  {
+    "id": "phx-bed-fowler-deluxe",
+    "name": "Fowler Bed Super Deluxe",
+    "category": "hospital-furniture",
+    "categoryName": "01. Hospital Beds & Furniture",
+    "subCategory": "fowler-beds",
+    "subCategoryName": "Full Fowler Beds",
+    "sku": "PHX-BED-FWSDX",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-sky-50 text-sky-700 border-sky-200",
+    "rating": "4.9",
+    "reviews": "31",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "3 Years Comprehensive",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Dimensions",
+        "val": "2140L × 960W × 600H mm"
+      },
+      {
+        "label": "Castors",
+        "val": "125mm Polyurethane with Brakes"
+      },
+      {
+        "label": "Panels",
+        "val": "High-Impact ABS Plastic"
+      },
+      {
+        "label": "Railings",
+        "val": "Tuck-Away Foldable Aluminium"
+      }
+    ],
+    "img": "/images/products/phx-bed-fowler-deluxe.jpg",
+    "features": [
+      "4-section ergonomic mattress deck with dual independent screw mechanisms",
+      "Detachable ABS engineering plastic head and foot panels with lock buffers",
+      "Foldable aluminium alloy side rails with self-locking safety buttons",
+      "125mm high-grade polyurethane castors with independent wheel brakes"
+    ],
+    "usage": "Install Fowler Bed Super Deluxe per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-bed-fowler-deluxe.png",
+    "galleryImages": [
+      "/images/products/phx-bed-fowler-deluxe.png"
+    ]
+  },
+  {
+    "id": "phx-bed-fowler-elec",
+    "name": "Fowler Bed Electric",
+    "category": "hospital-furniture",
+    "categoryName": "01. Hospital Beds & Furniture",
+    "subCategory": "fowler-beds",
+    "subCategoryName": "Full Fowler Beds",
+    "sku": "PHX-BED-FWELC",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-sky-50 text-sky-700 border-sky-200",
+    "rating": "4.9",
+    "reviews": "32",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "3 Years Actuator Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Actuators",
+        "val": "2x Medical Grade DC Actuators"
+      },
+      {
+        "label": "Control",
+        "val": "Handheld Remote + Nurse Lockout"
+      },
+      {
+        "label": "Back Tilt",
+        "val": "0° to 75° Motorized"
+      },
+      {
+        "label": "Knee Tilt",
+        "val": "0° to 45° Motorized"
+      }
+    ],
+    "img": "/images/products/phx-bed-fowler-elec.jpg",
+    "features": [
+      "Dual LINAK/Moteck silent linear actuators with electronic overload cut-off",
+      "Backlit remote handset for easy nighttime adjustment by patient",
+      "Detachable ABS head & foot boards with corner protective roller bumpers",
+      "Emergency battery backup ensuring continuous operation during power cuts"
+    ],
+    "usage": "Install Fowler Bed Electric per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-bed-fowler-elec.png",
+    "galleryImages": [
+      "/images/products/phx-bed-fowler-elec.png"
+    ]
+  },
+  {
+    "id": "phx-bed-paramount",
+    "name": "Five Function Bed (Paramount Motorized ICU)",
+    "category": "hospital-furniture",
+    "categoryName": "01. Hospital Beds & Furniture",
+    "subCategory": "icu-beds",
+    "subCategoryName": "Motorized ICU Beds",
+    "sku": "PHX-BED-A5ICU",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-sky-50 text-sky-700 border-sky-200",
+    "rating": "4.9",
+    "reviews": "33",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "3 Years Comprehensive On-Site",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Motors",
+        "val": "4x LINAK Medical Actuators"
+      },
+      {
+        "label": "Positions",
+        "val": "Back, Knee, Hi-Lo, Trendelenburg & Rev."
+      },
+      {
+        "label": "Emergency",
+        "val": "Dual-Sided Instant CPR Levers"
+      },
+      {
+        "label": "Castors",
+        "val": "Central Locking 150mm Wheels"
+      }
+    ],
+    "img": "/images/products/phx-bed-paramount.jpg",
+    "features": [
+      "4-motor electric system: Backrest, Knee-rest, Height Adjustment (Hi-Lo), Trendelenburg & Reverse Trendelenburg",
+      "Ergonomic split side rails with integrated nurse and patient controls",
+      "Dual-sided manual instant CPR levers for flat emergency resuscitation in under 2 seconds",
+      "Central locking 150mm diameter anti-static castor system with single-pedal brake"
+    ],
+    "usage": "Install Five Function Bed (Paramount Motorized ICU) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-bed-paramount.png",
+    "galleryImages": [
+      "/images/products/phx-bed-paramount.png"
+    ]
+  },
+  {
+    "id": "phx-bed-pediatric",
+    "name": "Pediatric Bed",
+    "category": "hospital-furniture",
+    "categoryName": "01. Hospital Beds & Furniture",
+    "subCategory": "pediatric-beds",
+    "subCategoryName": "Paediatric Hospital Beds",
+    "sku": "PHX-BED-PED01",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-sky-50 text-sky-700 border-sky-200",
+    "rating": "4.9",
+    "reviews": "34",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "2 Years Comprehensive",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Dimensions",
+        "val": "1400L × 750W × 600H mm"
+      },
+      {
+        "label": "Safety Rails",
+        "val": "Full-Length Drop-Down Child Safe"
+      },
+      {
+        "label": "Coating",
+        "val": "Non-Toxic Antimicrobial Epoxy"
+      },
+      {
+        "label": "Castors",
+        "val": "100mm Swivel with Brakes"
+      }
+    ],
+    "img": "/images/products/phx-bed-pediatric.jpg",
+    "features": [
+      "Full-length drop-down side railings with child-proof dual safety locking pins",
+      "Narrow vertical bar spacing (< 6cm) preventing infant head and limb entrapment",
+      "Smooth manual crank for backrest elevation during paediatric respiratory therapy",
+      "Anti-static 100mm castors with individual toe brakes"
+    ],
+    "usage": "Install Pediatric Bed per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-bed-pediatric.png",
+    "galleryImages": [
+      "/images/products/phx-bed-pediatric.png"
+    ]
+  },
+  {
+    "id": "phx-bed-baby-bassinet",
+    "name": "Baby Bassinet",
+    "category": "hospital-furniture",
+    "categoryName": "01. Hospital Beds & Furniture",
+    "subCategory": "maternity-beds",
+    "subCategoryName": "Maternity & Neonatal",
+    "sku": "PHX-BED-BAS01",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-sky-50 text-sky-700 border-sky-200",
+    "rating": "4.9",
+    "reviews": "35",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "2 Years Frame Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Cradle Tub",
+        "val": "Transparent Moulded Acrylic"
+      },
+      {
+        "label": "Tilt Range",
+        "val": "±15° Anti-Reflux Positioning"
+      },
+      {
+        "label": "Chassis",
+        "val": "Epoxy / SS304 Tubular Frame"
+      },
+      {
+        "label": "Castors",
+        "val": "75mm Noiseless Swivel Castors"
+      }
+    ],
+    "img": "/images/products/phx-bed-baby-bassinet.jpg",
+    "features": [
+      "Transparent shatter-proof acrylic cradle tub with ventilation perforations",
+      "Smooth tilt mechanism allowing up to 15° Trendelenburg and Reverse Trendelenburg",
+      "Heavy-duty mobile stainless steel trolley with 75mm silent noiseless castors",
+      "Includes waterproof high-density foam mattress with washable cover"
+    ],
+    "usage": "Install Baby Bassinet per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-bed-baby-bassinet.png",
+    "galleryImages": [
+      "/images/products/phx-bed-baby-bassinet.png"
+    ]
+  },
+  {
+    "id": "phx-bed-recliner",
+    "name": "Hospital Bed Recliner",
+    "category": "hospital-furniture",
+    "categoryName": "01. Hospital Beds & Furniture",
+    "subCategory": "ward-furniture",
+    "subCategoryName": "Attendant & Recovery Recliners",
+    "sku": "PHX-BED-REC01",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-sky-50 text-sky-700 border-sky-200",
+    "rating": "4.9",
+    "reviews": "36",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "2 Years Frame AMC",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Positions",
+        "val": "Upright, Relax, Full Recline"
+      },
+      {
+        "label": "Upholstery",
+        "val": "Antimicrobial Medical Vinyl"
+      },
+      {
+        "label": "Frame",
+        "val": "Heavy Tubular Steel with Powder Coat"
+      },
+      {
+        "label": "Weight Rating",
+        "val": "150 kg Patient Capacity"
+      }
+    ],
+    "img": "/images/products/phx-bed-recliner.jpg",
+    "features": [
+      "3-position lockable recline: Upright seating, elevated leg-rest, and full flat rest",
+      "Heavy-gauge steel frame with high-density antimicrobial PU foam cushioning",
+      "Seamless medical-grade vinyl upholstery resistant to blood and chemical stains",
+      "Fold-out side tray for patient meal, medical charting, or IV monitoring"
+    ],
+    "usage": "Install Hospital Bed Recliner per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-bed-recliner.png",
+    "galleryImages": [
+      "/images/products/phx-bed-recliner.png"
+    ]
+  },
+  {
+    "id": "phx-wc-karma",
+    "name": "Wheelchair (Karma Ryder 2 Lightweight)",
+    "category": "mobility-care",
+    "categoryName": "02. Mobility & Patient Care",
+    "subCategory": "wheelchairs",
+    "subCategoryName": "Manual Hospital Wheelchairs",
+    "sku": "PHX-MOB-RYDER2",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-emerald-50 text-emerald-700 border-emerald-200",
+    "rating": "4.9",
+    "reviews": "37",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "1 Year Manufacturer Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Frame",
+        "val": "Aircraft-Grade Aluminium Alloy"
+      },
+      {
+        "label": "Weight",
+        "val": "12.5 kg (Ultra-Lightweight)"
+      },
+      {
+        "label": "Max Load",
+        "val": "100 kg Capacity"
+      },
+      {
+        "label": "Tyres",
+        "val": "Puncture-Proof Solid PU Wheels"
+      }
+    ],
+    "img": "/images/products/phx-wc-karma.jpg",
+    "features": [
+      "High-strength aircraft-grade aluminium alloy frame weighing only 12.5 kg",
+      "Foldable backrest and cross-brace for compact car trunk storage and storage",
+      "Solid puncture-proof PU rear wheels with ergonomic handrims and parking brakes",
+      "Breathable antimicrobial nylon upholstery with padded armrests"
+    ],
+    "usage": "Install Wheelchair (Karma Ryder 2 Lightweight) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-wc-karma.png",
+    "galleryImages": [
+      "/images/products/phx-wc-karma.png"
+    ]
+  },
+  {
+    "id": "phx-wc-auto",
+    "name": "Auto. Wheelchair (Motorized Electric)",
+    "category": "mobility-care",
+    "categoryName": "02. Mobility & Patient Care",
+    "subCategory": "wheelchairs",
+    "subCategoryName": "Motorized Electric Wheelchairs",
+    "sku": "PHX-MOB-AUTO1",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-emerald-50 text-emerald-700 border-emerald-200",
+    "rating": "4.9",
+    "reviews": "38",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "2 Years Motor & Battery Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Motors",
+        "val": "Dual 250W Brushless DC Hub Motors"
+      },
+      {
+        "label": "Speed",
+        "val": "1 – 6 km/h (5 Speed Levels)"
+      },
+      {
+        "label": "Range",
+        "val": "20 km per Full Charge"
+      },
+      {
+        "label": "Braking",
+        "val": "Electromagnetic Auto-Brake"
+      }
+    ],
+    "img": "/images/products/phx-wc-auto.jpg",
+    "features": [
+      "Dual 250W powerful hub motors climbing inclines up to 12 degrees effortlessly",
+      "Smart 360° joystick controller with horn, speed display, and battery charge meter",
+      "Electromagnetic automatic brakes that stop the chair instantly when joystick is released",
+      "Quick-folding lightweight frame with detachable lithium-ion battery pack"
+    ],
+    "usage": "Install Auto. Wheelchair (Motorized Electric) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-wc-auto.png",
+    "galleryImages": [
+      "/images/products/phx-wc-auto.png"
+    ]
+  },
+  {
+    "id": "phx-mob-stick",
+    "name": "Walking Stick (Adjustable Quadripod)",
+    "category": "mobility-care",
+    "categoryName": "02. Mobility & Patient Care",
+    "subCategory": "walking-aids",
+    "subCategoryName": "Walking Aids & Canes",
+    "sku": "PHX-MOB-STK01",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-emerald-50 text-emerald-700 border-emerald-200",
+    "rating": "4.9",
+    "reviews": "39",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "1 Year Replacement Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Base",
+        "val": "4-Legged Quadripod Base"
+      },
+      {
+        "label": "Height",
+        "val": "72 – 98 cm (10 Pin Settings)"
+      },
+      {
+        "label": "Material",
+        "val": "Anodized Lightweight Aluminium"
+      },
+      {
+        "label": "Weight Capacity",
+        "val": "110 kg"
+      }
+    ],
+    "img": "/images/products/phx-mob-stick.jpg",
+    "features": [
+      "Wide 4-legged quadripod base providing superior balance and ground stability",
+      "Push-button 10-level telescopic height adjustment from 72 cm to 98 cm",
+      "Ergonomic anatomical PVC handgrip with wrist safety strap",
+      "Non-slip anti-abrasive rubber feet that maintain traction on tiles and wet floors"
+    ],
+    "usage": "Install Walking Stick (Adjustable Quadripod) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-mob-stick.png",
+    "galleryImages": [
+      "/images/products/phx-mob-stick.png"
+    ]
+  },
+  {
+    "id": "phx-mob-walker",
+    "name": "Walker (Foldable Reciprocal Aluminium)",
+    "category": "mobility-care",
+    "categoryName": "02. Mobility & Patient Care",
+    "subCategory": "walking-aids",
+    "subCategoryName": "Walking Aids & Walkers",
+    "sku": "PHX-MOB-WLK01",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-emerald-50 text-emerald-700 border-emerald-200",
+    "rating": "4.9",
+    "reviews": "40",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "1 Year Frame Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Height Range",
+        "val": "78 – 96 cm (8 Pin Settings)"
+      },
+      {
+        "label": "Mode",
+        "val": "Reciprocal & Fixed Dual Function"
+      },
+      {
+        "label": "Weight",
+        "val": "2.4 kg (Ultra-Light)"
+      },
+      {
+        "label": "Max Load",
+        "val": "120 kg"
+      }
+    ],
+    "img": "/images/products/phx-mob-walker.jpg",
+    "features": [
+      "Dual functional mode: Reciprocal step-by-step walking or rigid frame mode",
+      "Single-button quick-folding mechanism for compact storage",
+      "Lightweight 1-inch anodized aluminium tubing supporting up to 120 kg",
+      "8-level push-button height adjustment with anti-rattle silencing collar"
+    ],
+    "usage": "Install Walker (Foldable Reciprocal Aluminium) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-mob-walker.png",
+    "galleryImages": [
+      "/images/products/phx-mob-walker.png"
+    ]
+  },
+  {
+    "id": "phx-mob-commode",
+    "name": "Commode Chair (Foldable Sanitary)",
+    "category": "mobility-care",
+    "categoryName": "02. Mobility & Patient Care",
+    "subCategory": "patient-care",
+    "subCategoryName": "Sanitary & Bedside Care",
+    "sku": "PHX-MOB-CMD01",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-emerald-50 text-emerald-700 border-emerald-200",
+    "rating": "4.9",
+    "reviews": "41",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "1 Year Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Seat Height",
+        "val": "45 cm Standard Bedside Height"
+      },
+      {
+        "label": "Frame",
+        "val": "Epoxy Powder Coated Steel"
+      },
+      {
+        "label": "Bucket",
+        "val": "Removable High-Density Plastic"
+      },
+      {
+        "label": "Capacity",
+        "val": "110 kg Max Weight"
+      }
+    ],
+    "img": "/images/products/phx-mob-commode.jpg",
+    "features": [
+      "Foldable heavy-gauge steel frame for compact storage when not in use",
+      "Removable toilet pan with tight-fitting carry handle and odor seal lid",
+      "Can be placed directly beside patient bed or positioned over standard toilet commode",
+      "Non-slip rubber feet ensuring stability on bathroom tiles and bedroom flooring"
+    ],
+    "usage": "Install Commode Chair (Foldable Sanitary) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-mob-commode.png",
+    "galleryImages": [
+      "/images/products/phx-mob-commode.png"
+    ]
+  },
+  {
+    "id": "phx-mob-blood-chair",
+    "name": "Blood Donation Chair (Motorized Multi-Position)",
+    "category": "mobility-care",
+    "categoryName": "02. Mobility & Patient Care",
+    "subCategory": "donor-chairs",
+    "subCategoryName": "Blood Bank & Dialysis Chairs",
+    "sku": "PHX-MOB-BDC01",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-emerald-50 text-emerald-700 border-emerald-200",
+    "rating": "4.9",
+    "reviews": "42",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "2 Years Actuator Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Positions",
+        "val": "Seated, Relax, Full Recline, Trendelenburg"
+      },
+      {
+        "label": "Motor",
+        "val": "24V DC Silent Medical Actuator"
+      },
+      {
+        "label": "Armrests",
+        "val": "3D Swivel & Height Adjustable"
+      },
+      {
+        "label": "Weight Rating",
+        "val": "180 kg Patient Capacity"
+      }
+    ],
+    "img": "/images/products/phx-mob-blood-chair.jpg",
+    "features": [
+      "Linear actuator motorized adjustment with wired hand control pendant",
+      "Instant Trendelenburg positioning for immediate donor vasovagal syncope recovery",
+      "Dual 3D multi-axis adjustable padded armrests for phlebotomy venipuncture comfort",
+      "Antimicrobial seamless medical grade vinyl upholstery easy to disinfect"
+    ],
+    "usage": "Install Blood Donation Chair (Motorized Multi-Position) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-mob-blood-chair.png",
+    "galleryImages": [
+      "/images/products/phx-mob-blood-chair.png"
+    ]
+  },
+  {
+    "id": "phx-mob-waiting-chair",
+    "name": "Waiting Chair (3-Seater SS Perforated)",
+    "category": "mobility-care",
+    "categoryName": "02. Mobility & Patient Care",
+    "subCategory": "ward-furniture",
+    "subCategoryName": "Hospital Waiting Benches",
+    "sku": "PHX-MOB-WTC01",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-emerald-50 text-emerald-700 border-emerald-200",
+    "rating": "4.9",
+    "reviews": "43",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "3 Years Structural Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Seating",
+        "val": "3-Seater Modular Bench"
+      },
+      {
+        "label": "Material",
+        "val": "Perforated SS / Chrome Steel"
+      },
+      {
+        "label": "Beam",
+        "val": "2.0mm High-Strength Steel Beam"
+      },
+      {
+        "label": "Capacity",
+        "val": "450 kg Combined Load"
+      }
+    ],
+    "img": "/images/products/phx-mob-waiting-chair.jpg",
+    "features": [
+      "High-density perforated stainless steel seat panels for airflow and hygiene",
+      "Die-cast chrome-plated steel armrests and heavy-duty leg supports",
+      "Anti-rust electrostatically powder-coated central support beam",
+      "Adjustable leveling floor pads compensating for uneven hospital floors"
+    ],
+    "usage": "Install Waiting Chair (3-Seater SS Perforated) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-mob-waiting-chair.png",
+    "galleryImages": [
+      "/images/products/phx-mob-waiting-chair.png"
+    ]
+  },
+  {
+    "id": "phx-mob-stair-chair",
+    "name": "Stair Chair (Emergency Evacuation Track)",
+    "category": "mobility-care",
+    "categoryName": "02. Mobility & Patient Care",
+    "subCategory": "evacuation-chairs",
+    "subCategoryName": "Emergency Evacuation Chairs",
+    "sku": "PHX-MOB-STR01",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-emerald-50 text-emerald-700 border-emerald-200",
+    "rating": "4.9",
+    "reviews": "44",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "2 Years Comprehensive",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Track Mechanism",
+        "val": "Friction-Controlled Rubber Track"
+      },
+      {
+        "label": "Weight",
+        "val": "9.5 kg (Lightweight Portable)"
+      },
+      {
+        "label": "Capacity",
+        "val": "160 kg Max Patient Weight"
+      },
+      {
+        "label": "Frame",
+        "val": "High-Tensile Aluminium Alloy"
+      }
+    ],
+    "img": "/images/products/phx-mob-stair-chair.jpg",
+    "features": [
+      "Heavy-duty continuous friction rubber track system providing smooth controlled descent",
+      "Telescopic front and rear lifting handles for multi-rescuer transit over obstacles",
+      "Quick-release chest and lap restraint safety harness securing patient firmly",
+      "High-strength aluminium alloy construction folding flat for wall cabinet mounting"
+    ],
+    "usage": "Install Stair Chair (Emergency Evacuation Track) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-mob-stair-chair.png",
+    "galleryImages": [
+      "/images/products/phx-mob-stair-chair.png"
+    ]
+  },
+  {
+    "id": "phx-mob-patient-stool",
+    "name": "Patient Stool (SS Revolving Gas-Lift)",
+    "category": "mobility-care",
+    "categoryName": "02. Mobility & Patient Care",
+    "subCategory": "clinic-stools",
+    "subCategoryName": "Clinical Revolving Stools",
+    "sku": "PHX-MOB-STL01",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-emerald-50 text-emerald-700 border-emerald-200",
+    "rating": "4.9",
+    "reviews": "45",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "1 Year Hydraulic Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Seat Top",
+        "val": "300mm Diameter SS304 Top"
+      },
+      {
+        "label": "Height Adjustment",
+        "val": "48 – 68 cm Pneumatic Gas-Lift"
+      },
+      {
+        "label": "Base",
+        "val": "5-Prong Heavy Duty Chrome Base"
+      },
+      {
+        "label": "Weight Rating",
+        "val": "130 kg"
+      }
+    ],
+    "img": "/images/products/phx-mob-patient-stool.jpg",
+    "features": [
+      "Stainless steel Grade 304 top with anti-slip spun concentric ring pattern",
+      "Pneumatic gas-lift cylinder adjusting height from 48 cm to 68 cm with foot or hand ring",
+      "5-prong heavy steel base with smooth nylon twin-wheel swivel castors",
+      "Seamless 360-degree rotation for fluid clinical mobility"
+    ],
+    "usage": "Install Patient Stool (SS Revolving Gas-Lift) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-mob-patient-stool.png",
+    "galleryImages": [
+      "/images/products/phx-mob-patient-stool.png"
+    ]
+  },
+  {
+    "id": "phx-mob-screen-4fold",
+    "name": "Four Fold Screen (Mobile Ward Partition)",
+    "category": "mobility-care",
+    "categoryName": "02. Mobility & Patient Care",
+    "subCategory": "ward-furniture",
+    "subCategoryName": "Ward Privacy Screens",
+    "sku": "PHX-MOB-SCR04",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-emerald-50 text-emerald-700 border-emerald-200",
+    "rating": "4.9",
+    "reviews": "46",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "2 Years Frame Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Overall Size",
+        "val": "1680H × 2450W mm (Extended)"
+      },
+      {
+        "label": "Panels",
+        "val": "4 Hinged Panels (610mm Width each)"
+      },
+      {
+        "label": "Curtains",
+        "val": "Flame-Retardant Washable Fabric"
+      },
+      {
+        "label": "Castors",
+        "val": "50mm Smooth Swivel Castors"
+      }
+    ],
+    "img": "/images/products/phx-mob-screen-4fold.jpg",
+    "features": [
+      "4 hinged folding panels providing flexible partition configuration in any angle",
+      "Smooth 50mm non-marking swivel castors on all base legs for effortless positioning",
+      "Flame-retardant, antimicrobial washable fabric curtains with wire spring hooks",
+      "Pre-treated anti-corrosive epoxy powder-coated tubular steel frame"
+    ],
+    "usage": "Install Four Fold Screen (Mobile Ward Partition) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-mob-screen-4fold.png",
+    "galleryImages": [
+      "/images/products/phx-mob-screen-4fold.png"
+    ]
+  },
+  {
+    "id": "phx-mob-bedside-locker",
+    "name": "Bed Side Locker (CRCA Steel & SS Top)",
+    "category": "mobility-care",
+    "categoryName": "02. Mobility & Patient Care",
+    "subCategory": "ward-lockers",
+    "subCategoryName": "Bedside Cabinets & Lockers",
+    "sku": "PHX-MOB-LCK01",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-emerald-50 text-emerald-700 border-emerald-200",
+    "rating": "4.9",
+    "reviews": "47",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "2 Years Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Dimensions",
+        "val": "400W × 400D × 820H mm"
+      },
+      {
+        "label": "Top Plate",
+        "val": "Grade 304 Stainless Steel Flanged"
+      },
+      {
+        "label": "Storage",
+        "val": "1 Top Drawer + 1 Lower Cupboard"
+      },
+      {
+        "label": "Accessories",
+        "val": "Integrated Side Towel Rail"
+      }
+    ],
+    "img": "/images/products/phx-mob-bedside-locker.jpg",
+    "features": [
+      "Heavy-duty CRCA sheet body finished with anti-corrosive epoxy powder coating",
+      "Grade 304 stainless steel top with 3-sided raised flange preventing item spills",
+      "Smooth-slide drawer on telescopic channels with key lock",
+      "Lower storage cupboard with ventilation louvres and internal shelf"
+    ],
+    "usage": "Install Bed Side Locker (CRCA Steel & SS Top) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-mob-bedside-locker.png",
+    "galleryImages": [
+      "/images/products/phx-mob-bedside-locker.png"
+    ]
+  },
+  {
+    "id": "phx-mob-bedside-locker-abs",
+    "name": "Bed Side Locker (ABS Injection Moulded)",
+    "category": "mobility-care",
+    "categoryName": "02. Mobility & Patient Care",
+    "subCategory": "ward-lockers",
+    "subCategoryName": "Bedside Cabinets & Lockers",
+    "sku": "PHX-MOB-LCKABS",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-emerald-50 text-emerald-700 border-emerald-200",
+    "rating": "4.9",
+    "reviews": "48",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "3 Years Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Dimensions",
+        "val": "480W × 480D × 870H mm"
+      },
+      {
+        "label": "Material",
+        "val": "100% High-Impact ABS Polymer"
+      },
+      {
+        "label": "Features",
+        "val": "Slide-Out Meal Tray + Towel Hooks"
+      },
+      {
+        "label": "Castors",
+        "val": "50mm Silent Concealed Castors"
+      }
+    ],
+    "img": "/images/products/phx-mob-bedside-locker-abs.jpg",
+    "features": [
+      "Seamless high-impact injection molded ABS plastic body, completely rust-proof and washable",
+      "Integrated hidden slide-out dining and writing tray for patient feeding",
+      "Top drawer plus spacious lower cabinet with internal partition",
+      "Dual side concealed towel hooks and water bottle holders"
+    ],
+    "usage": "Install Bed Side Locker (ABS Injection Moulded) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-mob-bedside-locker-abs.png",
+    "galleryImages": [
+      "/images/products/phx-mob-bedside-locker-abs.png"
+    ]
+  },
+  {
+    "id": "phx-exam-delivery-table",
+    "name": "Delivery Table (Obstetric Telescopic 2-Section)",
+    "category": "examination-transport",
+    "categoryName": "03. Examination & Transport",
+    "subCategory": "delivery-tables",
+    "subCategoryName": "Obstetric & Delivery Tables",
+    "sku": "PHX-EXM-DT01",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-teal-50 text-teal-700 border-teal-200",
+    "rating": "4.9",
+    "reviews": "49",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "2 Years Frame Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Dimensions",
+        "val": "1800L × 600W × 800H mm"
+      },
+      {
+        "label": "Material",
+        "val": "Grade 304 Stainless Steel Frame"
+      },
+      {
+        "label": "Sections",
+        "val": "2-Section Telescopic Top"
+      },
+      {
+        "label": "Crutches",
+        "val": "Adjustable Lithotomy Leg Holders"
+      }
+    ],
+    "img": "/images/products/phx-exam-delivery-table.jpg",
+    "features": [
+      "Telescopic sliding leg section retracting beneath main body for compact delivery positioning",
+      "Padded lithotomy leg crutches adjustable in height and radial abduction angle",
+      "Grade 304 stainless steel framework with removable seamless padded waterproof mattress",
+      "Integrated slide-out stainless steel waste fluid receptacle tray"
+    ],
+    "usage": "Install Delivery Table (Obstetric Telescopic 2-Section) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-exam-delivery-table.png",
+    "galleryImages": [
+      "/images/products/phx-exam-delivery-table.png"
+    ]
+  },
+  {
+    "id": "phx-exam-delivery-bed",
+    "name": "Delivery Bed (LDR Motorized Multi-Function)",
+    "category": "examination-transport",
+    "categoryName": "03. Examination & Transport",
+    "subCategory": "delivery-beds",
+    "subCategoryName": "LDR Delivery Beds",
+    "sku": "PHX-EXM-DB01",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-teal-50 text-teal-700 border-teal-200",
+    "rating": "4.9",
+    "reviews": "50",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "3 Years Actuator Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Actuators",
+        "val": "3x Medical Grade Linear Motors"
+      },
+      {
+        "label": "Positions",
+        "val": "Backrest, Hi-Lo, Trendelenburg"
+      },
+      {
+        "label": "Safe Load",
+        "val": "200 kg Obstetric Capacity"
+      },
+      {
+        "label": "Braking",
+        "val": "Central Castor Locking System"
+      }
+    ],
+    "img": "/images/products/phx-exam-delivery-bed.jpg",
+    "features": [
+      "3-motor linear actuator system controlling backrest, height, and Trendelenburg angles",
+      "Fold-away leg section converting bed from standard luxury patient lounger to birthing table",
+      "Ergonomic grab handles and adjustable telescopic knee crutches with gel padding",
+      "Includes high-density split foam mattress with fluid-proof welded seams"
+    ],
+    "usage": "Install Delivery Bed (LDR Motorized Multi-Function) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-exam-delivery-bed.png",
+    "galleryImages": [
+      "/images/products/phx-exam-delivery-bed.png"
+    ]
+  },
+  {
+    "id": "phx-exam-table",
+    "name": "Examination Table (2-Section Padded Top)",
+    "category": "examination-transport",
+    "categoryName": "03. Examination & Transport",
+    "subCategory": "exam-tables",
+    "subCategoryName": "Clinical Examination Tables",
+    "sku": "PHX-EXM-ET01",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-teal-50 text-teal-700 border-teal-200",
+    "rating": "4.9",
+    "reviews": "51",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "2 Years Frame AMC",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Dimensions",
+        "val": "1830L × 610W × 760H mm"
+      },
+      {
+        "label": "Backrest",
+        "val": "Multi-Position Ratchet Tilt"
+      },
+      {
+        "label": "Upholstery",
+        "val": "Seamless Antimicrobial Rexine"
+      },
+      {
+        "label": "Frame",
+        "val": "Heavy CRCA Rectangular Tube"
+      }
+    ],
+    "img": "/images/products/phx-exam-table.jpg",
+    "features": [
+      "Mechanical ratchet backrest elevation adjustable to multiple tilt angles",
+      "High-density 50mm PU foam mattress upholstered in seamless antimicrobial vinyl",
+      "Sturdy CRCA rectangular steel frame finished with pre-treated epoxy powder coat",
+      "Integrated stainless steel paper roll dispensing rod at head end"
+    ],
+    "usage": "Install Examination Table (2-Section Padded Top) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-exam-table.png",
+    "galleryImages": [
+      "/images/products/phx-exam-table.png"
+    ]
+  },
+  {
+    "id": "phx-exam-couch",
+    "name": "Examination Couch (Cabinet & Storage Drawers)",
+    "category": "examination-transport",
+    "categoryName": "03. Examination & Transport",
+    "subCategory": "exam-couches",
+    "subCategoryName": "Consultation Examination Couches",
+    "sku": "PHX-EXM-EC01",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-teal-50 text-teal-700 border-teal-200",
+    "rating": "4.9",
+    "reviews": "52",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "2 Years Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Dimensions",
+        "val": "1870L × 660W × 820H mm"
+      },
+      {
+        "label": "Storage",
+        "val": "3 Drawers + 3 Lower Cupboards"
+      },
+      {
+        "label": "Backrest",
+        "val": "Gas-Spring Assisted Elevation"
+      },
+      {
+        "label": "Footstep",
+        "val": "Concealed Slide-Out Footstool"
+      }
+    ],
+    "img": "/images/products/phx-exam-couch.jpg",
+    "features": [
+      "3 smooth sliding drawers and 3 lockable storage cabinets built directly into base",
+      "Gas-spring assisted backrest elevation for effortless physician adjustment",
+      "Heavy-duty steel chassis with wipe-clean seamless medical vinyl upholstery",
+      "Integrated sliding pull-out footstep for effortless patient ascent"
+    ],
+    "usage": "Install Examination Couch (Cabinet & Storage Drawers) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-exam-couch.png",
+    "galleryImages": [
+      "/images/products/phx-exam-couch.png"
+    ]
+  },
+  {
+    "id": "phx-exam-couch-deluxe",
+    "name": "Examination Couch Deluxe (Adjustable Backrest)",
+    "category": "examination-transport",
+    "categoryName": "03. Examination & Transport",
+    "subCategory": "exam-couches",
+    "subCategoryName": "Consultation Examination Couches",
+    "sku": "PHX-EXM-ECDLX",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-teal-50 text-teal-700 border-teal-200",
+    "rating": "4.9",
+    "reviews": "53",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "3 Years Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Dimensions",
+        "val": "1900L × 700W × 800H mm"
+      },
+      {
+        "label": "Foam",
+        "val": "75mm High-Density Medical Foam"
+      },
+      {
+        "label": "Stirrups",
+        "val": "Integrated Fold-Out SS Stirrups"
+      },
+      {
+        "label": "Capacity",
+        "val": "220 kg Patient Safe Load"
+      }
+    ],
+    "img": "/images/products/phx-exam-couch-deluxe.jpg",
+    "features": [
+      "Smooth motorized or heavy gas-strut backrest and pelvic elevation",
+      "Extra-thick 75mm memory foam cushioning with medical grade vinyl covering",
+      "Built-in fold-out stainless steel lithotomy heel stirrups for gynaecological exams",
+      "Heavy steel structure supporting up to 220 kg patient load"
+    ],
+    "usage": "Install Examination Couch Deluxe (Adjustable Backrest) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-exam-couch-deluxe.png",
+    "galleryImages": [
+      "/images/products/phx-exam-couch-deluxe.png"
+    ]
+  },
+  {
+    "id": "phx-exam-food-table",
+    "name": "Food Table (Overbed Hydraulic Gas-Spring)",
+    "category": "examination-transport",
+    "categoryName": "03. Examination & Transport",
+    "subCategory": "ward-tables",
+    "subCategoryName": "Overbed Patient Dining Tables",
+    "sku": "PHX-EXM-OBT01",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-teal-50 text-teal-700 border-teal-200",
+    "rating": "4.9",
+    "reviews": "54",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "2 Years Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Table Top",
+        "val": "800 × 400 mm Spill-Proof Rim"
+      },
+      {
+        "label": "Height",
+        "val": "720 – 1020 mm (Gas-Spring Lift)"
+      },
+      {
+        "label": "Base",
+        "val": "Low-Clearance Steel U-Frame"
+      },
+      {
+        "label": "Castors",
+        "val": "50mm Silent Swivel Wheels"
+      }
+    ],
+    "img": "/images/products/phx-exam-food-table.jpg",
+    "features": [
+      "Gas-spring height adjustment from 72 cm to 102 cm with fingertip touch lever",
+      "Laminated wooden/ABS top plate with raised moulded edge preventing liquid spills",
+      "Low-clearance U-shaped base sliding easily beneath hospital beds and ICU frames",
+      "Twin 50mm smooth swivel castors with dual locking brakes"
+    ],
+    "usage": "Install Food Table (Overbed Hydraulic Gas-Spring) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-exam-food-table.png",
+    "galleryImages": [
+      "/images/products/phx-exam-food-table.png"
+    ]
+  },
+  {
+    "id": "phx-exam-footstep-single",
+    "name": "Foot Step - Single (Non-Slip SS Step)",
+    "category": "examination-transport",
+    "categoryName": "03. Examination & Transport",
+    "subCategory": "foot-steps",
+    "subCategoryName": "Patient Footsteps & Stools",
+    "sku": "PHX-EXM-FSS01",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-teal-50 text-teal-700 border-teal-200",
+    "rating": "4.9",
+    "reviews": "25",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "2 Years Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Top Size",
+        "val": "400 × 250 mm Step Surface"
+      },
+      {
+        "label": "Height",
+        "val": "230 mm Standard Step Height"
+      },
+      {
+        "label": "Material",
+        "val": "Grade 304 Stainless Steel"
+      },
+      {
+        "label": "Weight Load",
+        "val": "160 kg"
+      }
+    ],
+    "img": "/images/products/phx-exam-footstep-single.jpg",
+    "features": [
+      "Heavy-gauge tubular stainless steel frame with anti-tip splayed leg design",
+      "Top surface fitted with corrugated non-slip rubber mat secured by aluminium beading",
+      "Fitted with heavy-duty non-marking rubber suction shoes for ground stability",
+      "100% rust-proof and chemical resistant"
+    ],
+    "usage": "Install Foot Step - Single (Non-Slip SS Step) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-exam-footstep-single.png",
+    "galleryImages": [
+      "/images/products/phx-exam-footstep-single.png"
+    ]
+  },
+  {
+    "id": "phx-exam-footstep-double",
+    "name": "Foot Step - Double (Heavy-Duty Dual Step)",
+    "category": "examination-transport",
+    "categoryName": "03. Examination & Transport",
+    "subCategory": "foot-steps",
+    "subCategoryName": "Patient Footsteps & Stools",
+    "sku": "PHX-EXM-FSD02",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-teal-50 text-teal-700 border-teal-200",
+    "rating": "4.9",
+    "reviews": "26",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "2 Years Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Dimensions",
+        "val": "450W × 500D × 450H mm"
+      },
+      {
+        "label": "Step Levels",
+        "val": "2-Tier Gradual Elevation"
+      },
+      {
+        "label": "Frame",
+        "val": "Stainless Steel / Epoxy Steel"
+      },
+      {
+        "label": "Safe Load",
+        "val": "180 kg Capacity"
+      }
+    ],
+    "img": "/images/products/phx-exam-footstep-double.jpg",
+    "features": [
+      "2-tier step design providing comfortable, gradual elevation for frail patients",
+      "Reinforced tubular steel framework supporting up to 180 kg without deflection",
+      "Corrugated heavy rubber treads with anti-skid ribbed grooves on both steps",
+      "Anti-marking rubber floor pads preventing movement on polished hospital tiles"
+    ],
+    "usage": "Install Foot Step - Double (Heavy-Duty Dual Step) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-exam-footstep-double.png",
+    "galleryImages": [
+      "/images/products/phx-exam-footstep-double.png"
+    ]
+  },
+  {
+    "id": "phx-exam-folding-stretcher",
+    "name": "Folding Stretcher (2-Fold / 4-Fold Aluminium)",
+    "category": "examination-transport",
+    "categoryName": "03. Examination & Transport",
+    "subCategory": "stretchers",
+    "subCategoryName": "Emergency Field Stretchers",
+    "sku": "PHX-EXM-STRFLD",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-teal-50 text-teal-700 border-teal-200",
+    "rating": "4.9",
+    "reviews": "27",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "1 Year Replacement Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Unfolded Size",
+        "val": "2080L × 550W × 150H mm"
+      },
+      {
+        "label": "Folded Size",
+        "val": "1040L × 180W × 90H mm"
+      },
+      {
+        "label": "Weight",
+        "val": "5.2 kg (Ultra-Portable)"
+      },
+      {
+        "label": "Capacity",
+        "val": "160 kg Max Load"
+      }
+    ],
+    "img": "/images/products/phx-exam-folding-stretcher.jpg",
+    "features": [
+      "High-strength aluminium alloy framework supporting up to 160 kg patient load",
+      "Waterproof, anti-tear PVC-coated oxford fabric canvas resistant to blood and bodily fluids",
+      "Folds into compact carry bag with dual quick-release patient securing chest straps",
+      "Integrated rubberized non-slip carrying handles for four-rescuer transport"
+    ],
+    "usage": "Install Folding Stretcher (2-Fold / 4-Fold Aluminium) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-exam-folding-stretcher.png",
+    "galleryImages": [
+      "/images/products/phx-exam-folding-stretcher.png"
+    ]
+  },
+  {
+    "id": "phx-exam-ambulance-stretcher",
+    "name": "Ambulance Stretcher (Automatic Roll-In Lock)",
+    "category": "examination-transport",
+    "categoryName": "03. Examination & Transport",
+    "subCategory": "stretchers",
+    "subCategoryName": "Ambulance Roll-In Stretchers",
+    "sku": "PHX-EXM-STRAMB",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-teal-50 text-teal-700 border-teal-200",
+    "rating": "4.9",
+    "reviews": "28",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "2 Years Comprehensive",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "High Position",
+        "val": "1950L × 550W × 880H mm"
+      },
+      {
+        "label": "Low Position",
+        "val": "1950L × 550W × 250H mm"
+      },
+      {
+        "label": "Castors",
+        "val": "150mm Wide Rubber Ambulance Wheels"
+      },
+      {
+        "label": "Load Rating",
+        "val": "180 kg"
+      }
+    ],
+    "img": "/images/products/phx-exam-ambulance-stretcher.jpg",
+    "features": [
+      "Automatic mechanical folding legs triggered upon rolling into ambulance cargo bay",
+      "Multi-position adjustable backrest (0-75°) for cardiac and trauma patient positioning",
+      "Fold-down aluminium safety side rails protecting patient during rapid road transit",
+      "Includes vehicle floor locking bracket and waterproof thick PU foam mattress"
+    ],
+    "usage": "Install Ambulance Stretcher (Automatic Roll-In Lock) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-exam-ambulance-stretcher.png",
+    "galleryImages": [
+      "/images/products/phx-exam-ambulance-stretcher.png"
+    ]
+  },
+  {
+    "id": "phx-exam-scoop-stretcher",
+    "name": "Scoop Stretcher (Aluminium Orthopaedic Trauma)",
+    "category": "examination-transport",
+    "categoryName": "03. Examination & Transport",
+    "subCategory": "stretchers",
+    "subCategoryName": "Orthopaedic Scoop Stretchers",
+    "sku": "PHX-EXM-STRSCP",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-teal-50 text-teal-700 border-teal-200",
+    "rating": "4.9",
+    "reviews": "29",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "2 Years Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Adjustable Length",
+        "val": "1660 – 2050 mm (3 Length Locks)"
+      },
+      {
+        "label": "Folded Size",
+        "val": "1200 × 440 × 70 mm"
+      },
+      {
+        "label": "Weight",
+        "val": "8.5 kg (High-Tensile Aluminium)"
+      },
+      {
+        "label": "Capacity",
+        "val": "160 kg Max Load"
+      }
+    ],
+    "img": "/images/products/phx-exam-scoop-stretcher.jpg",
+    "features": [
+      "Dual-end precision clutch locks allowing separation into left and right halves",
+      "Thermally treated aluminium concave surface scooping patient with zero spinal twisting",
+      "Telescopic 3-stage length adjustment accommodating patients of various heights",
+      "Includes 3 quick-buckle patient immobilization restraint straps"
+    ],
+    "usage": "Install Scoop Stretcher (Aluminium Orthopaedic Trauma) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-exam-scoop-stretcher.png",
+    "galleryImages": [
+      "/images/products/phx-exam-scoop-stretcher.png"
+    ]
+  },
+  {
+    "id": "phx-exam-spine-board",
+    "name": "Spine Board (High-Density Polyethylene X-Ray)",
+    "category": "examination-transport",
+    "categoryName": "03. Examination & Transport",
+    "subCategory": "stretchers",
+    "subCategoryName": "Spine Boards & Immobilization",
+    "sku": "PHX-EXM-SPN01",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-teal-50 text-teal-700 border-teal-200",
+    "rating": "4.9",
+    "reviews": "30",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "2 Years Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Dimensions",
+        "val": "1840L × 450W × 50H mm"
+      },
+      {
+        "label": "Translucency",
+        "val": "100% X-Ray, CT & MRI Clear"
+      },
+      {
+        "label": "Weight",
+        "val": "7.0 kg"
+      },
+      {
+        "label": "Capacity",
+        "val": "180 kg Patient Capacity"
+      }
+    ],
+    "img": "/images/products/phx-exam-spine-board.jpg",
+    "features": [
+      "100% X-Ray, CT, and MRI translucent allowing radiological imaging without removing patient",
+      "Seamless high-density polyethylene (HDPE) shell that does not absorb blood or bodily fluids",
+      "14 oversized peripheral handhold slots compatible with head immobilizers and spider straps",
+      "Buoyant in water for aquatic emergency rescue operations"
+    ],
+    "usage": "Install Spine Board (High-Density Polyethylene X-Ray) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-exam-spine-board.png",
+    "galleryImages": [
+      "/images/products/phx-exam-spine-board.png"
+    ]
+  },
+  {
+    "id": "phx-stretcher-trolley",
+    "name": "Stretcher Trolley (Hydraulic Emergency)",
+    "category": "trolleys-ward",
+    "categoryName": "04. Trolleys & Ward Support",
+    "subCategory": "stretcher-trolleys",
+    "subCategoryName": "Emergency Stretcher Trolleys",
+    "sku": "PHX-TRL-STRHYD",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-indigo-50 text-indigo-700 border-indigo-200",
+    "rating": "4.9",
+    "reviews": "31",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "2 Years Comprehensive Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Elevation",
+        "val": "Hydraulic Dual-Pedal (580–900mm)"
+      },
+      {
+        "label": "Tilt",
+        "val": "±15° Trendelenburg / Rev. Trend."
+      },
+      {
+        "label": "Castors",
+        "val": "200mm Central Locking + 5th Wheel"
+      },
+      {
+        "label": "Side Rails",
+        "val": "Full-Length Fold-Down SS Rails"
+      }
+    ],
+    "img": "/images/products/phx-stretcher-trolley.jpg",
+    "features": [
+      "Dual-sided foot pedal hydraulic height adjustment (Hi-Lo: 580mm – 900mm)",
+      "Instant pneumatic gas-spring Trendelenburg (0-15°) and Reverse Trendelenburg (0-15°) tilt",
+      "Full-length fold-down stainless steel side rails with safety locking latch",
+      "Central braking system with 200mm anti-static castors and 5th steering wheel for narrow corners"
+    ],
+    "usage": "Install Stretcher Trolley (Hydraulic Emergency) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-stretcher-trolley.png",
+    "galleryImages": [
+      "/images/products/phx-stretcher-trolley.png"
+    ]
+  },
+  {
+    "id": "phx-trl-ambulance",
+    "name": "Ambulance Trolley (Stainless Steel Patient Transfer)",
+    "category": "trolleys-ward",
+    "categoryName": "04. Trolleys & Ward Support",
+    "subCategory": "transfer-trolleys",
+    "subCategoryName": "Patient Transfer Trolleys",
+    "sku": "PHX-TRL-AMB01",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-indigo-50 text-indigo-700 border-indigo-200",
+    "rating": "4.9",
+    "reviews": "32",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "2 Years Frame Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Dimensions",
+        "val": "1950L × 650W × 800H mm"
+      },
+      {
+        "label": "Structure",
+        "val": "Grade 304 Stainless Steel"
+      },
+      {
+        "label": "Stretcher Deck",
+        "val": "Detachable Top with Safety Locks"
+      },
+      {
+        "label": "Castors",
+        "val": "150mm High-Grade PU Swivel"
+      }
+    ],
+    "img": "/images/products/phx-trl-ambulance.jpg",
+    "features": [
+      "Detachable top stretcher tray with side grab handles and rubber feet",
+      "Full-length collapsible safety side rails with positive locking pins",
+      "Bottom utility rack for oxygen cylinder, patient monitors, and chart files",
+      "150mm heavy-duty swivel castors with diagonal wheel brakes"
+    ],
+    "usage": "Install Ambulance Trolley (Stainless Steel Patient Transfer) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-trl-ambulance.png",
+    "galleryImages": [
+      "/images/products/phx-trl-ambulance.png"
+    ]
+  },
+  {
+    "id": "phx-trl-cylinder",
+    "name": "Cylinder Trolley (Oxygen Cylinder Cart)",
+    "category": "trolleys-ward",
+    "categoryName": "04. Trolleys & Ward Support",
+    "subCategory": "cylinder-trolleys",
+    "subCategoryName": "Gas Cylinder Transport Carts",
+    "sku": "PHX-TRL-CYL01",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-indigo-50 text-indigo-700 border-indigo-200",
+    "rating": "4.9",
+    "reviews": "33",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "2 Years Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Capacity",
+        "val": "1x Large (D-Type) or 2x Small (B-Type)"
+      },
+      {
+        "label": "Wheels",
+        "val": "200mm Solid Rubber Wheels"
+      },
+      {
+        "label": "Safety",
+        "val": "Quick-Locking High-Tensile Chain"
+      },
+      {
+        "label": "Finish",
+        "val": "Epoxy Polyester Powder Coated"
+      }
+    ],
+    "img": "/images/products/phx-trl-cylinder.jpg",
+    "features": [
+      "Curved cradle with heavy zinc-plated safety chain locking cylinder firmly in place",
+      "Large 200mm solid rubber transit wheels navigating elevator thresholds and rough ramps",
+      "Ergonomic curved push handle with anti-slip rubber handgrips",
+      "Pre-treated anti-rust epoxy powder coating resistant to oxygen oxidation"
+    ],
+    "usage": "Install Cylinder Trolley (Oxygen Cylinder Cart) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-trl-cylinder.png",
+    "galleryImages": [
+      "/images/products/phx-trl-cylinder.png"
+    ]
+  },
+  {
+    "id": "phx-trl-instrument",
+    "name": "Instrument Trolley (2-Tier SS304 Surgical)",
+    "category": "trolleys-ward",
+    "categoryName": "04. Trolleys & Ward Support",
+    "subCategory": "instrument-trolleys",
+    "subCategoryName": "Surgical Instrument Trolleys",
+    "sku": "PHX-TRL-INS02",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-indigo-50 text-indigo-700 border-indigo-200",
+    "rating": "4.9",
+    "reviews": "34",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "3 Years SS Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Dimensions",
+        "val": "680L × 450W × 850H mm"
+      },
+      {
+        "label": "Material",
+        "val": "100% SS304 Stainless Steel"
+      },
+      {
+        "label": "Shelves",
+        "val": "2-Tier with 3-Sided Guard Rails"
+      },
+      {
+        "label": "Castors",
+        "val": "75mm Noiseless Swivel Wheels"
+      }
+    ],
+    "img": "/images/products/phx-trl-instrument.jpg",
+    "features": [
+      "Top and bottom shelves fabricated from seamless Grade 304 stainless steel sheets",
+      "3-sided stainless steel raised guard rails on both shelves preventing instrument roll-off",
+      "Mounted on 75mm or 100mm ultra-smooth noiseless anti-static swivel castors",
+      "Completely autoclavable, non-magnetic, and resistant to corrosive surgical disinfectants"
+    ],
+    "usage": "Install Instrument Trolley (2-Tier SS304 Surgical) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-trl-instrument.png",
+    "galleryImages": [
+      "/images/products/phx-trl-instrument.png"
+    ]
+  },
+  {
+    "id": "phx-trl-instrument-3shelf",
+    "name": "Instrument Trolley - 3 Shelves (SS304 Utility)",
+    "category": "trolleys-ward",
+    "categoryName": "04. Trolleys & Ward Support",
+    "subCategory": "instrument-trolleys",
+    "subCategoryName": "Surgical Instrument Trolleys",
+    "sku": "PHX-TRL-INS03",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-indigo-50 text-indigo-700 border-indigo-200",
+    "rating": "4.9",
+    "reviews": "35",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "3 Years SS Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Dimensions",
+        "val": "750L × 500W × 950H mm"
+      },
+      {
+        "label": "Shelves",
+        "val": "3-Tier SS304 Shelves with Rails"
+      },
+      {
+        "label": "Castors",
+        "val": "100mm Swivel with Dual Brakes"
+      },
+      {
+        "label": "Load Rating",
+        "val": "100 kg Total Capacity"
+      }
+    ],
+    "img": "/images/products/phx-trl-instrument-3shelf.jpg",
+    "features": [
+      "3 generous stainless steel shelves with 3-sided protective retaining rails on each tier",
+      "Heavy-gauge 1.2mm SS304 construction supporting up to 100 kg distributed load",
+      "Ergonomic dual push handles integrated into side framework",
+      "100mm precision ball-bearing swivel castors with diagonal locking foot brakes"
+    ],
+    "usage": "Install Instrument Trolley - 3 Shelves (SS304 Utility) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-trl-instrument-3shelf.png",
+    "galleryImages": [
+      "/images/products/phx-trl-instrument-3shelf.png"
+    ]
+  },
+  {
+    "id": "phx-trl-instrument-box",
+    "name": "Instrument Trolley - Box Type (Lockable Drawers)",
+    "category": "trolleys-ward",
+    "categoryName": "04. Trolleys & Ward Support",
+    "subCategory": "instrument-trolleys",
+    "subCategoryName": "Surgical Instrument Trolleys",
+    "sku": "PHX-TRL-INSBX",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-indigo-50 text-indigo-700 border-indigo-200",
+    "rating": "4.9",
+    "reviews": "36",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "2 Years Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Dimensions",
+        "val": "700L × 500W × 900H mm"
+      },
+      {
+        "label": "Drawers",
+        "val": "2 Lockable Telescopic Drawers"
+      },
+      {
+        "label": "Material",
+        "val": "Grade 304 Stainless Steel"
+      },
+      {
+        "label": "Accessories",
+        "val": "Integrated SS Bowl Ring"
+      }
+    ],
+    "img": "/images/products/phx-trl-instrument-box.jpg",
+    "features": [
+      "Top stainless steel working tray with 3-sided safety retaining rim",
+      "2 smooth sliding storage drawers on ball-bearing telescopic runners with central key lock",
+      "Lower open shelf for storing larger dressing drums and kidney trays",
+      "Includes swivel basin holder ring for sterile hand wash or antiseptic bowl"
+    ],
+    "usage": "Install Instrument Trolley - Box Type (Lockable Drawers) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-trl-instrument-box.png",
+    "galleryImages": [
+      "/images/products/phx-trl-instrument-box.png"
+    ]
+  },
+  {
+    "id": "phx-trl-dressing",
+    "name": "Dressing Trolley (With SS Bowl & Waste Bucket)",
+    "category": "trolleys-ward",
+    "categoryName": "04. Trolleys & Ward Support",
+    "subCategory": "dressing-trolleys",
+    "subCategoryName": "Clinical Dressing Trolleys",
+    "sku": "PHX-TRL-DRS01",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-indigo-50 text-indigo-700 border-indigo-200",
+    "rating": "4.9",
+    "reviews": "37",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "2 Years Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Dimensions",
+        "val": "760L × 460W × 860H mm"
+      },
+      {
+        "label": "Bowl",
+        "val": "300mm SS304 Antiseptic Bowl"
+      },
+      {
+        "label": "Bucket",
+        "val": "Removable SS Waste Bucket"
+      },
+      {
+        "label": "Castors",
+        "val": "100mm Anti-Static Swivel Wheels"
+      }
+    ],
+    "img": "/images/products/phx-trl-dressing.jpg",
+    "features": [
+      "Dual SS304 shelves with 3-sided raised protective guard rails",
+      "Swing-out stainless steel ring fitted with 300mm antiseptic wash bowl",
+      "Lower swing-out ring fitted with removable stainless steel waste collection bucket",
+      "100mm anti-static medical swivel castors with dual diagonal brakes"
+    ],
+    "usage": "Install Dressing Trolley (With SS Bowl & Waste Bucket) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-trl-dressing.png",
+    "galleryImages": [
+      "/images/products/phx-trl-dressing.png"
+    ]
+  },
+  {
+    "id": "phx-trl-biowaste",
+    "name": "Bio Waste Trolley (Color-Coded Hospital Infection)",
+    "category": "trolleys-ward",
+    "categoryName": "04. Trolleys & Ward Support",
+    "subCategory": "biowaste-trolleys",
+    "subCategoryName": "Biomedical Waste Trolleys",
+    "sku": "PHX-TRL-BIO01",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-indigo-50 text-indigo-700 border-indigo-200",
+    "rating": "4.9",
+    "reviews": "38",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "2 Years Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Bins",
+        "val": "2, 3 or 4-Bin Configurations"
+      },
+      {
+        "label": "Operation",
+        "val": "Hands-Free Foot Pedal Lid"
+      },
+      {
+        "label": "Capacity",
+        "val": "30L to 60L per Bin"
+      },
+      {
+        "label": "Compliance",
+        "val": "BMW Rules 2016 Certified"
+      }
+    ],
+    "img": "/images/products/phx-trl-biowaste.jpg",
+    "features": [
+      "Color-coded high-impact virgin plastic bins (Yellow, Red, Blue, Black) with biohazard symbols",
+      "Hands-free foot pedal lid opening mechanism preventing cross-contamination",
+      "Heavy-duty tubular stainless steel / epoxy coated mobile cart chassis",
+      "100mm non-marking heavy rubber swivel castors with locking brakes"
+    ],
+    "usage": "Install Bio Waste Trolley (Color-Coded Hospital Infection) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-trl-biowaste.png",
+    "galleryImages": [
+      "/images/products/phx-trl-biowaste.png"
+    ]
+  },
+  {
+    "id": "phx-trl-food",
+    "name": "Food Trolley (Multi-Shelf Stainless Steel Diet)",
+    "category": "trolleys-ward",
+    "categoryName": "04. Trolleys & Ward Support",
+    "subCategory": "diet-trolleys",
+    "subCategoryName": "Hospital Diet Distribution Carts",
+    "sku": "PHX-TRL-FD01",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-indigo-50 text-indigo-700 border-indigo-200",
+    "rating": "4.9",
+    "reviews": "39",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "3 Years Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Capacity",
+        "val": "12 to 24 Meal Trays"
+      },
+      {
+        "label": "Material",
+        "val": "Grade 304 Heavy Stainless Steel"
+      },
+      {
+        "label": "Doors",
+        "val": "Double Leaf Insulated Doors"
+      },
+      {
+        "label": "Castors",
+        "val": "150mm Heavy-Duty PU Wheels"
+      }
+    ],
+    "img": "/images/products/phx-trl-food.jpg",
+    "features": [
+      "Enclosed Grade 304 stainless steel cabinet with lockable double-leaf doors",
+      "Multi-tier internal shelf runners accommodating 12 to 24 standard hospital meal trays",
+      "Push-pull wrap-around heavy rubber bumper protecting walls and elevator doors",
+      "150mm heavy-duty polyurethane swivel castors with central locking brakes"
+    ],
+    "usage": "Install Food Trolley (Multi-Shelf Stainless Steel Diet) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-trl-food.png",
+    "galleryImages": [
+      "/images/products/phx-trl-food.png"
+    ]
+  },
+  {
+    "id": "phx-trl-iv-stand",
+    "name": "I.V. Stand (SS304 Heavy Cast Base 4-Hook)",
+    "category": "trolleys-ward",
+    "categoryName": "04. Trolleys & Ward Support",
+    "subCategory": "iv-stands",
+    "subCategoryName": "Intravenous Infusion Stands",
+    "sku": "PHX-TRL-IV01",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-indigo-50 text-indigo-700 border-indigo-200",
+    "rating": "4.9",
+    "reviews": "40",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "2 Years Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Height Range",
+        "val": "1350 – 2400 mm Telescopic"
+      },
+      {
+        "label": "Hooks",
+        "val": "4 Stainless Steel Infusion Hooks"
+      },
+      {
+        "label": "Base",
+        "val": "Heavy 5-Legged Cast Iron Base"
+      },
+      {
+        "label": "Pole Diameter",
+        "val": "25mm / 19mm SS304 Tubes"
+      }
+    ],
+    "img": "/images/products/phx-trl-iv-stand.jpg",
+    "features": [
+      "Heavy 5-prong cast iron base with low center of gravity preventing tip-over",
+      "Grade 304 stainless steel telescopic pole adjusting height from 135 cm to 240 cm",
+      "4 stainless steel heavy-duty pig-tail bottle hooks supporting infusion bottles and pump brackets",
+      "Smooth 50mm non-marking twin swivel castors with anti-hair tangle design"
+    ],
+    "usage": "Install I.V. Stand (SS304 Heavy Cast Base 4-Hook) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-trl-iv-stand.png",
+    "galleryImages": [
+      "/images/products/phx-trl-iv-stand.png"
+    ]
+  },
+  {
+    "id": "phx-trl-bed-panels",
+    "name": "Hospital Bed Panels (Detachable ABS Head/Foot Bows)",
+    "category": "trolleys-ward",
+    "categoryName": "04. Trolleys & Ward Support",
+    "subCategory": "bed-accessories",
+    "subCategoryName": "Hospital Bed Spare Parts",
+    "sku": "PHX-TRL-PNL01",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-indigo-50 text-indigo-700 border-indigo-200",
+    "rating": "4.9",
+    "reviews": "41",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "2 Years Replacement Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Material",
+        "val": "100% High-Impact Virgin ABS"
+      },
+      {
+        "label": "Mounting",
+        "val": "Universal Dual Prong Latches"
+      },
+      {
+        "label": "Features",
+        "val": "Corner Bumpers + Chart Pocket"
+      },
+      {
+        "label": "Dimensions",
+        "val": "940W × 520H mm (Standard)"
+      }
+    ],
+    "img": "/images/products/phx-trl-bed-panels.jpg",
+    "features": [
+      "High-impact virgin ABS polymer construction resistant to impact and hospital disinfectants",
+      "Quick-release dual locking levers for instant removal during emergency intubation / CPR",
+      "Integrated corner bumper rollers protecting hospital walls during bed repositioning",
+      "Universal tubular mounting prongs compatible with standard hospital bed frames"
+    ],
+    "usage": "Install Hospital Bed Panels (Detachable ABS Head/Foot Bows) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-trl-bed-panels.png",
+    "galleryImages": [
+      "/images/products/phx-trl-bed-panels.png"
+    ]
+  },
+  {
+    "id": "phx-trl-bed-railing",
+    "name": "Hospital Bed Railing (Collapsible Aluminium Safety Guard)",
+    "category": "trolleys-ward",
+    "categoryName": "04. Trolleys & Ward Support",
+    "subCategory": "bed-accessories",
+    "subCategoryName": "Hospital Bed Spare Parts",
+    "sku": "PHX-TRL-RLG01",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-indigo-50 text-indigo-700 border-indigo-200",
+    "rating": "4.9",
+    "reviews": "42",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "2 Years Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Length",
+        "val": "1480 mm Extended Length"
+      },
+      {
+        "label": "Height",
+        "val": "380 mm Safety Elevation"
+      },
+      {
+        "label": "Material",
+        "val": "Aluminium Alloy & SS Connectors"
+      },
+      {
+        "label": "Operation",
+        "val": "1-Touch Red Button Release"
+      }
+    ],
+    "img": "/images/products/phx-trl-bed-railing.jpg",
+    "features": [
+      "6-pipe heavy aluminium alloy construction with stainless steel connecting brackets",
+      "One-touch quick-release red push button for single-hand lowering by nurses",
+      "Raises and locks automatically with positive audible safety click",
+      "Universal clamp brackets fitting both rectangular and tubular bed chassis frames"
+    ],
+    "usage": "Install Hospital Bed Railing (Collapsible Aluminium Safety Guard) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-trl-bed-railing.png",
+    "galleryImages": [
+      "/images/products/phx-trl-bed-railing.png"
+    ]
+  },
+  {
+    "id": "phx-mon-mindray",
+    "name": "Patient Monitor - 3 Para / uMEC 10",
+    "category": "diagnostic-monitoring",
+    "categoryName": "05. Diagnostic & Monitoring",
+    "subCategory": "patient-monitors",
+    "subCategoryName": "Multiparameter Patient Monitors",
+    "sku": "PHX-MON-UMEC10",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-amber-50 text-amber-800 border-amber-200",
+    "rating": "4.9",
+    "reviews": "43",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "2 Years Comprehensive Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Display",
+        "val": "10.4-inch High-Resolution Color LED"
+      },
+      {
+        "label": "Parameters",
+        "val": "ECG, SpO2, NIBP, 2-Temp, PR, Resp"
+      },
+      {
+        "label": "Battery",
+        "val": "4-Hour High-Capacity Li-ion"
+      },
+      {
+        "label": "Arrhythmia",
+        "val": "33 Advanced Classifications"
+      }
+    ],
+    "img": "/images/products/phx-mon-mindray.jpg",
+    "features": [
+      "10.4-inch high-resolution anti-glare color LED screen with customizable waveform displays",
+      "Patented Mindray ECG algorithm with 33 arrhythmia classifications and ST segment analysis",
+      "Anti-motion SpO2 technology ensuring accurate blood oxygen readings in low perfusion patients",
+      "Fanless cooling architecture preventing dust accumulation and sterile ICU cross-infection"
+    ],
+    "usage": "Install Patient Monitor - 3 Para / uMEC 10 per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-mon-mindray.png",
+    "galleryImages": [
+      "/images/products/phx-mon-mindray.png"
+    ]
+  },
+  {
+    "id": "phx-mon-contec",
+    "name": "Patient Monitor - 5 Para (Contec CMS8000)",
+    "category": "diagnostic-monitoring",
+    "categoryName": "05. Diagnostic & Monitoring",
+    "subCategory": "patient-monitors",
+    "subCategoryName": "Multiparameter Patient Monitors",
+    "sku": "PHX-MON-CMS8000",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-amber-50 text-amber-800 border-amber-200",
+    "rating": "4.9",
+    "reviews": "44",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "2 Years Comprehensive Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Screen",
+        "val": "12.1-inch Color TFT Display"
+      },
+      {
+        "label": "Parameters",
+        "val": "5-Lead ECG, SpO2, NIBP, 2-Temp, Resp"
+      },
+      {
+        "label": "Memory",
+        "val": "480-Hour Trend Review"
+      },
+      {
+        "label": "Safety",
+        "val": "Defibrillation-Proof Protection"
+      }
+    ],
+    "img": "/images/products/phx-mon-contec.jpg",
+    "features": [
+      "12.1-inch color TFT display with 8-channel waveforms and big-font ICU viewing mode",
+      "Multi-parameter tracking: 5-Lead ECG, Dual Temperature, Digital SpO2, NIBP, Respiration & Pulse",
+      "480-hour trend data storage and 1000-group NIBP measurement memory review",
+      "Built-in rechargeable lithium battery supporting continuous 3.5-hour transport monitoring"
+    ],
+    "usage": "Install Patient Monitor - 5 Para (Contec CMS8000) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-mon-contec.png",
+    "galleryImages": [
+      "/images/products/phx-mon-contec.png"
+    ]
+  },
+  {
+    "id": "phx-diag-fetal-monitor",
+    "name": "Fetal Monitor (Antepartum Twin FHR & TOCO CTG)",
+    "category": "diagnostic-monitoring",
+    "categoryName": "05. Diagnostic & Monitoring",
+    "subCategory": "fetal-monitors",
+    "subCategoryName": "Cardiotocography (CTG) Monitors",
+    "sku": "PHX-MON-FETAL",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-amber-50 text-amber-800 border-amber-200",
+    "rating": "4.9",
+    "reviews": "45",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "2 Years Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Screen",
+        "val": "10.2-inch Color Folding LCD"
+      },
+      {
+        "label": "Transducer",
+        "val": "12-Crystal 1.0MHz Waterproof Probes"
+      },
+      {
+        "label": "Parameters",
+        "val": "Twin FHR1, FHR2, TOCO, AFM, Fetal Movement"
+      },
+      {
+        "label": "Recorder",
+        "val": "152mm Built-in Thermal Printer"
+      }
+    ],
+    "img": "/images/products/phx-diag-fetal-monitor.jpg",
+    "features": [
+      "10.2-inch folding high-definition color TFT screen with 90-degree angle tilt",
+      "High-sensitivity 1.0 MHz 12-crystal waterproof pulsed Doppler ultrasound probes",
+      "Simultaneous monitoring of twin FHR (Fetal Heart Rate), uterine TOCO contractions, and AFM",
+      "Built-in 152mm high-speed thermal paper chart recorder with real-time grid printing"
+    ],
+    "usage": "Install Fetal Monitor (Antepartum Twin FHR & TOCO CTG) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-diag-fetal-monitor.png",
+    "galleryImages": [
+      "/images/products/phx-diag-fetal-monitor.png"
+    ]
+  },
+  {
+    "id": "phx-ecg-bpl",
+    "name": "E.C.G Machine (BPL Cardiart 12/6 Channel)",
+    "category": "diagnostic-monitoring",
+    "categoryName": "05. Diagnostic & Monitoring",
+    "subCategory": "ecg-machines",
+    "subCategoryName": "Electrocardiograph Machines",
+    "sku": "PHX-ECG-BPL6108",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-amber-50 text-amber-800 border-amber-200",
+    "rating": "4.9",
+    "reviews": "46",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "2 Years On-Site Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Leads",
+        "val": "12-Lead Simultaneous Acquisition"
+      },
+      {
+        "label": "Interpretation",
+        "val": "Glasgow Automated Diagnosis"
+      },
+      {
+        "label": "Display",
+        "val": "5.7-inch High-Contrast LCD"
+      },
+      {
+        "label": "Printer",
+        "val": "Built-in High-Resolution Thermal"
+      }
+    ],
+    "img": "/images/products/phx-ecg-bpl.jpg",
+    "features": [
+      "Simultaneous 12-lead acquisition with digital baseline drift and AC interference filters",
+      "World-renowned Glasgow University ECG interpretation algorithm for automated arrhythmia diagnosis",
+      "5.7-inch high-contrast LCD displaying real-time 12-lead electrocardiogram waveforms",
+      "Built-in high-resolution thermal printer with roll and Z-fold paper support"
+    ],
+    "usage": "Install E.C.G Machine (BPL Cardiart 12/6 Channel) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-ecg-bpl.png",
+    "galleryImages": [
+      "/images/products/phx-ecg-bpl.png"
+    ]
+  },
+  {
+    "id": "phx-defib-biphasic",
+    "name": "Defibrillator (Biphasic Defibrillator & Monitor)",
+    "category": "diagnostic-monitoring",
+    "categoryName": "05. Diagnostic & Monitoring",
+    "subCategory": "defibrillators",
+    "subCategoryName": "Biphasic Defibrillators",
+    "sku": "PHX-DEF-LP20",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-amber-50 text-amber-800 border-amber-200",
+    "rating": "4.9",
+    "reviews": "47",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "2 Years Comprehensive",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Energy Range",
+        "val": "2 to 360 Joules Biphasic Waveform"
+      },
+      {
+        "label": "Charge Time",
+        "val": "< 5s to 200J / < 8s to 360J"
+      },
+      {
+        "label": "Pacing",
+        "val": "Transcutaneous Demand & Fixed Pacer"
+      },
+      {
+        "label": "Paddles",
+        "val": "External Adult/Pediatric Convertible"
+      }
+    ],
+    "img": "/images/products/phx-defib-biphasic.jpg",
+    "features": [
+      "Biphasic energy escalation up to 360 Joules with rapid charge time (< 5 seconds to 200J)",
+      "3-in-1 functionality: Manual Defibrillation, Automated External Defibrillator (AED), and Synchronized Cardioversion",
+      "Non-invasive transcutaneous pacemaker with demand and fixed pacing modes",
+      "Color TFT monitor displaying ECG, Heart Rate, SpO2, and automated event log"
+    ],
+    "usage": "Install Defibrillator (Biphasic Defibrillator & Monitor) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-defib-biphasic.png",
+    "galleryImages": [
+      "/images/products/phx-defib-biphasic.png"
+    ]
+  },
+  {
+    "id": "phx-defib-aed",
+    "name": "Automatic External Defibrillator (Biphasic AED Voice)",
+    "category": "diagnostic-monitoring",
+    "categoryName": "05. Diagnostic & Monitoring",
+    "subCategory": "defibrillators",
+    "subCategoryName": "Automated External Defibrillators",
+    "sku": "PHX-DEF-AED01",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-amber-50 text-amber-800 border-amber-200",
+    "rating": "4.9",
+    "reviews": "48",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "5 Years Unit Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Waveform",
+        "val": "Biphasic Truncated Exponential (BTE)"
+      },
+      {
+        "label": "Voice Guide",
+        "val": "Step-by-Step Audio Guidance & Metronome"
+      },
+      {
+        "label": "Battery Life",
+        "val": "5 Years Standby / 200+ Shocks"
+      },
+      {
+        "label": "Pads",
+        "val": "Pre-Connected Universal Smart Pads"
+      }
+    ],
+    "img": "/images/products/phx-defib-aed.jpg",
+    "features": [
+      "Real-time voice and visual CPR metronome coaching rescuer through compression depth and rate",
+      "Daily, weekly, and monthly automated self-tests ensuring device readiness at all times",
+      "Pre-connected universal smart defibrillation pads suitable for adult and paediatric victims",
+      "Long-life medical grade lithium battery pack with 5-year standby warranty"
+    ],
+    "usage": "Install Automatic External Defibrillator (Biphasic AED Voice) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-defib-aed.png",
+    "galleryImages": [
+      "/images/products/phx-defib-aed.png"
+    ]
+  },
+  {
+    "id": "phx-pump-syringe",
+    "name": "Syringe Pump (Micro-Precision Infusion)",
+    "category": "diagnostic-monitoring",
+    "categoryName": "05. Diagnostic & Monitoring",
+    "subCategory": "infusion-pumps",
+    "subCategoryName": "Precision Syringe Pumps",
+    "sku": "PHX-PMP-SYR50",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-amber-50 text-amber-800 border-amber-200",
+    "rating": "4.9",
+    "reviews": "49",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "2 Years Comprehensive",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Flow Rate",
+        "val": "0.01 – 1500 ml/h (0.01 ml/h Increments)"
+      },
+      {
+        "label": "Accuracy",
+        "val": "±2% Mechanical Dosing Accuracy"
+      },
+      {
+        "label": "Syringes",
+        "val": "5ml, 10ml, 20ml, 30ml, 50/60ml Universal"
+      },
+      {
+        "label": "Battery",
+        "val": "8-Hour Rechargeable Li-ion"
+      }
+    ],
+    "img": "/images/products/phx-pump-syringe.jpg",
+    "features": [
+      "Universal syringe auto-calibration compatible with all standard 5ml, 10ml, 20ml, 30ml, 50/60ml brands",
+      "Ultra-precise flow delivery: 0.01 ml/h to 1500 ml/h with ±2% clinical dosing accuracy",
+      "Anti-bolus technology releasing trapped pressure automatically upon occlusion alarm",
+      "Dual microprocessors cross-checking infusion parameters continuously for zero-error delivery"
+    ],
+    "usage": "Install Syringe Pump (Micro-Precision Infusion) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-pump-syringe.png",
+    "galleryImages": [
+      "/images/products/phx-pump-syringe.png"
+    ]
+  },
+  {
+    "id": "phx-pump-volumetric",
+    "name": "Volumetric IV Infusion Pump (MediPump VP-5000)",
+    "category": "diagnostic-monitoring",
+    "categoryName": "05. Diagnostic & Monitoring",
+    "subCategory": "infusion-pumps",
+    "subCategoryName": "Volumetric Infusion Pumps",
+    "sku": "PHX-PMP-VOL500",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-amber-50 text-amber-800 border-amber-200",
+    "rating": "4.9",
+    "reviews": "50",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "2 Years Comprehensive",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Flow Rate Range",
+        "val": "0.1 – 1200 ml/h"
+      },
+      {
+        "label": "Air Detection",
+        "val": "Ultrasonic Sensor (≥ 25 μL Air Bubble)"
+      },
+      {
+        "label": "Occlusion",
+        "val": "11-Level Adjustable Pressure Limits"
+      },
+      {
+        "label": "Battery",
+        "val": "6-Hour Transport Operation"
+      }
+    ],
+    "img": "/images/products/phx-pump-volumetric.jpg",
+    "features": [
+      "Peristaltic pumping mechanism compatible with all universal standard IV infusion tubing sets",
+      "Ultrasonic bubble sensor detecting micro-air bubbles down to 25 microliters in the IV line",
+      "Integrated clinical drug library with programmable soft and hard dosage safety limits",
+      "Bright color LCD with numeric keypad for rapid infusion rate and VTBI programming"
+    ],
+    "usage": "Install Volumetric IV Infusion Pump (MediPump VP-5000) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-pump-volumetric.png",
+    "galleryImages": [
+      "/images/products/phx-pump-volumetric.png"
+    ]
+  },
+  {
+    "id": "phx-usg-doppler",
+    "name": "Portable Ultrasound Scanner (Color Doppler)",
+    "category": "diagnostic-monitoring",
+    "categoryName": "05. Diagnostic & Monitoring",
+    "subCategory": "ultrasound",
+    "subCategoryName": "Color Doppler Ultrasound Scanners",
+    "sku": "PHX-USG-VGO",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-amber-50 text-amber-800 border-amber-200",
+    "rating": "4.9",
+    "reviews": "51",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "2 Years Probe & Unit Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Display",
+        "val": "15-inch Medical Grade LCD"
+      },
+      {
+        "label": "Imaging Modes",
+        "val": "B, M, CFM, PDI, PW, CW, Duplex"
+      },
+      {
+        "label": "Probes",
+        "val": "Convex, Linear, Phased Array, Transvaginal"
+      },
+      {
+        "label": "Storage",
+        "val": "500GB SSD + DICOM 3.0 Network Ready"
+      }
+    ],
+    "img": "/images/products/phx-usg-doppler.jpg",
+    "features": [
+      "15-inch high-resolution anti-glare medical display with 180-degree wide viewing angle",
+      "Advanced imaging modes: B, 2B, 4B, M, Color Doppler (CFM), Power Doppler (PDI), Pulse Wave (PW)",
+      "Dual active probe ports with instant electronic transducer switching",
+      "Comprehensive automated clinical measurement packages for OB/GYN, Cardiology & Urology"
+    ],
+    "usage": "Install Portable Ultrasound Scanner (Color Doppler) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-usg-doppler.png",
+    "galleryImages": [
+      "/images/products/phx-usg-doppler.png"
+    ]
+  },
+  {
+    "id": "phx-cautery-esu",
+    "name": "Cautery Machine (400W Electrosurgical Unit)",
+    "category": "diagnostic-monitoring",
+    "categoryName": "05. Diagnostic & Monitoring",
+    "subCategory": "cautery-machines",
+    "subCategoryName": "Electrosurgical Generators",
+    "sku": "PHX-SURG-ESU400",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-amber-50 text-amber-800 border-amber-200",
+    "rating": "4.9",
+    "reviews": "52",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "2 Years Comprehensive",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Max Power",
+        "val": "400 Watts Monopolar / 120 Watts Bipolar"
+      },
+      {
+        "label": "Modes",
+        "val": "Pure Cut, Blend 1/2, Coag, Spray, Bipolar"
+      },
+      {
+        "label": "Safety",
+        "val": "CQM Active Return Electrode Monitor"
+      },
+      {
+        "label": "Control",
+        "val": "Dual Foot Switch + Handswitch Pencil"
+      }
+    ],
+    "img": "/images/products/phx-cautery-esu.jpg",
+    "features": [
+      "400 Watts maximum output power with pure cut, blend cut, fulguration, and spray coagulation modes",
+      "High-performance Bipolar micro and macro coagulation for delicate neurosurgery and microsurgery",
+      "REM / CQM patient return electrode monitoring system shutting off RF power upon pad detachment",
+      "Integrated memory presets for storing custom surgeon and procedure power settings"
+    ],
+    "usage": "Install Cautery Machine (400W Electrosurgical Unit) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-cautery-esu.png",
+    "galleryImages": [
+      "/images/products/phx-cautery-esu.png"
+    ]
+  },
+  {
+    "id": "phx-diag-needle-cutter",
+    "name": "Needle Cutter (Electric Syringe Destroyer & Hub Cutter)",
+    "category": "diagnostic-monitoring",
+    "categoryName": "05. Diagnostic & Monitoring",
+    "subCategory": "waste-cutters",
+    "subCategoryName": "Needle & Syringe Destroyers",
+    "sku": "PHX-DIAG-NC01",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-amber-50 text-amber-800 border-amber-200",
+    "rating": "4.9",
+    "reviews": "53",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "1 Year Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Melting Temp",
+        "val": "1400°C Instant Electrical Arcing"
+      },
+      {
+        "label": "Cycle Time",
+        "val": "1.5 – 2.0 Seconds per Needle"
+      },
+      {
+        "label": "Power",
+        "val": "220V 50Hz with Overheat Fuse"
+      },
+      {
+        "label": "Blade",
+        "val": "High-Hardness Stainless Alloy Cutter"
+      }
+    ],
+    "img": "/images/products/phx-diag-needle-cutter.jpg",
+    "features": [
+      "Instant electrical melting of needle within 1.5 seconds, reducing steel needle to sterile ash",
+      "Heavy-duty hardened alloy blade for manual cutting of syringe plastic hub",
+      "Removable drawer receptacle collecting melted needle debris safely",
+      "Protects nursing and waste management staff from fatal needle-stick injuries"
+    ],
+    "usage": "Install Needle Cutter (Electric Syringe Destroyer & Hub Cutter) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-diag-needle-cutter.png",
+    "galleryImages": [
+      "/images/products/phx-diag-needle-cutter.png"
+    ]
+  },
+  {
+    "id": "phx-diag-fumigator",
+    "name": "Fumigator (SS Aerosol OT & ICU Disinfection Fogger)",
+    "category": "diagnostic-monitoring",
+    "categoryName": "05. Diagnostic & Monitoring",
+    "subCategory": "fumigators",
+    "subCategoryName": "OT & ICU Aerosol Fumigators",
+    "sku": "PHX-DIAG-FUM01",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-amber-50 text-amber-800 border-amber-200",
+    "rating": "4.9",
+    "reviews": "54",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "2 Years Motor Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Container",
+        "val": "5.0 Litre SS304 Liquid Tank"
+      },
+      {
+        "label": "Particle Size",
+        "val": "0.5 – 10 Microns (Sub-Micron Fog)"
+      },
+      {
+        "label": "Coverage",
+        "val": "Up to 20,000 cu. ft. Sterilization"
+      },
+      {
+        "label": "Timer",
+        "val": "0 – 60 Minutes Auto-Off Timer"
+      }
+    ],
+    "img": "/images/products/phx-diag-fumigator.jpg",
+    "features": [
+      "Stainless steel Grade 304 chemical container resistant to corrosive disinfectants",
+      "High-RPM motorized centrifugal disc producing sub-micron aerosol dry fog",
+      "Treats room volumes up to 20,000 cubic feet uniformly in under 30 minutes",
+      "Built-in digital mechanical timer for automated un-attended operation"
+    ],
+    "usage": "Install Fumigator (SS Aerosol OT & ICU Disinfection Fogger) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-diag-fumigator.png",
+    "galleryImages": [
+      "/images/products/phx-diag-fumigator.png"
+    ]
+  },
+  {
+    "id": "phx-diag-bed-wheels",
+    "name": "Hospital Bed Wheels (125mm / 150mm Central Locking Castors)",
+    "category": "diagnostic-monitoring",
+    "categoryName": "05. Diagnostic & Monitoring",
+    "subCategory": "hospital-castors",
+    "subCategoryName": "Medical Castor Wheels",
+    "sku": "PHX-DIAG-WHL01",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-amber-50 text-amber-800 border-amber-200",
+    "rating": "4.9",
+    "reviews": "25",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "2 Years Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Wheel Diameter",
+        "val": "125mm / 150mm Options"
+      },
+      {
+        "label": "Tread Material",
+        "val": "Non-Marking Polyurethane (PU)"
+      },
+      {
+        "label": "Functions",
+        "val": "Free, Directional Steer, Total Lock"
+      },
+      {
+        "label": "Dynamic Load",
+        "val": "200 kg per Castor (800 kg set)"
+      }
+    ],
+    "img": "/images/products/phx-diag-bed-wheels.jpg",
+    "features": [
+      "High-grade polyurethane (PU) non-marking tread protecting hospital linoleum and epoxy floors",
+      "Central locking mechanism: Total Brake, Directional Lock (Steer), and Free Swivel modes",
+      "Precision double ball-bearing swivel head with integrated anti-thread and anti-hair guards",
+      "High dynamic load capacity supporting heavy motorized ICU beds up to 250 kg per wheel"
+    ],
+    "usage": "Install Hospital Bed Wheels (125mm / 150mm Central Locking Castors) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-diag-bed-wheels.png",
+    "galleryImages": [
+      "/images/products/phx-diag-bed-wheels.png"
+    ]
+  },
+  {
+    "id": "phx-autoclave-steam",
+    "name": "Autoclave (Hospital Class B Steam Sterilizer)",
+    "category": "diagnostic-monitoring",
+    "categoryName": "05. Diagnostic & Monitoring",
+    "subCategory": "autoclaves",
+    "subCategoryName": "Steam Sterilizers & Autoclaves",
+    "sku": "PHX-SURG-AUTO85",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-amber-50 text-amber-800 border-amber-200",
+    "rating": "4.9",
+    "reviews": "26",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "2 Years Chamber & Element Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Chamber Volume",
+        "val": "85 Litres (400mm Dia × 600mm Depth)"
+      },
+      {
+        "label": "Sterilizing Temp",
+        "val": "121°C to 134°C Programmable"
+      },
+      {
+        "label": "Working Pressure",
+        "val": "15 to 30 PSI (1.2 to 2.1 bar)"
+      },
+      {
+        "label": "Safety",
+        "val": "Dual Safety Valves + Auto Cut-off"
+      }
+    ],
+    "img": "/images/products/phx-autoclave-steam.jpg",
+    "features": [
+      "Grade 304 heavy stainless steel argon-welded pressure vessel tested to 40 PSI",
+      "Microprocessor controller with digital display of temperature (121°C / 134°C) and soak time",
+      "Triple safety protection: Spring-loaded safety valve, dead-weight release, and low-water cut-off",
+      "Radial locking lid system with silicone gasket ensuring airtight high-pressure seal"
+    ],
+    "usage": "Install Autoclave (Hospital Class B Steam Sterilizer) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-autoclave-steam.png",
+    "galleryImages": [
+      "/images/products/phx-autoclave-steam.png"
+    ]
+  },
+  {
+    "id": "phx-bp-omron",
+    "name": "Digital Blood Pressure Monitor (Omron HEM-7120)",
+    "category": "diagnostic-monitoring",
+    "categoryName": "05. Diagnostic & Monitoring",
+    "subCategory": "bp-monitors",
+    "subCategoryName": "Digital Blood Pressure Monitors",
+    "sku": "PHX-BP-OMR7120",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-amber-50 text-amber-800 border-amber-200",
+    "rating": "4.9",
+    "reviews": "27",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "3 Years Manufacturer Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Measurement",
+        "val": "Oscillometric Method (20 – 280 mmHg)"
+      },
+      {
+        "label": "Accuracy",
+        "val": "Pressure ±3 mmHg | Pulse ±5%"
+      },
+      {
+        "label": "Cuff Size",
+        "val": "Standard Medium Cuff (22 – 32 cm)"
+      },
+      {
+        "label": "Memory",
+        "val": "Last Reading Memory Recall"
+      }
+    ],
+    "img": "/images/products/phx-bp-omron.jpg",
+    "features": [
+      "Intellisense technology inflating cuff automatically to optimal level without painful over-compression",
+      "Detects and alerts clinician to irregular heartbeats and pulse arrhythmias during measurement",
+      "Hypertension indicator symbol alerting if systolic/diastolic readings exceed WHO clinical guidelines",
+      "One-touch start button with large digital display showing Systolic, Diastolic, and Pulse rate"
+    ],
+    "usage": "Install Digital Blood Pressure Monitor (Omron HEM-7120) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-bp-omron.png",
+    "galleryImages": [
+      "/images/products/phx-bp-omron.png"
+    ]
+  },
+  {
+    "id": "phx-icu-sv300",
+    "name": "Ventilator Machine (Mindray SV300 ICU)",
+    "category": "respiratory-critical",
+    "categoryName": "06. Respiratory & Critical Care",
+    "subCategory": "icu-ventilators",
+    "subCategoryName": "Mechanical ICU Ventilators",
+    "sku": "PHX-VENT-SV300",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-cyan-50 text-cyan-800 border-cyan-200",
+    "rating": "4.9",
+    "reviews": "28",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "2 Years Comprehensive Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Tidal Volume",
+        "val": "20 to 2000 mL (Adult, Paediatric, Infant)"
+      },
+      {
+        "label": "Turbine Lifespan",
+        "val": "> 20,000 Operating Hours"
+      },
+      {
+        "label": "Display",
+        "val": "12.1-inch Color Touch Screen"
+      },
+      {
+        "label": "Battery",
+        "val": "Dual Battery Backup (Up to 4 Hours)"
+      }
+    ],
+    "img": "/images/products/phx-icu-sv300.jpg",
+    "features": [
+      "High-performance internal turbine compressor delivering flow rates up to 210 L/min independently",
+      "Comprehensive ventilation modes: V-A/C, P-A/C, V-SIMV, P-SIMV, CPAP/PSV, PRVC, DuoLevel, APRV, and NIV",
+      "12.1-inch tilting color touch screen displaying simultaneous pressure, flow, and volume waveforms & loops",
+      "Integrated volumetric capnography (EtCO2), weaning index (RSBI), and nebulization therapy"
+    ],
+    "usage": "Install Ventilator Machine (Mindray SV300 ICU) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-icu-sv300.png",
+    "galleryImages": [
+      "/images/products/phx-icu-sv300.png"
+    ]
+  },
+  {
+    "id": "phx-bipap-bmc",
+    "name": "Bi-PAP Machine (BMC RESmart G2S B30VT)",
+    "category": "respiratory-critical",
+    "categoryName": "06. Respiratory & Critical Care",
+    "subCategory": "bipap-cpap",
+    "subCategoryName": "BiPAP & Non-Invasive Ventilation",
+    "sku": "PHX-BIPAP-G2S30",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-cyan-50 text-cyan-800 border-cyan-200",
+    "rating": "4.9",
+    "reviews": "29",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "2 Years Comprehensive Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Ventilation Modes",
+        "val": "CPAP, S, T, S/T Mode"
+      },
+      {
+        "label": "Pressure Range",
+        "val": "IPAP 4–30 cmH2O | EPAP 4–25 cmH2O"
+      },
+      {
+        "label": "Humidifier",
+        "val": "Integrated 5-Level Heated Humidifier"
+      },
+      {
+        "label": "Noise Level",
+        "val": "< 28 dBA Ultra-Quiet Operation"
+      }
+    ],
+    "img": "/images/products/phx-bipap-bmc.jpg",
+    "features": [
+      "Target Tidal Volume (Reslex) algorithm automatically adjusting pressure support to maintain prescribed volume",
+      "Ventilation modes: CPAP, S, T, and S/T with IPAP pressure up to 30 cmH2O and EPAP up to 25 cmH2O",
+      "Integrated heated humidifier with 5 temperature levels and anti-backflow water chamber",
+      "Real-time 2.4-inch color LCD display of pressure waveforms, leak rates, and compliance data"
+    ],
+    "usage": "Install Bi-PAP Machine (BMC RESmart G2S B30VT) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-bipap-bmc.png",
+    "galleryImages": [
+      "/images/products/phx-bipap-bmc.png"
+    ]
+  },
+  {
+    "id": "phx-resp-cpap",
+    "name": "C-PAP Machine (Auto-CPAP with Heated Humidifier)",
+    "category": "respiratory-critical",
+    "categoryName": "06. Respiratory & Critical Care",
+    "subCategory": "bipap-cpap",
+    "subCategoryName": "CPAP Sleep Apnea Machines",
+    "sku": "PHX-RESP-CPAP01",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-cyan-50 text-cyan-800 border-cyan-200",
+    "rating": "4.9",
+    "reviews": "30",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "2 Years Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Pressure Range",
+        "val": "4 to 20 cmH2O (Auto-Adjusting)"
+      },
+      {
+        "label": "Sound Level",
+        "val": "≤ 26 dBA Whisper Quiet"
+      },
+      {
+        "label": "Humidification",
+        "val": "Integrated Heated Chamber"
+      },
+      {
+        "label": "Compliance",
+        "val": "SD Card & Cloud Sleep Reports"
+      }
+    ],
+    "img": "/images/products/phx-resp-cpap.jpg",
+    "features": [
+      "Auto-CPAP algorithm dynamically adjusting pressure between 4 and 20 cmH2O based on airway resistance",
+      "Smart ramp feature gradually increasing pressure as patient falls asleep",
+      "Integrated heated tube and humidifier eliminating nasal dryness and rainout condensation",
+      "Built-in cellular and SD card data logging generating sleep compliance reports for pulmonologists"
+    ],
+    "usage": "Install C-PAP Machine (Auto-CPAP with Heated Humidifier) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-resp-cpap.png",
+    "galleryImages": [
+      "/images/products/phx-resp-cpap.png"
+    ]
+  },
+  {
+    "id": "phx-o2-ageasy",
+    "name": "Oxygen Concentrator (AGEasy 10L Dual Flow)",
+    "category": "respiratory-critical",
+    "categoryName": "06. Respiratory & Critical Care",
+    "subCategory": "oxygen-concentrators",
+    "subCategoryName": "Medical Oxygen Concentrators",
+    "sku": "PHX-O2-AG10L",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-cyan-50 text-cyan-800 border-cyan-200",
+    "rating": "4.9",
+    "reviews": "31",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "2 Years On-Site Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Flow Rate",
+        "val": "0.5 – 10.0 L/min (Dual Outlet)"
+      },
+      {
+        "label": "Oxygen Purity",
+        "val": "93% ± 3% at Full 10 LPM Flow"
+      },
+      {
+        "label": "Sound Level",
+        "val": "≤ 45 dBA Low Noise Operation"
+      },
+      {
+        "label": "Power",
+        "val": "610 Watts Heavy-Duty Compressor"
+      }
+    ],
+    "img": "/images/products/phx-o2-ageasy.jpg",
+    "features": [
+      "High-capacity 10 LPM continuous medical grade oxygen output at 93% ± 3% purity",
+      "Dual independent flowmeter outlets enabling simultaneous oxygenation of two patients",
+      "Imported French CECA molecular sieve ensuring long-term stable oxygen production",
+      "Built-in digital purity monitor, high/low pressure alarms, and power failure warning system"
+    ],
+    "usage": "Install Oxygen Concentrator (AGEasy 10L Dual Flow) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-o2-ageasy.png",
+    "galleryImages": [
+      "/images/products/phx-o2-ageasy.png"
+    ]
+  },
+  {
+    "id": "phx-o2-longfian",
+    "name": "Oxygen Concentrator (Longfian 5L High Purity)",
+    "category": "respiratory-critical",
+    "categoryName": "06. Respiratory & Critical Care",
+    "subCategory": "oxygen-concentrators",
+    "subCategoryName": "Medical Oxygen Concentrators",
+    "sku": "PHX-O2-LF5L",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-cyan-50 text-cyan-800 border-cyan-200",
+    "rating": "4.9",
+    "reviews": "32",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "2 Years Comprehensive",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Flow Rate",
+        "val": "0.5 – 5.0 L/min Adjustable"
+      },
+      {
+        "label": "Purity",
+        "val": "93% ± 3% Medical Oxygen"
+      },
+      {
+        "label": "Weight",
+        "val": "16.0 kg (Compact Portable)"
+      },
+      {
+        "label": "Sound Level",
+        "val": "≤ 43 dBA Ultra-Quiet"
+      }
+    ],
+    "img": "/images/products/phx-o2-longfian.jpg",
+    "features": [
+      "Continuous 0.5 to 5.0 L/min flow rate delivering 93% ± 3% medical purity",
+      "Digital LCD displaying operating hours, current flow rate, and real-time oxygen purity level",
+      "High-efficiency oil-free compressor consuming only 350 Watts",
+      "Compact chassis with 4 heavy-duty castors and integrated top grab handle"
+    ],
+    "usage": "Install Oxygen Concentrator (Longfian 5L High Purity) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-o2-longfian.png",
+    "galleryImages": [
+      "/images/products/phx-o2-longfian.png"
+    ]
+  },
+  {
+    "id": "phx-resp-anaesthesia-machine",
+    "name": "Anaesthesia Machine (2-Gas Continuous Flow Rotameter)",
+    "category": "respiratory-critical",
+    "categoryName": "06. Respiratory & Critical Care",
+    "subCategory": "anaesthesia",
+    "subCategoryName": "Anaesthesia Machines & Workstations",
+    "sku": "PHX-RESP-ANES01",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-cyan-50 text-cyan-800 border-cyan-200",
+    "rating": "4.9",
+    "reviews": "33",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "2 Years Comprehensive",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Gas Supply",
+        "val": "Oxygen (O2) & Nitrous Oxide (N2O)"
+      },
+      {
+        "label": "Safety",
+        "val": "Nitrous Oxide Fail-Safe Cutoff"
+      },
+      {
+        "label": "Vaporizer",
+        "val": "Selectatec Interlock Dual Mount"
+      },
+      {
+        "label": "Absorber",
+        "val": "Dual-Chamber CO2 Circle Absorber"
+      }
+    ],
+    "img": "/images/products/phx-resp-anaesthesia-machine.jpg",
+    "features": [
+      "2-gas flowmeter bank (O2 & N2O) with mechanical Hypoxic Guard ensuring minimum 25% oxygen delivery",
+      "Selectatec backbar manifold accommodating Isoflurane / Sevoflurane precision vaporizers",
+      "Integrated Oxygen Flush delivering 35 to 75 L/min emergency O2 bypass flow",
+      "Large stainless steel top work table and 3 lockable storage drawers on heavy anti-static castors"
+    ],
+    "usage": "Install Anaesthesia Machine (2-Gas Continuous Flow Rotameter) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-resp-anaesthesia-machine.png",
+    "galleryImages": [
+      "/images/products/phx-resp-anaesthesia-machine.png"
+    ]
+  },
+  {
+    "id": "phx-resp-anaesthesia-workstation",
+    "name": "Anaesthesia Workstation (Integrated Electronic Ventilator)",
+    "category": "respiratory-critical",
+    "categoryName": "06. Respiratory & Critical Care",
+    "subCategory": "anaesthesia",
+    "subCategoryName": "Anaesthesia Machines & Workstations",
+    "sku": "PHX-RESP-ANESWS",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-cyan-50 text-cyan-800 border-cyan-200",
+    "rating": "4.9",
+    "reviews": "34",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "2 Years Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Ventilator Screen",
+        "val": "10.4-inch Color TFT Display"
+      },
+      {
+        "label": "Ventilation Modes",
+        "val": "VCV, PCV, SIMV, PSV, Manual, Standby"
+      },
+      {
+        "label": "Tidal Volume",
+        "val": "20 to 1500 mL (Adult & Paediatric)"
+      },
+      {
+        "label": "Vaporizer Mount",
+        "val": "Dual Selectatec Station with Interlock"
+      }
+    ],
+    "img": "/images/products/phx-resp-anaesthesia-workstation.jpg",
+    "features": [
+      "10.4-inch color TFT screen displaying respiratory waveforms (Pressure-Time, Flow-Time, P-V Loops)",
+      "Electronically controlled ventilator with VCV, PCV, SIMV, and PSV ventilation modes",
+      "Integrated heated breathing circuit and dual canister CO2 absorber preventing sodalime rainout",
+      "Auxiliary Common Gas Outlet (ACGO) for open circuit paediatric anaesthesia delivery"
+    ],
+    "usage": "Install Anaesthesia Workstation (Integrated Electronic Ventilator) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-resp-anaesthesia-workstation.png",
+    "galleryImages": [
+      "/images/products/phx-resp-anaesthesia-workstation.png"
+    ]
+  },
+  {
+    "id": "phx-suction-dev",
+    "name": "Suction Machine (DeVilbiss Vacu-Aide Q-SU)",
+    "category": "respiratory-critical",
+    "categoryName": "06. Respiratory & Critical Care",
+    "subCategory": "suction-units",
+    "subCategoryName": "Medical Suction Units",
+    "sku": "PHX-SUC-DEV7314",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-cyan-50 text-cyan-800 border-cyan-200",
+    "rating": "4.9",
+    "reviews": "35",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "2 Years Comprehensive",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Vacuum Range",
+        "val": "50 – 550 mmHg High Vacuum"
+      },
+      {
+        "label": "Air Flow Rate",
+        "val": "27 Litres/min Free Air Flow"
+      },
+      {
+        "label": "Noise Level",
+        "val": "< 48 dBA (Quiet Suction Unit)"
+      },
+      {
+        "label": "Filter",
+        "val": "Hydrophobic Bacterial / Viral Barrier"
+      }
+    ],
+    "img": "/images/products/phx-suction-dev.jpg",
+    "features": [
+      "High vacuum range from 50 to 550 mmHg with high free air flow rate of 27 LPM",
+      "Integrated hydrophobic bacterial filter preventing aerosolized pathogens and motor liquid ingress",
+      "Autoclavable 800ml / 1200ml collection jar with mechanical float shut-off valve",
+      "Whisper-quiet sound dampening design operating at less than 48 dBA"
+    ],
+    "usage": "Install Suction Machine (DeVilbiss Vacu-Aide Q-SU) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-suction-dev.png",
+    "galleryImages": [
+      "/images/products/phx-suction-dev.png"
+    ]
+  },
+  {
+    "id": "phx-warmer-infant",
+    "name": "Baby Radiant Warmer (NeoCare Microprocessor)",
+    "category": "respiratory-critical",
+    "categoryName": "06. Respiratory & Critical Care",
+    "subCategory": "neonatal-care",
+    "subCategoryName": "Infant Radiant Warmers",
+    "sku": "PHX-WARM-NEO900",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-cyan-50 text-cyan-800 border-cyan-200",
+    "rating": "4.9",
+    "reviews": "36",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "2 Years Comprehensive Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Temp Range",
+        "val": "32.0°C to 38.0°C (0.1°C Resolution)"
+      },
+      {
+        "label": "Heater Element",
+        "val": "Far-Infrared Quartz / Ceramic Tube"
+      },
+      {
+        "label": "Phototherapy",
+        "val": "Integrated High-Intensity Blue LED"
+      },
+      {
+        "label": "Safety Alarms",
+        "val": "Temp High/Low, Probe Detach, Power Fail"
+      }
+    ],
+    "img": "/images/products/phx-warmer-infant.jpg",
+    "features": [
+      "Microprocessor-controlled dual modes: Servo Skin Temperature Mode and Manual Warmth Mode",
+      "Infrared ceramic/quartz heating element providing uniform thermal radiation across infant bed",
+      "Ultra-sensitive medical thermistor skin temperature probe with ±0.1°C measurement accuracy",
+      "Integrated LED phototherapy unit, APGAR scoring timer, and audible/visual fever/hypothermia alarms"
+    ],
+    "usage": "Install Baby Radiant Warmer (NeoCare Microprocessor) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-warmer-infant.png",
+    "galleryImages": [
+      "/images/products/phx-warmer-infant.png"
+    ]
+  },
+  {
+    "id": "phx-resp-baby-incubator",
+    "name": "Baby Incubator (Microprocessor Servo Skin/Air Control)",
+    "category": "respiratory-critical",
+    "categoryName": "06. Respiratory & Critical Care",
+    "subCategory": "neonatal-care",
+    "subCategoryName": "Infant Incubators",
+    "sku": "PHX-RESP-INC01",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-cyan-50 text-cyan-800 border-cyan-200",
+    "rating": "4.9",
+    "reviews": "37",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "2 Years Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Air Temp Mode",
+        "val": "25.0°C to 37.0°C (Override to 39°C)"
+      },
+      {
+        "label": "Skin Temp Mode",
+        "val": "34.0°C to 37.5°C Servo"
+      },
+      {
+        "label": "Humidity Range",
+        "val": "30% to 90% RH Servo Controlled"
+      },
+      {
+        "label": "Canopy",
+        "val": "Double-Wall Acrylic with 6 Ports"
+      }
+    ],
+    "img": "/images/products/phx-resp-baby-incubator.jpg",
+    "features": [
+      "Double-wall acrylic canopy minimizing radiant heat loss and external noise transmission",
+      "Microprocessor servo control for both Infant Skin Temperature and Internal Air Temperature",
+      "Integrated ultrasonic humidity generator maintaining relative humidity up to 90%",
+      "X-Ray cassette tray beneath mattress allowing radiography without disturbing neonate"
+    ],
+    "usage": "Install Baby Incubator (Microprocessor Servo Skin/Air Control) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-resp-baby-incubator.png",
+    "galleryImages": [
+      "/images/products/phx-resp-baby-incubator.png"
+    ]
+  },
+  {
+    "id": "phx-resp-fa-valve",
+    "name": "F.A. Valve with Flow Meter (Polycarbonate Humidifier Regulator)",
+    "category": "respiratory-critical",
+    "categoryName": "06. Respiratory & Critical Care",
+    "subCategory": "gas-accessories",
+    "subCategoryName": "Oxygen Regulators & Flowmeters",
+    "sku": "PHX-RESP-FAV01",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-cyan-50 text-cyan-800 border-cyan-200",
+    "rating": "4.9",
+    "reviews": "38",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "2 Years Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Flow Scale",
+        "val": "0 to 15 Litres/min Continuous"
+      },
+      {
+        "label": "Bottle",
+        "val": "Autoclavable Polycarbonate 200ml"
+      },
+      {
+        "label": "Inlet Pressure",
+        "val": "50 PSI (Pipeline) or 200 Bar (Cylinder)"
+      },
+      {
+        "label": "Safety",
+        "val": "Automatic Pressure Relief Pop-Off Valve"
+      }
+    ],
+    "img": "/images/products/phx-resp-fa-valve.jpg",
+    "features": [
+      "Rotameter scale calibrated from 0 to 15 L/min with stainless steel float ball",
+      "Back-pressure compensated design ensuring accurate flow reading regardless of back-pressure",
+      "Shatterproof 200ml polycarbonate humidifier bottle with pressure relief safety valve",
+      "Standard B.S. / DIN oxygen pipeline probe or direct cylinder connection bullnose"
+    ],
+    "usage": "Install F.A. Valve with Flow Meter (Polycarbonate Humidifier Regulator) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-resp-fa-valve.png",
+    "galleryImages": [
+      "/images/products/phx-resp-fa-valve.png"
+    ]
+  },
+  {
+    "id": "phx-neb-philips",
+    "name": "Pediatric Compressor Nebuliser (Philips Sami)",
+    "category": "respiratory-critical",
+    "categoryName": "06. Respiratory & Critical Care",
+    "subCategory": "nebulizers",
+    "subCategoryName": "Aerosol Compressor Nebulisers",
+    "sku": "PHX-NEB-SAMI",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-cyan-50 text-cyan-800 border-cyan-200",
+    "rating": "4.9",
+    "reviews": "39",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "3 Years Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Aerosol MMAD",
+        "val": "< 3.0 Microns (Deep Lung Deposition)"
+      },
+      {
+        "label": "Nebulization Rate",
+        "val": "0.45 ml/min High Flow"
+      },
+      {
+        "label": "Treatment Time",
+        "val": "6 to 8 Minutes per 3ml Dose"
+      },
+      {
+        "label": "Sound Level",
+        "val": "< 55 dBA Quiet Compressor"
+      }
+    ],
+    "img": "/images/products/phx-neb-philips.jpg",
+    "features": [
+      "Child-friendly seal design improving paediatric treatment compliance and reducing anxiety",
+      "High-efficiency SideStream nebulizer cup delivering 2.5ml drug dose in under 6 minutes",
+      "Consistent aerosol droplet output with Mass Median Aerodynamic Diameter (MMAD) < 3.0 microns",
+      "Continuous-duty heavy piston compressor engineered for frequent hospital and home therapy"
+    ],
+    "usage": "Install Pediatric Compressor Nebuliser (Philips Sami) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-neb-philips.png",
+    "galleryImages": [
+      "/images/products/phx-neb-philips.png"
+    ]
+  },
+  {
+    "id": "phx-surg-set",
+    "name": "General Surgery Instruments Set (62 Pcs IndoSurgicals)",
+    "category": "surgical-rehab",
+    "categoryName": "07. Surgical, Infection Control & Rehab",
+    "subCategory": "surgical-instruments",
+    "subCategoryName": "Surgical Instrument Sets",
+    "sku": "PHX-SURG-SET62",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-purple-50 text-purple-700 border-purple-200",
+    "rating": "4.9",
+    "reviews": "40",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "5 Years Material Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Pieces",
+        "val": "62 Essential General Surgery Instruments"
+      },
+      {
+        "label": "Steel Grade",
+        "val": "Japanese 410 & 420 Surgical Stainless"
+      },
+      {
+        "label": "Finish",
+        "val": "Anti-Glare Satin Matte Finish"
+      },
+      {
+        "label": "Container",
+        "val": "Heavy SS304 Sterilization Box with Lid"
+      }
+    ],
+    "img": "/images/products/phx-surg-set.jpg",
+    "features": [
+      "Fabricated from premium Japanese Grade 410 and 420 surgical stainless steel with satin anti-glare finish",
+      "Complete 62-piece layout: Scalpel handles, Metzenbaum scissors, Kelly forceps, Allis clamps, Babcock, DeBakey forceps, Mayo-Hegar needle holders, and Balfour/Richardson retractors",
+      "Ultra-precise jaws with laser-hardened tungsten carbide inserts on needle holders and tissue scissors",
+      "Supplied in heavy-gauge perforated stainless steel sterilization container with silicone racks"
+    ],
+    "usage": "Install General Surgery Instruments Set (62 Pcs IndoSurgicals) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-surg-set.png",
+    "galleryImages": [
+      "/images/products/phx-surg-set.png"
+    ]
+  },
+  {
+    "id": "phx-surg-tc-set",
+    "name": "T.C. & General Instrument Set (Tungsten Carbide Microsurgical)",
+    "category": "surgical-rehab",
+    "categoryName": "07. Surgical, Infection Control & Rehab",
+    "subCategory": "surgical-instruments",
+    "subCategoryName": "Surgical Instrument Sets",
+    "sku": "PHX-SURG-TCSET",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-purple-50 text-purple-700 border-purple-200",
+    "rating": "4.9",
+    "reviews": "41",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "5 Years Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Inserts",
+        "val": "High-Density Tungsten Carbide (TC)"
+      },
+      {
+        "label": "Handles",
+        "val": "Gold-Plated Identification Rings"
+      },
+      {
+        "label": "Set Contents",
+        "val": "24 Pieces T.C. Precision Instruments"
+      },
+      {
+        "label": "Sterilization",
+        "val": "Autoclavable to 134°C in CSSD"
+      }
+    ],
+    "img": "/images/products/phx-surg-tc-set.jpg",
+    "features": [
+      "Gold-plated ring handles signifying high-density Tungsten Carbide (TC) insert tips",
+      "TC Mayo and Metzenbaum dissecting scissors providing clean tissue transection without crushing",
+      "TC Mayo-Hegar and Castroviejo needle holders with micro-pyramidal teeth preventing suture rotation",
+      "100% rust-free, autoclavable to 134°C, and certified for cardiac, plastic, and general surgery"
+    ],
+    "usage": "Install T.C. & General Instrument Set (Tungsten Carbide Microsurgical) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-surg-tc-set.png",
+    "galleryImages": [
+      "/images/products/phx-surg-tc-set.png"
+    ]
+  },
+  {
+    "id": "phx-surg-drums-trays",
+    "name": "Dressing Drum, Kidney Tray & Instrument Tray (SS304 Holloware)",
+    "category": "surgical-rehab",
+    "categoryName": "07. Surgical, Infection Control & Rehab",
+    "subCategory": "holloware",
+    "subCategoryName": "Hospital Stainless Holloware",
+    "sku": "PHX-SURG-HLW01",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-purple-50 text-purple-700 border-purple-200",
+    "rating": "4.9",
+    "reviews": "42",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "5 Years Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Dressing Drum",
+        "val": "11\" × 9\" & 14\" × 11\" Slotted SS Drums"
+      },
+      {
+        "label": "Kidney Trays",
+        "val": "8-inch, 10-inch, 12-inch SS304 Dishes"
+      },
+      {
+        "label": "Instrument Trays",
+        "val": "Covered Trays (12\"×10\", 14\"×10\", 18\"×12\")"
+      },
+      {
+        "label": "Material",
+        "val": "100% Grade 304 Heavy Stainless Steel"
+      }
+    ],
+    "img": "/images/products/phx-surg-drums-trays.jpg",
+    "features": [
+      "Grade 304 seamless drawn stainless steel with mirror polish finish inside and out",
+      "Sterilization Dressing Drum with slotted perforated body and rotating belt clamp for steam entry/closure",
+      "Kidney dishes (6\", 8\", 10\", 12\") with curled safety rims for collecting surgical fluids and dressings",
+      "Rectangular instrument trays with drop-handles and snug-fitting flat covers"
+    ],
+    "usage": "Install Dressing Drum, Kidney Tray & Instrument Tray (SS304 Holloware) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-surg-drums-trays.png",
+    "galleryImages": [
+      "/images/products/phx-surg-drums-trays.png"
+    ]
+  },
+  {
+    "id": "phx-ot-light-mobile",
+    "name": "Mobile O.T. Light (Battery Backup Examination Lamp)",
+    "category": "surgical-rehab",
+    "categoryName": "07. Surgical, Infection Control & Rehab",
+    "subCategory": "ot-lights",
+    "subCategoryName": "Surgical Lighting Systems",
+    "sku": "PHX-SURG-OTLMOB",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-purple-50 text-purple-700 border-purple-200",
+    "rating": "4.9",
+    "reviews": "43",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "2 Years Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Illuminance",
+        "val": "75,000 Lux at 1 Meter Distance"
+      },
+      {
+        "label": "Color Temp",
+        "val": "4500 Kelvin (Daylight White)"
+      },
+      {
+        "label": "Battery Backup",
+        "val": "3 Hours Continuous Battery Operation"
+      },
+      {
+        "label": "Base",
+        "val": "Heavy 4-Castor Mobile Anti-Tip Base"
+      }
+    ],
+    "img": "/images/products/phx-ot-light-mobile.jpg",
+    "features": [
+      "High-luminance LED optics delivering up to 75,000 Lux illumination at 1 meter working distance",
+      "Color temperature of 4500K with Color Rendering Index (CRI) Ra ≥ 95 for natural tissue differentiation",
+      "Spring-balanced counterweight articulated arm providing 360-degree smooth multidirectional positioning",
+      "Built-in rechargeable battery backup ensuring uninterrupted lighting during power fluctuations"
+    ],
+    "usage": "Install Mobile O.T. Light (Battery Backup Examination Lamp) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-ot-light-mobile.png",
+    "galleryImages": [
+      "/images/products/phx-ot-light-mobile.png"
+    ]
+  },
+  {
+    "id": "phx-ot-light",
+    "name": "LED O.T. Light (Twin-Dome Ceiling Shadowless)",
+    "category": "surgical-rehab",
+    "categoryName": "07. Surgical, Infection Control & Rehab",
+    "subCategory": "ot-lights",
+    "subCategoryName": "Surgical Lighting Systems",
+    "sku": "PHX-SURG-LEDTWIN",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-purple-50 text-purple-700 border-purple-200",
+    "rating": "4.9",
+    "reviews": "44",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "3 Years LED Module Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Illuminance Major",
+        "val": "160,000 Lux at 1 Meter"
+      },
+      {
+        "label": "Illuminance Satellite",
+        "val": "120,000 Lux at 1 Meter"
+      },
+      {
+        "label": "Color Rendering Index",
+        "val": "Ra ≥ 96 | R9 ≥ 92"
+      },
+      {
+        "label": "LED Lifespan",
+        "val": "> 50,000 Operating Hours"
+      }
+    ],
+    "img": "/images/products/phx-ot-light.jpg",
+    "features": [
+      "Twin-Dome configuration (700mm Major Dome + 500mm Satellite Dome) delivering 160,000 + 120,000 Lux",
+      "Multi-lens LED matrix providing shadowless illumination even when surgeon head obstructs beam",
+      "Adjustable color temperature (3800K to 5000K) and field diameter (160mm to 300mm) via digital touch panel",
+      "Integrated Endoscopy Ambient Mode for minimally invasive laparoscopic procedures"
+    ],
+    "usage": "Install LED O.T. Light (Twin-Dome Ceiling Shadowless) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-ot-light.png",
+    "galleryImages": [
+      "/images/products/phx-ot-light.png"
+    ]
+  },
+  {
+    "id": "phx-ot-table",
+    "name": "OT Surgical Table (Electro-Hydraulic Multi-Position)",
+    "category": "surgical-rehab",
+    "categoryName": "07. Surgical, Infection Control & Rehab",
+    "subCategory": "ot-tables",
+    "subCategoryName": "Operating Theater Tables",
+    "sku": "PHX-SURG-TABHYD",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-purple-50 text-purple-700 border-purple-200",
+    "rating": "4.9",
+    "reviews": "45",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "3 Years Hydraulic Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Table Elevation",
+        "val": "680 to 980 mm Electro-Hydraulic"
+      },
+      {
+        "label": "Trendelenburg / Rev.",
+        "val": "±25° Motorized Tilt"
+      },
+      {
+        "label": "Lateral Tilt",
+        "val": "±20° Left / Right Tilt"
+      },
+      {
+        "label": "Max Patient Load",
+        "val": "250 kg Surgical Safe Load"
+      }
+    ],
+    "img": "/images/products/phx-ot-table.jpg",
+    "features": [
+      "Electro-hydraulic motor system controlling Height (Hi-Lo), Trendelenburg, Reverse Trendelenburg, and Lateral Tilt",
+      "Longitudinal sliding table top (300mm slide) providing unobstructed 100% C-Arm imaging coverage",
+      "Built-in mechanical kidney bridge elevator and split detachable leg sections for lithotomy",
+      "Includes premium anti-static memory foam mattress (75mm) and full surgical accessory clamp rail kit"
+    ],
+    "usage": "Install OT Surgical Table (Electro-Hydraulic Multi-Position) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-ot-table.png",
+    "galleryImages": [
+      "/images/products/phx-ot-table.png"
+    ]
+  },
+  {
+    "id": "phx-surg-curtains",
+    "name": "I.C.U. & Ward Curtains (Antimicrobial Flame-Retardant)",
+    "category": "surgical-rehab",
+    "categoryName": "07. Surgical, Infection Control & Rehab",
+    "subCategory": "ward-curtains",
+    "subCategoryName": "Hospital Cubicle Curtains",
+    "sku": "PHX-SURG-CRT01",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-purple-50 text-purple-700 border-purple-200",
+    "rating": "4.9",
+    "reviews": "46",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "2 Years Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Fabric",
+        "val": "100% Inherently Flame-Retardant Polyester"
+      },
+      {
+        "label": "Top Mesh",
+        "val": "50cm Fire-Sprinkler Mesh"
+      },
+      {
+        "label": "Treatment",
+        "val": "Silver-Ion Antimicrobial Biocide"
+      },
+      {
+        "label": "Washability",
+        "val": "Machine Washable at 60°C Thermal Disinfection"
+      }
+    ],
+    "img": "/images/products/phx-surg-curtains.jpg",
+    "features": [
+      "Inherently flame-retardant fabric complying with international hospital fire safety standards (NFPA 701)",
+      "Treated with silver-ion antimicrobial biocidal finish resisting MRSA and hospital-acquired bacteria",
+      "Top 50cm integral open-weave mesh allowing ceiling fire sprinkler water penetration and HVAC airflow",
+      "Stain-resistant, machine washable, and fitted with smooth nylon roller carrier hooks"
+    ],
+    "usage": "Install I.C.U. & Ward Curtains (Antimicrobial Flame-Retardant) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-surg-curtains.png",
+    "galleryImages": [
+      "/images/products/phx-surg-curtains.png"
+    ]
+  },
+  {
+    "id": "phx-surg-physio",
+    "name": "Physiotherapy Goods (TENS, US Therapy & Rehab Aids)",
+    "category": "surgical-rehab",
+    "categoryName": "07. Surgical, Infection Control & Rehab",
+    "subCategory": "physiotherapy",
+    "subCategoryName": "Physiotherapy & Rehabilitation Equipment",
+    "sku": "PHX-SURG-PHYS01",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-purple-50 text-purple-700 border-purple-200",
+    "rating": "4.9",
+    "reviews": "47",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "2 Years Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Electrotherapy",
+        "val": "Dual-Channel TENS, IFT, Russian & Muscle Stim"
+      },
+      {
+        "label": "Ultrasound",
+        "val": "1 MHz & 3 MHz (0.1 – 3.0 W/cm²)"
+      },
+      {
+        "label": "Display",
+        "val": "Backlit LCD with Digital Treatment Timer"
+      },
+      {
+        "label": "Safety",
+        "val": "Automatic Zero-Start Intensity Protection"
+      }
+    ],
+    "img": "/images/products/phx-surg-physio.jpg",
+    "features": [
+      "Dual-channel TENS / IFT / Muscle Stimulator with continuous, burst, and modulated pulse modes",
+      "1 MHz / 3 MHz multi-frequency therapeutic ultrasound with solid stainless steel treatment head",
+      "Pre-programmed clinical protocols for sciatica, arthritis, sports sprains, and post-surgical rehab",
+      "Includes carbon rubber electrodes, conductive gel, velcro straps, and ultrasound applicator"
+    ],
+    "usage": "Install Physiotherapy Goods (TENS, US Therapy & Rehab Aids) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-surg-physio.png",
+    "galleryImages": [
+      "/images/products/phx-surg-physio.png"
+    ]
+  },
+  {
+    "id": "phx-surg-mannequin",
+    "name": "Mannequin & Training Dummies (CPR & Clinical Skills Simulator)",
+    "category": "surgical-rehab",
+    "categoryName": "07. Surgical, Infection Control & Rehab",
+    "subCategory": "training-simulators",
+    "subCategoryName": "Medical Training Mannequins",
+    "sku": "PHX-SURG-MAN01",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-purple-50 text-purple-700 border-purple-200",
+    "rating": "4.9",
+    "reviews": "48",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "2 Years Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Simulation",
+        "val": "Full-Body Adult CPR & Advanced Nursing Simulator"
+      },
+      {
+        "label": "Airway",
+        "val": "Realistic Oral/Nasal Airway for Intubation"
+      },
+      {
+        "label": "Feedback",
+        "val": "Electronic Compression Depth & Rate Monitor"
+      },
+      {
+        "label": "Accessories",
+        "val": "Carry Bag, Lung Bags, Replacement Skins"
+      }
+    ],
+    "img": "/images/products/phx-surg-mannequin.jpg",
+    "features": [
+      "Realistic anatomical landmarks: Sternum, ribcage, substernal notch, and carotid pulse simulator",
+      "Electronic monitor box providing real-time feedback on CPR chest compression depth and ventilation volume",
+      "IV training arm with lifelike vein palpation for venipuncture and fluid administration practice",
+      "Includes male and female interchangeable catheterization and wound dressing training modules"
+    ],
+    "usage": "Install Mannequin & Training Dummies (CPR & Clinical Skills Simulator) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-surg-mannequin.png",
+    "galleryImages": [
+      "/images/products/phx-surg-mannequin.png"
+    ]
+  },
+  {
+    "id": "phx-surg-mattress",
+    "name": "Hospital Bed Mattress (4-Section PU Foam Waterproof)",
+    "category": "surgical-rehab",
+    "categoryName": "07. Surgical, Infection Control & Rehab",
+    "subCategory": "bed-mattresses",
+    "subCategoryName": "Hospital Medical Mattresses",
+    "sku": "PHX-SURG-MAT01",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-purple-50 text-purple-700 border-purple-200",
+    "rating": "4.9",
+    "reviews": "49",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "2 Years Replacement Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Dimensions",
+        "val": "1980L × 860W × 100H mm (4-Section)"
+      },
+      {
+        "label": "Foam Core",
+        "val": "High-Resilience 32D Medical PU Foam"
+      },
+      {
+        "label": "Cover",
+        "val": "Waterproof, Anti-Bacterial Heavy Rexine"
+      },
+      {
+        "label": "Thickness",
+        "val": "100mm (4 Inches) Standard Thickness"
+      }
+    ],
+    "img": "/images/products/phx-surg-mattress.jpg",
+    "features": [
+      "4-section hinged fold design bending seamlessly with backrest and knee-rest bed articulations",
+      "High-density 32D / 40D polyurethane foam core providing optimal patient pressure distribution",
+      "Heavy-duty waterproof medical Rexine cover impervious to blood, urine, and bodily fluids",
+      "Equipped with heavy-duty perimeter zip for easy removal and autoclave thermal washing"
+    ],
+    "usage": "Install Hospital Bed Mattress (4-Section PU Foam Waterproof) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-surg-mattress.png",
+    "galleryImages": [
+      "/images/products/phx-surg-mattress.png"
+    ]
+  },
+  {
+    "id": "phx-cart-crash",
+    "name": "ABS Anesthesia Cart / Emergency Crash Cart",
+    "category": "surgical-rehab",
+    "categoryName": "07. Surgical, Infection Control & Rehab",
+    "subCategory": "emergency-carts",
+    "subCategoryName": "Emergency Resuscitation Crash Carts",
+    "sku": "PHX-CRT-CRASH90",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-purple-50 text-purple-700 border-purple-200",
+    "rating": "4.9",
+    "reviews": "50",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "3 Years Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Drawers",
+        "val": "5 Modular ABS Drawers with Dividers"
+      },
+      {
+        "label": "Defibrillator Shelf",
+        "val": "360° Swiveling Height-Adjustable Tray"
+      },
+      {
+        "label": "CPR Board",
+        "val": "Rigid Cardiac CPR Board on Rear"
+      },
+      {
+        "label": "Castors",
+        "val": "125mm Anti-Static Swivel Castors with Brakes"
+      }
+    ],
+    "img": "/images/products/phx-cart-crash.jpg",
+    "features": [
+      "5 modular multi-depth drawers (2 small, 2 medium, 1 large) with internal dividers for emergency ampoules",
+      "Top swiveling 360° defibrillator shelf and telescopic stainless steel IV infusion pole",
+      "Concealed slide-out writing workspace shelf and emergency cardiac CPR board on rear",
+      "Centralized breakaway disposable seal lock securing all drawers against unauthorized tampering"
+    ],
+    "usage": "Install ABS Anesthesia Cart / Emergency Crash Cart per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-cart-crash.png",
+    "galleryImages": [
+      "/images/products/phx-cart-crash.png"
+    ]
+  },
+  {
+    "id": "phx-gas-o2-cylinder",
+    "name": "Oxygen Cylinder (Bulk Type D 46.7L High Pressure)",
+    "category": "oxygen-gas-supply",
+    "categoryName": "08. Oxygen & Gas Supply",
+    "subCategory": "gas-cylinders",
+    "subCategoryName": "Medical Oxygen Cylinders",
+    "sku": "PHX-GAS-O2D46",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-emerald-50 text-emerald-800 border-emerald-200",
+    "rating": "4.9",
+    "reviews": "51",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "5 Years Hydrostatic Test Certificate",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Water Capacity",
+        "val": "46.7 Litres (Type D Bulk Cylinder)"
+      },
+      {
+        "label": "Gas Volume",
+        "val": "~7,000 Litres Compressed Medical O2"
+      },
+      {
+        "label": "Working Pressure",
+        "val": "150 Bar | Test Pressure: 250 Bar"
+      },
+      {
+        "label": "Certification",
+        "val": "PESO Approved & IS 7285 Certified"
+      }
+    ],
+    "img": "/images/products/phx-gas-o2-cylinder.jpg",
+    "features": [
+      "Seamless high-strength manganese steel construction tested hydrostatically to 250 bar pressure",
+      "Water capacity of 46.7 Litres holding approximately 7,000 Litres of compressed medical oxygen gas",
+      "Fitted with brass spindle valve (bullnose outlet) certified for high-pressure medical gases",
+      "Painted with statutory medical cylinder color code: Black body with white shoulder"
+    ],
+    "usage": "Install Oxygen Cylinder (Bulk Type D 46.7L High Pressure) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-gas-o2-cylinder.png",
+    "galleryImages": [
+      "/images/products/phx-gas-o2-cylinder.png"
+    ]
+  },
+  {
+    "id": "phx-gas-aluminum-cylinder",
+    "name": "Aluminum Cylinder (Lightweight Portable Click-Regulator)",
+    "category": "oxygen-gas-supply",
+    "categoryName": "08. Oxygen & Gas Supply",
+    "subCategory": "portable-cylinders",
+    "subCategoryName": "Portable Aluminium Oxygen Cylinders",
+    "sku": "PHX-GAS-O2ALM",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-emerald-50 text-emerald-800 border-emerald-200",
+    "rating": "4.9",
+    "reviews": "52",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "5 Years Cylinder Life Warranty",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Water Capacity",
+        "val": "4.5 Litres (Lightweight Aluminum)"
+      },
+      {
+        "label": "Gas Capacity",
+        "val": "~680 Litres Compressed Oxygen"
+      },
+      {
+        "label": "Weight",
+        "val": "Only 3.8 kg (Empty Cylinder)"
+      },
+      {
+        "label": "Regulator",
+        "val": "Built-in Click-Stop Flowmeter (0.5–15 LPM)"
+      }
+    ],
+    "img": "/images/products/phx-gas-aluminum-cylinder.jpg",
+    "features": [
+      "Fabricated from high-strength AA6061 seamless aluminium alloy — 40% lighter than steel cylinders",
+      "100% rust-free internal walls preventing particulate contamination in patient airway",
+      "Includes integrated multi-step click-flow regulator (0.5 to 15 LPM) and nasal cannula",
+      "Supplied with padded shoulder carry bag for active mobile patient transit"
+    ],
+    "usage": "Install Aluminum Cylinder (Lightweight Portable Click-Regulator) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-gas-aluminum-cylinder.png",
+    "galleryImages": [
+      "/images/products/phx-gas-aluminum-cylinder.png"
+    ]
+  },
+  {
+    "id": "phx-gas-hospital-cylinder",
+    "name": "Hospital Cylinder (Type B 10L Manifold Cluster)",
+    "category": "oxygen-gas-supply",
+    "categoryName": "08. Oxygen & Gas Supply",
+    "subCategory": "gas-cylinders",
+    "subCategoryName": "Medical Oxygen Cylinders",
+    "sku": "PHX-GAS-O2B10",
+    "badge": "Ready Stock",
+    "badgeColor": "bg-emerald-50 text-emerald-800 border-emerald-200",
+    "rating": "4.9",
+    "reviews": "53",
+    "leadTime": "Immediate Dispatch",
+    "warranty": "5 Years Hydrostatic Test Certificate",
+    "certifications": "CDSCO Form MD-42 Licensed, ISO 13485:2016, CE Compliant",
+    "specs": [
+      {
+        "label": "Water Capacity",
+        "val": "10.0 Litres (Type B Ward Cylinder)"
+      },
+      {
+        "label": "Gas Volume",
+        "val": "~1,500 Litres Compressed Oxygen"
+      },
+      {
+        "label": "Working Pressure",
+        "val": "150 Bar Working Pressure"
+      },
+      {
+        "label": "Approvals",
+        "val": "PESO Approved Medical Gas Vessel"
+      }
+    ],
+    "img": "/images/products/phx-gas-hospital-cylinder.jpg",
+    "features": [
+      "10.0 Litre water capacity holding ~1,500 Litres of high-purity medical oxygen at 150 bar pressure",
+      "Compact footprint fitting directly into hospital bed cylinder cages and mobile trolleys",
+      "Fitted with heavy-duty forged brass pin-index or bullnose outlet shut-off valve",
+      "Tested to 250 bar hydrostatic pressure and fully approved by PESO for clinical use"
+    ],
+    "usage": "Install Hospital Cylinder (Type B 10L Manifold Cluster) per hospital standard operating protocol and biomedical guidelines.",
+    "safety": "Perform routine cleaning with hospital-grade disinfectant between patient uses.",
+    "imageUrl": "/images/products/phx-gas-hospital-cylinder.png",
+    "galleryImages": [
+      "/images/products/phx-gas-hospital-cylinder.png"
+    ]
+  }
+]

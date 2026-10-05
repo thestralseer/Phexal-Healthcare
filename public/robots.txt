@@ -1,0 +1,58 @@
+# ══════════════════════════════════════════════════════════════════
+# PHEXAL HEALTHCARE - OFFICIAL ROBOTS.TXT & AI CRAWLER DIRECTIVES
+# Domain: https://phexalhealthcare.com
+# ══════════════════════════════════════════════════════════════════
+
+User-agent: *
+Allow: /
+Disallow: /scratch/
+Disallow: /backups/
+Disallow: /backup_original_images/
+Disallow: /*.bak*
+
+# ─── Generative AI Search Engines & LLM Crawlers ───
+User-agent: GPTBot
+Allow: /
+Allow: /llms.txt
+Allow: /llms-full.txt
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+# ─── Search Engine Bots ───
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /images/
+Allow: /assets/
+
+User-agent: Bingbot
+Allow: /
+
+# ─── Sitemaps & Knowledge Manifests ───
+Sitemap: https://phexalhealthcare.com/sitemap.xml

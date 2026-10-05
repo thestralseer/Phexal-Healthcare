@@ -1,0 +1,27 @@
+{
+  "name": "Phexal Healthcare - B2B Medical Equipment & ICU Rentals",
+  "short_name": "Phexal Healthcare",
+  "description": "CDSCO Form MD-42 licensed Class A-D medical equipment manufacturer, global exporter, and 24/7 Delhi NCR ICU emergency setup.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07192f",
+  "theme_color": "#07192f",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

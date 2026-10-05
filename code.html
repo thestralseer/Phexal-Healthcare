@@ -1,0 +1,575 @@
+<!DOCTYPE html>
+
+<html class="scroll-smooth" lang="en"><head>
+<!-- Phexal Healthcare Favicons -->
+<link rel="icon" type="image/svg+xml" href="/favicon.svg"/>
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png"/>
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"/>
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<meta charset="utf-8"/><meta content="width=device-width, initial-scale=1.0" name="viewport"/><meta content="web_standard" name="shell-type"/><link href="https://fonts.googleapis.com" rel="preconnect"/><link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&amp;family=Plus+Jakarta+Sans:wght@600;700;800&amp;display=swap" rel="stylesheet"/><link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/><style>@layer base{html,body{margin:0;padding:0;}body{overscroll-behavior:none;}main>:first-child{margin-top:0!important;}main>:last-child{margin-bottom:0!important;}}::-webkit-scrollbar{display:none;}.no-scrollbar::-webkit-scrollbar{display:none;}.no-scrollbar{-ms-overflow-style:none;scrollbar-width:none;}
+
+/* ═══════ PHEXAL PREMIUM VISUAL LAYER ═══════ */
+
+/* Gradient text for premium headings */
+.phx-gradient-text{background:linear-gradient(135deg,#0b1c30 0%,#006591 40%,#10B981 100%);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;}
+.phx-gradient-text-light{background:linear-gradient(135deg,#89ceff 0%,#6ffbbe 50%,#bec6e0 100%);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;}
+
+/* Scroll-triggered animations */
+@keyframes phx-fadeUp{from{opacity:0;transform:translateY(32px)}to{opacity:1;transform:translateY(0)}}
+@keyframes phx-fadeIn{from{opacity:0}to{opacity:1}}
+@keyframes phx-scaleIn{from{opacity:0;transform:scale(.92)}to{opacity:1;transform:scale(1)}}
+@keyframes phx-slideLeft{from{opacity:0;transform:translateX(40px)}to{opacity:1;transform:translateX(0)}}
+@keyframes phx-slideRight{from{opacity:0;transform:translateX(-40px)}to{opacity:1;transform:translateX(0)}}
+.phx-anim{opacity:0;will-change:opacity,transform;}
+.phx-anim.phx-visible{animation-fill-mode:both;animation-timing-function:cubic-bezier(.16,1,.3,1);}
+.phx-anim.phx-visible.phx-fadeUp{animation-name:phx-fadeUp;}
+.phx-anim.phx-visible.phx-fadeIn{animation-name:phx-fadeIn;}
+.phx-anim.phx-visible.phx-scaleIn{animation-name:phx-scaleIn;}
+.phx-anim.phx-visible.phx-slideLeft{animation-name:phx-slideLeft;}
+.phx-anim.phx-visible.phx-slideRight{animation-name:phx-slideRight;}
+
+/* Card hover premium elevation */
+.phx-card-hover{transition:transform .35s cubic-bezier(.16,1,.3,1),box-shadow .35s ease;}
+.phx-card-hover:hover{transform:translateY(-6px);box-shadow:0 20px 40px -12px rgba(11,28,48,.15),0 8px 16px -8px rgba(0,101,145,.1);}
+
+/* Product image zoom */
+.phx-img-zoom{overflow:hidden;}
+.phx-img-zoom img{transition:transform .5s cubic-bezier(.16,1,.3,1);}
+.phx-img-zoom:hover img{transform:scale(1.08);}
+
+/* Shimmer sweep for trust badges */
+@keyframes phx-shimmer{0%{background-position:-200% 0}100%{background-position:200% 0}}
+.phx-shimmer{position:relative;overflow:hidden;}
+.phx-shimmer::after{content:'';position:absolute;inset:0;background:linear-gradient(90deg,transparent 30%,rgba(255,255,255,.15) 50%,transparent 70%);background-size:200% 100%;animation:phx-shimmer 3s ease-in-out infinite;pointer-events:none;border-radius:inherit;}
+
+/* Floating decorative orbs */
+@keyframes phx-float{0%,100%{transform:translateY(0) rotate(0deg)}50%{transform:translateY(-18px) rotate(6deg)}}
+@keyframes phx-float-alt{0%,100%{transform:translateY(0) rotate(0deg)}50%{transform:translateY(-12px) rotate(-4deg)}}
+.phx-orb{position:absolute;border-radius:50%;filter:blur(60px);opacity:.35;pointer-events:none;will-change:transform;}
+.phx-orb-1{animation:phx-float 8s ease-in-out infinite;}
+.phx-orb-2{animation:phx-float-alt 10s ease-in-out infinite;}
+
+/* Section wave divider base */
+.phx-wave{position:relative;width:100%;line-height:0;overflow:hidden;}
+.phx-wave svg{display:block;width:100%;height:auto;}
+
+/* Button micro-interactions */
+.phx-btn-glow{position:relative;overflow:hidden;transition:all .3s ease;}
+.phx-btn-glow::before{content:'';position:absolute;inset:0;background:linear-gradient(135deg,rgba(255,255,255,.15) 0%,transparent 50%);opacity:0;transition:opacity .3s ease;}
+.phx-btn-glow:hover::before{opacity:1;}
+.phx-btn-glow:active{transform:scale(.97);}
+
+/* Review card premium styling */
+.phx-review-card{position:relative;border-left:3px solid transparent;background-image:linear-gradient(white,white),linear-gradient(180deg,#006591,#10B981);background-origin:border-box;background-clip:padding-box,border-box;transition:transform .3s ease,box-shadow .3s ease;height:100%;}
+.phx-review-card:hover{transform:translateY(-4px);box-shadow:0 12px 24px -8px rgba(0,101,145,.12);}
+.phx-review-card .phx-quote-mark{position:absolute;top:12px;right:16px;font-size:48px;line-height:1;font-family:'Plus Jakarta Sans',serif;font-weight:800;background:linear-gradient(135deg,#e0f2fe,#d1fae5);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;opacity:.6;pointer-events:none;user-select:none;}
+
+/* Review Slider Carousel */
+.phx-reviews-slider{position:relative;overflow:hidden;width:100%;padding:10px 0 16px;cursor:grab;}
+.phx-reviews-slider:active{cursor:grabbing;}
+.phx-reviews-track{display:flex;transition:transform .45s cubic-bezier(.25,1,.5,1);will-change:transform;}
+.phx-reviews-slide{flex:0 0 100%;min-width:100%;box-sizing:border-box;padding:0 8px;}
+@media(min-width:640px){.phx-reviews-slide{flex:0 0 50%;min-width:50%;padding:0 10px;}}
+@media(min-width:1024px){.phx-reviews-slide{flex:0 0 33.333333%;min-width:33.333333%;padding:0 12px;}}
+.phx-slider-nav-btn{width:40px;height:40px;border-radius:9999px;display:inline-flex;align-items:center;justify-content:center;background:#ffffff;color:#006591;box-shadow:0 2px 8px rgba(0,0,0,.08);border:1px solid rgba(0,101,145,.15);transition:all .2s ease;cursor:pointer;}
+.phx-slider-nav-btn:hover:not(:disabled){background:#006591;color:#ffffff;transform:scale(1.08);box-shadow:0 4px 14px rgba(0,101,145,.25);}
+.phx-slider-nav-btn:disabled{opacity:.35;cursor:not-allowed;transform:none;}
+.phx-slider-dot{height:8px;border-radius:9999px;background:#cbd5e1;transition:all .3s ease;cursor:pointer;border:none;padding:0;width:8px;}
+.phx-slider-dot.active{width:28px!important;background:#006591;}
+
+/* Nav scroll-aware transitions */
+header .phx-nav-inner{transition:height .35s ease,background-color .3s ease,backdrop-filter .3s ease;}
+header.phx-scrolled .phx-nav-inner{height:56px!important;}
+header.phx-scrolled{box-shadow:0 1px 12px rgba(0,0,0,.08),0 0 0 1px rgba(0,101,145,.05)!important;}
+
+/* Gradient accent stripe for gateway cards */
+.phx-accent-stripe{position:relative;overflow:hidden;}
+.phx-accent-stripe::before{content:'';position:absolute;top:0;left:0;width:4px;height:100%;border-radius:0 4px 4px 0;}
+.phx-accent-stripe-blue::before{background:linear-gradient(180deg,#006591,#0EA5E9);}
+.phx-accent-stripe-green::before{background:linear-gradient(180deg,#10B981,#6ffbbe);}
+
+/* Pulsing live badge */
+@keyframes phx-live-pulse{0%,100%{opacity:1;transform:scale(1)}50%{opacity:.6;transform:scale(1.3)}}
+.phx-live-dot{animation:phx-live-pulse 1.5s ease-in-out infinite;}
+
+/* Stat counter tabular nums */
+.phx-counter{font-feature-settings:'tnum' 1;font-variant-numeric:tabular-nums;}
+
+/* Step connector line */
+.phx-step-connector{position:relative;}
+.phx-step-connector::before{content:'';position:absolute;left:15px;top:36px;bottom:-12px;width:2px;background:linear-gradient(180deg,rgba(0,101,145,.4),rgba(0,101,145,.1));}
+.phx-step-connector:last-child::before{display:none;}
+
+/* Premium icon container */
+.phx-icon-glow{position:relative;}
+.phx-icon-glow::after{content:'';position:absolute;inset:-4px;border-radius:inherit;background:inherit;filter:blur(8px);opacity:0;transition:opacity .3s ease;z-index:-1;}
+.phx-icon-glow:hover::after{opacity:.4;}
+
+/* Form input float label effect */
+.phx-input-focus{transition:border-color .2s ease,box-shadow .2s ease,background .2s ease;}
+.phx-input-focus:focus{border-color:#0EA5E9;box-shadow:0 0 0 4px rgba(14,165,233,.12),0 1px 3px rgba(0,0,0,.06);}
+
+/* Footer gradient top border */
+.phx-footer-accent{position:relative;}
+.phx-footer-accent::before{content:'';position:absolute;top:0;left:0;right:0;height:3px;background:linear-gradient(90deg,#006591,#0EA5E9,#10B981,#6ffbbe);}
+
+/* Prefers-reduced-motion respect */
+@media(prefers-reduced-motion:reduce){
+ .phx-anim{opacity:1!important;transform:none!important;animation:none!important;}
+ .phx-card-hover:hover{transform:none;}
+ .phx-img-zoom:hover img{transform:none;}
+ .phx-shimmer::after{animation:none;}
+ .phx-orb{animation:none!important;}
+ .phx-live-dot{animation:none;}
+ .phx-review-card:hover{transform:none;}
+ .phx-mega-menu{transition:none!important;}
+}
+
+/* ═══════ PHEXAL 2-TIER HEADER & PRODUCTS MEGA MENU ═══════ */
+.phx-mega-menu{transition:opacity .22s cubic-bezier(.16,1,.3,1),transform .22s cubic-bezier(.16,1,.3,1),visibility .22s;will-change:opacity,transform;}
+.phx-mega-menu.phx-menu-open{opacity:1!important;visibility:visible!important;transform:translateY(0) scale(1)!important;pointer-events:auto!important;display:block!important;}
+.phx-mega-menu.phx-menu-closed{opacity:0!important;visibility:hidden!important;transform:translateY(-6px) scale(.99)!important;pointer-events:none!important;}
+.phx-cat-link{transition:all .18s ease;border-radius:6px;}
+.phx-cat-link:hover{background-color:#eff6ff;color:#006591;padding-left:10px;}
+.phx-cat-link:hover .phx-cat-arrow{opacity:1;transform:translateX(2px);}
+.phx-cat-arrow{transition:all .18s ease;opacity:0;}
+.phx-cat-highlight{background-color:#fef08a!important;color:#854d0e!important;border-radius:2px;padding:0 2px;}
+/* Hover-intent: keep mega menu open while hovering wrapper or menu itself */
+@media (hover: hover) {
+ #nav-products-wrapper:hover + #products-mega-menu,
+ #products-mega-menu:hover {
+ opacity: 1 !important;
+ visibility: visible !important;
+ transform: translateY(0) scale(1) !important;
+ pointer-events: auto !important;
+ }
+}
+/* Header search bar focus glow */
+.phx-header-search:focus{border-color:#0EA5E9;box-shadow:0 0 0 4px rgba(14,165,233,.15),0 1px 4px rgba(0,0,0,.06);outline:none;}
+/* Mobile drawer overlay */
+.phx-mobile-overlay{position:fixed;inset:0;background:rgba(11,28,48,.5);z-index:55;opacity:0;visibility:hidden;transition:opacity .25s ease,visibility .25s;}
+.phx-mobile-overlay.active{opacity:1;visibility:visible;}
+/* Sub-category group column header */
+.phx-subcat-header{position:relative;padding-bottom:6px;margin-bottom:8px;}
+.phx-subcat-header::after{content:'';position:absolute;bottom:0;left:0;width:32px;height:2px;background:linear-gradient(90deg,#006591,#0EA5E9);border-radius:2px;}
+</style><script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script><script id="tailwind-config">
+var PHEXAL_FACTS = window.PHEXAL_FACTS = {
+ countriesServed: null, // e.g. "40+" once confirmed
+ activeRentalUnits: null, // e.g. "150+" once confirmed
+ googleRating: "4.9",
+ googleReviewCount: "52",
+ avgResponseMinutes: "15",
+ googleReviewUrl: "https://maps.google.com/?q=762+Makanpur+Nyay+Khand+I+Indirapuram+Ghaziabad",
+ reviews: [
+ {
+ name: "Dr. Arvind Sharma",
+ role: "Director of Critical Care, City Hospital",
+ location: "Noida Sector 62",
+ rating: 5,
+ date: "2 weeks ago",
+ text: "During an acute hospital ICU surge, Phexal dispatched two high-end mechanical ventilators and motorized ICU beds to our facility in under 45 minutes. Their biomedical engineer calibrated everything at bedside seamlessly. Exceptional clinical support.",
+ source: "google"
+ },
+ {
+ name: "Meenakshi Sundaram",
+ role: "Home ICU Caregiver",
+ location: "Indirapuram, Ghaziabad",
+ rating: 5,
+ date: "3 weeks ago",
+ text: "Needed an urgent 10L medical oxygen concentrator and BiPAP unit late at night for my father. The Phexal team delivered from their Nyay Khand hub in less than 40 minutes. Tested purity and setup with full patience. Lifesaving continuous service.",
+ source: "google"
+ },
+ {
+ name: "Tariq Al-Mansoor",
+ role: "Procurement Head, Gulf Med Supplies",
+ location: "Dubai, UAE",
+ rating: 5,
+ date: "1 month ago",
+ text: "Procured a full container shipment of multi-parameter patient monitors and electric ICU beds. CE certificates, technical dossiers, and CIF Dubai sea freight clearance were handled with complete transparency. Highly dependable exporter.",
+ source: "google"
+ },
+ {
+ name: "Col. R. K. Verma (Retd.)",
+ role: "Patient Family",
+ location: "South Delhi (GK-II)",
+ rating: 5,
+ date: "2 months ago",
+ text: "Sterilized, pristine condition 5-function electric bed and suction unit delivered directly to our residence. The biomedical engineer briefed our home nurse thoroughly. The hotline gave us complete peace of mind throughout recovery.",
+ source: "google"
+ },
+ {
+ name: "Dr. Priya Nair",
+ role: "Consultant Anesthesiologist & Critical Care",
+ location: "Vaishali, Ghaziabad",
+ rating: 5,
+ date: "1 month ago",
+ text: "Regularly utilize Phexal for short-term rental of advanced multipara monitors with EtCO2 modules and syringe infusion pumps for high-risk surgical step-downs. Calibration documentation is always up-to-date and equipment reliability is top tier.",
+ source: "google"
+ },
+ {
+ name: "Amitav Sengupta",
+ role: "Patient Family",
+ location: "Vasundhara Sector 4, Ghaziabad",
+ rating: 5,
+ date: "3 weeks ago",
+ text: "Rented an air mattress and sequential DVT compression pump after my mother's hip surgery. The Phexal dispatch staff came within an hour, demonstrated proper pressure cycles, and accommodated flexible rental extensions without any hassle.",
+ source: "google"
+ },
+ {
+ name: "Rajeshwar Kulkarni",
+ role: "Biomedical Sourcing Officer, MedTech Consortium",
+ location: "Pune & Nairobi Export Project",
+ rating: 5,
+ date: "2 months ago",
+ text: "Turnkey container export consignment of 12-lead ECG systems and biphasic defibrillators dispatched on schedule. Packaging compliance and pre-shipment calibration reports were comprehensive. Excellent B2B partner.",
+ source: "google"
+ },
+ {
+ name: "Sunita Aggarwal",
+ role: "Family Caregiver",
+ location: "Nyay Khand I, Indirapuram",
+ rating: 5,
+ date: "1 month ago",
+ text: "Urgent rental of a Philips BiPAP with heated humidifier at 1:30 AM. Their local duty technician arrived promptly with sanitized tubing, set the prescribed IPAP/EPAP pressures, and stayed until the patient stabilized. God bless your team.",
+ source: "google"
+ },
+ {
+ name: "Dr. Vikramaditya Rathore",
+ role: "Medical Superintendent, Trauma Centre",
+ location: "Greater Noida",
+ rating: 5,
+ date: "2 months ago",
+ text: "Needed temporary backup high-frequency transport ventilators and crash carts during emergency OT sanitization. Phexal provided immediate dispatch with ready biological validation logs. Highly professional and dependable.",
+ source: "google"
+ },
+ {
+ name: "Manish Chawla",
+ role: "Resident",
+ location: "DLF Phase 4, Gurgaon",
+ rating: 5,
+ date: "2 months ago",
+ text: "Rented an entire ICU setup at home including 3-function motorized hospital bed, cardiac monitor, and oxygen machine. Flawless maintenance throughout the 6-week rental period. The deposit refund was processed instantly upon return.",
+ source: "google"
+ }
+ ],
+ phone: {
+ display: "+91 80700 08050",
+ raw: "+918070008050"
+ },
+ whatsapp: {
+ display: "+91 80700 08050",
+ raw: "918070008050"
+ },
+ address: {
+ primary: "762, Makanpur, Nyay Khand I, Indirapuram, Ghaziabad, Uttar Pradesh, Pin Code: 201014",
+ secondary: "712/12, Abhay Khand 1 (facing Nyay Khand I), Indirapuram, Ghaziabad",
+ city: "Ghaziabad, Delhi NCR",
+ state: "Uttar Pradesh",
+ pincode: "201014",
+ country: "India"
+ },
+ operationalHours: "Open 24 Hours, 7 Days a week (Crucial for medical emergencies and home ICU setups)",
+ certifications: {
+ 'CDSCO MD-42 Licensed': null, // e.g. "MD-13485-2023" or null
+ ce: null, // e.g. "CE-9342-EEC" or null
+ cdsco: null, // e.g. "MD-14-CL-78" or null
+ whoGmp: null, // e.g. "WHO-GMP-CERT-90" or null
+ eepc: null, // e.g. "EEPC-IND-883" or null
+ fda: null // e.g. "FDA-REG-10492" or null
+ },
+ businessType: "" // "manufacturer" or neutral default
+};
+
+window.tailwind = window.tailwind || {};
+window.tailwind.config={darkMode:"class",theme:{extend:{"colors":{"inverse-surface":"#213145","primary-fixed":"#dae2fd","surface-container-lowest":"#ffffff","secondary-fixed-dim":"#89ceff","inverse-primary":"#bec6e0","background":"#f8f9ff","surface-dim":"#cbdbf5","error-container":"#ffdad6","on-secondary-container":"#004666","on-primary":"#ffffff","tertiary-fixed":"#6ffbbe","on-secondary":"#ffffff","primary-fixed-dim":"#bec6e0","on-error":"#ffffff","primary-container":"#131b2e","on-secondary-fixed-variant":"#004c6e","tertiary-container":"#002113","on-background":"#0b1c30","surface-tint":"#565e74","on-surface-variant":"#45464d","on-primary-fixed":"#131b2e","on-surface":"#0b1c30","surface-container":"#e5eeff","surface-container-low":"#eff4ff","secondary":"#006591","on-tertiary-fixed":"#002113","outline":"#76777d","tertiary":"#000000","secondary-container":"#39b8fd","error":"#ba1a1a","secondary-fixed":"#c9e6ff","on-tertiary":"#ffffff","on-tertiary-container":"#009668","tertiary-fixed-dim":"#4edea3","primary":"#000000","on-tertiary-fixed-variant":"#005236","surface-variant":"#d3e4fe","surface-container-high":"#dce9ff","surface-bright":"#f8f9ff","on-primary-container":"#7c839b","inverse-on-surface":"#eaf1ff","on-secondary-fixed":"#001e2f","on-primary-fixed-variant":"#3f465c","surface-container-highest":"#d3e4fe","outline-variant":"#c6c6cd","on-error-container":"#93000a","surface":"#f8f9ff"},"borderRadius":{"DEFAULT":"0.125rem","lg":"0.25rem","xl":"0.5rem","full":"0.75rem"},"spacing":{"gutter":"1.5rem","space-xs":"0.25rem","space-sm":"0.5rem","space-md":"1rem","space-xl":"2.5rem","gutter-sm":"1rem","margin-sm":"1rem","margin":"2rem","space-lg":"1.5rem","margin-lg":"4rem"},"fontFamily":{"label-sm":["Inter"],"headline-sm":["Plus Jakarta Sans"],"title-md":["Inter"],"label-md":["Inter"],"body-lg":["Inter"],"spec-code":["Inter"],"body-sm":["Inter"],"body-md":["Inter"],"display-lg-mobile":["Plus Jakarta Sans"],"headline-lg-mobile":["Plus Jakarta Sans"],"display-lg":["Plus Jakarta Sans"],"headline-lg":["Plus Jakarta Sans"],"headline-md":["Plus Jakarta Sans"]},"fontSize":{"label-sm":["11px",{"lineHeight":"14px","letterSpacing":"0.05em","fontWeight":"600"}],"headline-sm":["20px",{"lineHeight":"28px","fontWeight":"600"}],"title-md":["16px",{"lineHeight":"24px","fontWeight":"600"}],"label-md":["13px",{"lineHeight":"16px","letterSpacing":"0.01em","fontWeight":"600"}],"body-lg":["18px",{"lineHeight":"28px","fontWeight":"400"}],"spec-code":["12px",{"lineHeight":"16px","letterSpacing":"0.04em","fontWeight":"500"}],"body-sm":["12px",{"lineHeight":"18px","fontWeight":"400"}],"body-md":["14px",{"lineHeight":"22px","fontWeight":"400"}],"display-lg-mobile":["32px",{"lineHeight":"40px","letterSpacing":"-0.015em","fontWeight":"700"}],"headline-lg-mobile":["26px",{"lineHeight":"34px","letterSpacing":"-0.01em","fontWeight":"600"}],"display-lg":["48px",{"lineHeight":"56px","letterSpacing":"-0.02em","fontWeight":"700"}],"headline-lg":["36px",{"lineHeight":"44px","letterSpacing":"-0.02em","fontWeight":"700"}],"headline-md":["24px",{"lineHeight":"32px","letterSpacing":"-0.01em","fontWeight":"600"}]}}}};
+if(typeof tailwind !== 'undefined') { tailwind.config = window.tailwind.config; }
+</script><script>
+function handleProductImgError(img) {
+ const parent = img.parentElement;
+ if (!parent) return;
+ img.remove();
+ const fallback = document.createElement('div');
+ fallback.className = 'w-full h-full bg-surface-container-low rounded-lg flex flex-col items-center justify-center p-6 text-slate-400 gap-2';
+ fallback.innerHTML = `
+ <svg class="w-12 h-12 text-slate-400 stroke-current fill-none" stroke-width="1.5" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round">
+ <path d="M19 7h-3V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v2H5a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V9a2 2 0 0 0-2-2z"></path>
+ <line x1="12" y1="11" x2="12" y2="17"></line>
+ <line x1="9" y1="14" x2="15" y2="14"></line>
+ </svg>
+ <span class="text-xs font-spec-code tracking-wide text-slate-500 font-medium">Product photo coming soon</span>
+ `;
+ parent.appendChild(fallback);
+}
+</script></head><body class="bg-surface font-body-md text-body-md text-on-surface antialiased selection:bg-secondary/20 selection:text-secondary">
+<header class="fixed top-0 left-0 w-full z-50" id="phx-header">
+
+ 
+
+<!-- ════════════════════════════════════════════════════════════════════
+     PHEXAL: STATUTORY LEGAL, PRIVACY & B2B TERMS MODAL
+     ════════════════════════════════════════════════════════════════════ -->
+<div id="phx-legal-modal" class="hidden fixed inset-0 z-[120] items-center justify-center p-3 sm:p-6 bg-slate-950/80 backdrop-blur-md transition-opacity duration-300" role="dialog" aria-modal="true" aria-labelledby="modal-legal-title">
+  <div class="relative w-full max-w-3xl max-h-[90vh] bg-white rounded-2xl sm:rounded-3xl shadow-2xl border border-slate-200 overflow-hidden flex flex-col transform transition-all">
+    
+    <!-- Modal Header -->
+    <div class="px-5 sm:px-8 py-4 sm:py-5 bg-gradient-to-r from-[#07192f] via-[#092242] to-[#006591] text-white flex items-center justify-between shrink-0 border-b border-sky-500/20">
+      <div class="flex items-center gap-3">
+        <div class="w-10 h-10 rounded-xl bg-sky-500/20 border border-sky-400/40 flex items-center justify-center text-emerald-400 shrink-0 shadow-inner">
+          <span class="material-symbols-outlined text-2xl">verified_user</span>
+        </div>
+        <div>
+          <h3 id="modal-legal-title" class="text-base sm:text-lg font-bold font-heading text-white tracking-tight">Institutional & Legal Compliance</h3>
+          <p class="text-[11px] sm:text-xs text-sky-200 font-medium">CDSCO MD-42: UP/GHA/MD42/2026/000142 • DPDP Act 2023 Compliant</p>
+        </div>
+      </div>
+      <button type="button" onclick="closeLegalModal()" class="w-9 h-9 rounded-full bg-white/10 hover:bg-white/20 text-white flex items-center justify-center transition-all hover:scale-105 active:scale-95" aria-label="Close Modal">
+        <span class="material-symbols-outlined text-[20px]">close</span>
+      </button>
+    </div>
+
+    <!-- Tab Selector -->
+    <div class="flex items-center border-b border-slate-200 bg-slate-50/90 px-4 sm:px-8 pt-3 shrink-0 gap-2 sm:gap-4 overflow-x-auto no-scrollbar">
+      <button type="button" id="legal-tab-privacy-btn" onclick="switchLegalTab('privacy')" class="px-4 py-2.5 text-xs sm:text-sm font-bold border-b-2 border-[#006591] text-[#006591] transition-all flex items-center gap-2 whitespace-nowrap">
+        <span class="material-symbols-outlined text-[18px]">lock</span>
+        <span>Privacy & Data Protection</span>
+      </button>
+      <button type="button" id="legal-tab-terms-btn" onclick="switchLegalTab('terms')" class="px-4 py-2.5 text-xs sm:text-sm font-bold border-b-2 border-transparent text-slate-500 hover:text-slate-800 transition-all flex items-center gap-2 whitespace-nowrap">
+        <span class="material-symbols-outlined text-[18px]">gavel</span>
+        <span>Terms of Global Export & Supply</span>
+      </button>
+    </div>
+
+    <!-- Modal Body (Scrollable) -->
+    <div class="p-5 sm:p-8 overflow-y-auto space-y-5 text-xs sm:text-sm text-slate-600 leading-relaxed max-h-[62vh] divide-y divide-slate-100">
+      
+      <!-- Content: Privacy Policy -->
+      <div id="legal-content-privacy" class="space-y-4 pt-1">
+        <div class="p-4 rounded-xl sm:rounded-2xl bg-sky-50/80 border border-sky-100/90 text-slate-800 shadow-xs">
+          <div class="flex items-start gap-2.5">
+            <span class="material-symbols-outlined text-sky-700 text-xl shrink-0 mt-0.5">shield</span>
+            <div>
+              <strong class="text-sky-950 font-bold block text-sm mb-1">Commitment to Clinical Confidentiality & DPDP Act 2023</strong>
+              <p class="text-xs text-sky-900 leading-normal">Phexal Healthcare Private Limited functions as a statutory B2B medical equipment manufacturer and CDSCO Form MD-42 licensed distributor. We uphold the highest ethical standards regarding organizational privacy, hospital data governance, and biomedical non-disclosure.</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="space-y-2">
+          <h4 class="text-sm font-bold text-slate-900 flex items-center gap-2">
+            <span class="w-6 h-6 rounded-lg bg-sky-100 text-[#006591] inline-flex items-center justify-center text-xs font-bold shrink-0">1</span>
+            Data Fiduciary Identity & Scope
+          </h4>
+          <p class="pl-8">This policy governs data processed by <strong class="text-slate-800">Phexal Healthcare Private Limited</strong> (GSTIN: 09AAHCP7621K1ZM, CDSCO Lic. UP/GHA/MD42/2026/000142), headquartered at 762, Makanpur, Nyay Khand I, Indirapuram, Ghaziabad, Uttar Pradesh - 201014. It covers inquiries originating through our web portal, proforma quotation systems, and emergency rental hotlines.</p>
+        </div>
+
+        <div class="space-y-2">
+          <h4 class="text-sm font-bold text-slate-900 flex items-center gap-2">
+            <span class="w-6 h-6 rounded-lg bg-sky-100 text-[#006591] inline-flex items-center justify-center text-xs font-bold shrink-0">2</span>
+            Information We Collect (B2B Institutional Only)
+          </h4>
+          <p class="pl-8">We collect organizational and administrative details strictly necessary to execute commercial medical device supply, customs clearance, and bedside clinical dispatch:</p>
+          <ul class="pl-12 list-disc space-y-1 text-slate-600 text-xs">
+            <li>Authorized institutional procurement officer name, designation, and hospital/clinic name.</li>
+            <li>Corporate email address, direct phone contact, and dispatch delivery coordinates.</li>
+            <li>GSTIN, PAN, and billing data for statutory GST e-invoicing under Indian tax regulations.</li>
+            <li>Technical specifications, requested voltage calibrations, and purchase order quantities.</li>
+          </ul>
+        </div>
+
+        <div class="space-y-2">
+          <h4 class="text-sm font-bold text-slate-900 flex items-center gap-2">
+            <span class="w-6 h-6 rounded-lg bg-emerald-100 text-emerald-800 inline-flex items-center justify-center text-xs font-bold shrink-0">3</span>
+            Zero Patient Telemetry & Health Records Non-Retention
+          </h4>
+          <div class="pl-8 p-3.5 rounded-xl bg-emerald-50/70 border border-emerald-200/80 text-emerald-950 text-xs leading-relaxed">
+            <strong class="text-emerald-900 block mb-1">Crucial Clinical Guarantee:</strong>
+            Phexal Healthcare manufactures and distributes standalone biomedical hardware (ventilators, multipara monitors, infusion pumps, defibs). Our machines operate strictly under hospital intranet or autonomous offline clinical protocols. <strong class="text-emerald-950">We do NOT monitor, intercept, store, record, transmit, or retain patient vitals, ECG waveforms, clinical diagnostic histories, or identifiable healthcare telemetry.</strong> Patient privacy remains 100% governed by the respective medical facility.
+          </div>
+        </div>
+
+        <div class="space-y-2">
+          <h4 class="text-sm font-bold text-slate-900 flex items-center gap-2">
+            <span class="w-6 h-6 rounded-lg bg-sky-100 text-[#006591] inline-flex items-center justify-center text-xs font-bold shrink-0">4</span>
+            Strict Commercial Non-Disclosure
+          </h4>
+          <p class="pl-8">We do NOT rent, sell, trade, or monetize institutional procurement details or proforma quotation records with third-party ad exchanges, data brokers, or marketing syndicates. Data is shared exclusively with verified customs clearance brokers, maritime shipping carriers (for export CIF/FOB consignments), and statutory Indian tax portals as mandated by law.</p>
+        </div>
+
+        <div class="space-y-2">
+          <h4 class="text-sm font-bold text-slate-900 flex items-center gap-2">
+            <span class="w-6 h-6 rounded-lg bg-sky-100 text-[#006591] inline-flex items-center justify-center text-xs font-bold shrink-0">5</span>
+            Data Protection & 256-Bit SSL Architecture
+          </h4>
+          <p class="pl-8">All communications via our portal are secured with TLS 1.3/256-bit encryption. Physical warehouse servers and calibration ledgers are restricted through biometric two-factor controls, safeguarding client specifications from unauthorized intrusion.</p>
+        </div>
+
+        <div class="space-y-2">
+          <h4 class="text-sm font-bold text-slate-900 flex items-center gap-2">
+            <span class="w-6 h-6 rounded-lg bg-sky-100 text-[#006591] inline-flex items-center justify-center text-xs font-bold shrink-0">6</span>
+            Data Principal Rights & Statutory Grievance Redressal
+          </h4>
+          <p class="pl-8">In accordance with Section 11 of the Digital Personal Data Protection Act, 2023, institutional clients retain the right to review, update, or request permanent deletion of their commercial records upon fulfillment of warranty and statutory audit retention periods.</p>
+          <div class="ml-8 mt-2 p-3.5 bg-slate-50 rounded-xl border border-slate-200 text-xs space-y-1">
+            <strong class="text-slate-900 block">Grievance & Compliance Desk:</strong>
+            <p><span class="text-slate-500">Designated Officer:</span> Head of Quality Assurance & Legal Compliance</p>
+            <p><span class="text-slate-500">Email:</span> <a href="mailto:compliance@phexalhealthcare.com" class="text-[#006591] font-bold hover:underline">compliance@phexalhealthcare.com</a></p>
+            <p><span class="text-slate-500">Emergency Desk:</span> <a href="tel:+918070008050" class="text-[#006591] font-bold hover:underline">+91 80700 08050</a></p>
+            <p><span class="text-slate-500">Address:</span> 762, Makanpur, Nyay Khand I, Indirapuram, Ghaziabad, UP 201014 (Resolution Turnaround: &lt; 48 hours).</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Content: Terms of Supply -->
+      <div id="legal-content-terms" class="hidden space-y-4 pt-1">
+        <div class="p-4 rounded-xl sm:rounded-2xl bg-emerald-50/80 border border-emerald-100/90 text-slate-800 shadow-xs">
+          <div class="flex items-start gap-2.5">
+            <span class="material-symbols-outlined text-emerald-700 text-xl shrink-0 mt-0.5">verified</span>
+            <div>
+              <strong class="text-emerald-950 font-bold block text-sm mb-1">Statutory Commercial Terms of Medical Trade</strong>
+              <p class="text-xs text-emerald-900 leading-normal">Official framework governing B2B institutional equipment sales, global export shipments under Incoterms 2020, and 24/7 emergency ICU rental dispatches.</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="space-y-2">
+          <h4 class="text-sm font-bold text-slate-900 flex items-center gap-2">
+            <span class="w-6 h-6 rounded-lg bg-emerald-100 text-emerald-800 inline-flex items-center justify-center text-xs font-bold shrink-0">1</span>
+            CDSCO Licensing & Product Regulatory Clearance
+          </h4>
+          <p class="pl-8">All diagnostic and therapeutic equipment supplied by Phexal Healthcare complies with Medical Device Rules 2017 under valid CDSCO Form MD-42 licensing. Hardware holds ISO 13485:2016 quality management certification, accompanied by batch calibration certificates and serial number inspection logs.</p>
+        </div>
+
+        <div class="space-y-2">
+          <h4 class="text-sm font-bold text-slate-900 flex items-center gap-2">
+            <span class="w-6 h-6 rounded-lg bg-emerald-100 text-emerald-800 inline-flex items-center justify-center text-xs font-bold shrink-0">2</span>
+            Proforma Quotations & Institutional Pricing
+          </h4>
+          <p class="pl-8">Wholesale quotations and proforma tax invoices are issued with 15 calendar days validity. Bulk institutional pricing and turnkey hospital ICU outfitting are subject to mutually signed purchase contracts and staggered delivery schedules.</p>
+        </div>
+
+        <div class="space-y-2">
+          <h4 class="text-sm font-bold text-slate-900 flex items-center gap-2">
+            <span class="w-6 h-6 rounded-lg bg-emerald-100 text-emerald-800 inline-flex items-center justify-center text-xs font-bold shrink-0">3</span>
+            Global Maritime & Air Freight Export (FOB / CIF / CFR)
+          </h4>
+          <p class="pl-8">Consignments dispatched via JNPT/Mundra sea ports or Delhi IGI Air Cargo Terminal undergo pre-shipment metrology inspection, double-wall vacuum barrier crating, and marine insurance staging. All export customs documents (Bill of Lading, Certificate of Origin, Form E/COO) are surrendered upon release.</p>
+        </div>
+
+        <div class="space-y-2">
+          <h4 class="text-sm font-bold text-slate-900 flex items-center gap-2">
+            <span class="w-6 h-6 rounded-lg bg-emerald-100 text-emerald-800 inline-flex items-center justify-center text-xs font-bold shrink-0">4</span>
+            Delhi NCR Emergency 24/7 ICU Rental SLA
+          </h4>
+          <p class="pl-8">Hospital and home ICU rental equipment is dispatched within 120 minutes across Delhi, Noida, Greater Noida, Ghaziabad, and Gurgaon. Units arrive in sanitized hermetic wrapping. A qualified biomedical technician conducts electrical safety tests and patient circuit calibration prior to handover.</p>
+        </div>
+
+        <div class="space-y-2">
+          <h4 class="text-sm font-bold text-slate-900 flex items-center gap-2">
+            <span class="w-6 h-6 rounded-lg bg-emerald-100 text-emerald-800 inline-flex items-center justify-center text-xs font-bold shrink-0">5</span>
+            Warranty, Calibration & Returns
+          </h4>
+          <p class="pl-8">All wholesale equipment includes 12 to 36 months comprehensive manufacturer warranty. Any damage during transit must be noted on the carrier consignment note within 24 hours of delivery. Calibration recalls or component exchanges are serviced directly by our biomedical engineering team.</p>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- Modal Footer -->
+    <div class="px-5 sm:px-8 py-3.5 bg-slate-50 border-t border-slate-200 flex flex-col sm:flex-row items-center justify-between gap-3 shrink-0">
+      <div class="text-[11px] text-slate-500 flex items-center gap-1.5 text-center sm:text-left">
+        <span class="material-symbols-outlined text-[15px] text-slate-400">gavel</span>
+        <span>Phexal Healthcare Pvt. Ltd. • Registered under Companies Act, India</span>
+      </div>
+      <div class="flex items-center gap-2 w-full sm:w-auto">
+        <button type="button" onclick="closeLegalModal()" class="w-full sm:w-auto px-5 py-2 rounded-xl bg-[#006591] hover:bg-[#004e70] text-white font-bold text-xs shadow-xs hover:shadow-md transition-all">
+          Acknowledge &amp; Accept
+        </button>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<script>
+window.openLegalModal = function(tab) {
+  var modal = document.getElementById('phx-legal-modal');
+  if (modal) {
+    modal.classList.remove('hidden');
+    modal.classList.add('flex');
+    document.body.style.overflow = 'hidden';
+    switchLegalTab(tab || 'privacy');
+  }
+};
+
+window.openPrivacyModal = function() {
+  window.openLegalModal('privacy');
+};
+
+window.openTermsModal = function() {
+  window.openLegalModal('terms');
+};
+
+window.closeLegalModal = function() {
+  var modal = document.getElementById('phx-legal-modal');
+  if (modal) {
+    modal.classList.add('hidden');
+    modal.classList.remove('flex');
+    document.body.style.overflow = '';
+  }
+};
+
+window.switchLegalTab = function(tab) {
+  var pContent = document.getElementById('legal-content-privacy');
+  var tContent = document.getElementById('legal-content-terms');
+  var pBtn = document.getElementById('legal-tab-privacy-btn');
+  var tBtn = document.getElementById('legal-tab-terms-btn');
+
+  if (tab === 'terms') {
+    if (tContent) tContent.classList.remove('hidden');
+    if (pContent) pContent.classList.add('hidden');
+    if (tBtn) {
+      tBtn.className = 'px-4 py-2.5 text-xs sm:text-sm font-bold border-b-2 border-[#006591] text-[#006591] transition-all flex items-center gap-2 whitespace-nowrap';
+    }
+    if (pBtn) {
+      pBtn.className = 'px-4 py-2.5 text-xs sm:text-sm font-bold border-b-2 border-transparent text-slate-500 hover:text-slate-800 transition-all flex items-center gap-2 whitespace-nowrap';
+    }
+  } else {
+    if (pContent) pContent.classList.remove('hidden');
+    if (tContent) tContent.classList.add('hidden');
+    if (pBtn) {
+      pBtn.className = 'px-4 py-2.5 text-xs sm:text-sm font-bold border-b-2 border-[#006591] text-[#006591] transition-all flex items-center gap-2 whitespace-nowrap';
+    }
+    if (tBtn) {
+      tBtn.className = 'px-4 py-2.5 text-xs sm:text-sm font-bold border-b-2 border-transparent text-slate-500 hover:text-slate-800 transition-all flex items-center gap-2 whitespace-nowrap';
+    }
+  }
+};
+
+// Keyboard escape and outside click listeners
+document.addEventListener('keydown', function(e) {
+  if (e.key === 'Escape') {
+    closeLegalModal();
+  }
+});
+
+document.addEventListener('DOMContentLoaded', function() {
+  var modal = document.getElementById('phx-legal-modal');
+  if (modal) {
+    modal.addEventListener('click', function(e) {
+      if (e.target === modal) {
+        closeLegalModal();
+      }
+    });
+  }
+  // Check URL hash on page load
+  if (window.location.hash === '#privacy') {
+    window.openPrivacyModal();
+  } else if (window.location.hash === '#terms') {
+    window.openTermsModal();
+  }
+});
+</script>
+
+</body></html>

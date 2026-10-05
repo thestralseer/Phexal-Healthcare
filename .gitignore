@@ -1,0 +1,20 @@
+# Dependencies & Builds
+node_modules/
+dist/
+.netlify/
+*.tsbuildinfo
+
+# Backups & Scratch dumps
+backups/
+backup_original_images/
+scratch/
+*.bak*
+*.backup*
+*.original_master
+
+# OS & IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="phexalGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0284c7"/>
+      <stop offset="50%" stop-color="#0369a1"/>
+      <stop offset="100%" stop-color="#082f49"/>
+    </linearGradient>
+    <linearGradient id="pulseGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="50%" stop-color="#34d399"/>
+      <stop offset="100%" stop-color="#10b981"/>
+    </linearGradient>
+  </defs>
+  <!-- Background Rounded Shield -->
+  <rect x="2" y="2" width="60" height="60" rx="16" fill="url(#phexalGrad)" stroke="#38bdf8" stroke-width="2"/>
+  
+  <!-- Medical Cross Elements -->
+  <rect x="26" y="12" width="12" height="40" rx="4" fill="#ffffff"/>
+  <rect x="12" y="26" width="40" height="12" rx="4" fill="#ffffff"/>
+
+  <!-- Integrated Vibrant Heartbeat / Pulse Wave -->
+  <path d="M14 32 L22 32 L25 24 L29 42 L33 21 L37 36 L40 32 L50 32" 
+        stroke="url(#pulseGrad)" 
+        stroke-width="3" 
+        stroke-linecap="round" 
+        stroke-linejoin="round" 
+        fill="none"/>
+        
+  <!-- Center Glow Dot -->
+  <circle cx="33" cy="21" r="2.5" fill="#34d399"/>
+</svg>

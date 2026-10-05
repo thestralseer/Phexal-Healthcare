@@ -1,0 +1,338 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html, body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Plus Jakarta Sans', 'Inter', system-ui, sans-serif;
+    color: #0b1c30;
+    background-color: #f8f9ff;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+  }
+}
+
+/* ── Performance optimizations ── */
+.product-card {
+  content-visibility: auto;
+  contain-intrinsic-size: 1px 450px;
+}
+
+/* ── Custom Scrollbars ── */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #f1f5f9;
+}
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* ═══════ SAFETY FOR ALL ANIMATION ELEMENTS (NEVER HIDE CONTENT) ═══════ */
+.phx-anim {
+  opacity: 1 !important;
+  visibility: visible !important;
+}
+
+/* Subtle entrance if supported */
+@keyframes phxEntrance {
+  from {
+    opacity: 0.85;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.phx-fadeUp {
+  animation: phxEntrance 0.35s ease-out forwards;
+}
+
+/* ═══════ EXACT MD3 COLOR TOKENS MATCHING DEPLOYED NETLIFY SITE ═══════ */
+.bg-primary-container {
+  background-color: #131b2e !important;
+}
+.text-on-primary {
+  color: #ffffff !important;
+}
+.text-on-surface {
+  color: #0b1c30 !important;
+}
+.text-on-surface-variant {
+  color: #45464d !important;
+}
+.bg-surface {
+  background-color: #f8f9ff !important;
+}
+.bg-surface-container-lowest {
+  background-color: #ffffff !important;
+}
+.bg-surface-container-low {
+  background-color: #eff4ff !important;
+}
+.bg-surface-container {
+  background-color: #e5eeff !important;
+}
+.bg-surface-container-high {
+  background-color: #dce9ff !important;
+}
+.bg-surface-container-highest {
+  background-color: #d3e4fe !important;
+}
+.text-surface-dim {
+  color: #cbdbf5 !important;
+}
+.bg-secondary {
+  background-color: #006591 !important;
+}
+.text-on-secondary {
+  color: #ffffff !important;
+}
+.bg-secondary-container {
+  background-color: #39b8fd !important;
+}
+.text-on-secondary-container {
+  color: #004666 !important;
+}
+.bg-secondary-fixed {
+  background-color: #c9e6ff !important;
+}
+.bg-secondary-fixed-dim {
+  background-color: #89ceff !important;
+}
+.bg-tertiary-container {
+  background-color: #002113 !important;
+}
+.text-tertiary-fixed {
+  color: #6ffbbe !important;
+}
+.text-on-tertiary-container {
+  color: #009668 !important;
+}
+.bg-tertiary-fixed-dim {
+  background-color: #4edea3 !important;
+}
+
+/* ═══════ PHEXAL PREMIUM VISUAL LAYER ═══════ */
+
+/* Gradient text for premium headings */
+.phx-gradient-text {
+  background: linear-gradient(135deg, #0b1c30 0%, #006591 40%, #10B981 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+.phx-gradient-text-light {
+  background: linear-gradient(135deg, #ffffff 0%, #bae6fd 50%, #6ee7b7 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Card hover premium elevation */
+.phx-card-hover {
+  transition: transform 0.25s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.25s ease;
+}
+.phx-card-hover:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 16px 32px -8px rgba(11, 28, 48, 0.12), 0 4px 12px -4px rgba(0, 101, 145, 0.08);
+}
+
+/* Product image zoom */
+.phx-img-zoom {
+  overflow: hidden;
+}
+.phx-img-zoom img {
+  transition: transform 0.35s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.phx-img-zoom:hover img {
+  transform: scale(1.06);
+}
+
+/* Shimmer sweep for trust badges */
+@keyframes phx-shimmer {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+.phx-shimmer {
+  position: relative;
+  overflow: hidden;
+}
+.phx-shimmer::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(90deg, transparent 30%, rgba(255, 255, 255, 0.15) 50%, transparent 70%);
+  background-size: 200% 100%;
+  animation: phx-shimmer 3s ease-in-out infinite;
+  pointer-events: none;
+  border-radius: inherit;
+}
+
+/* Pulsing live badge */
+@keyframes phx-live-pulse {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.6; transform: scale(1.25); }
+}
+.phx-live-dot {
+  animation: phx-live-pulse 1.5s ease-in-out infinite;
+}
+
+/* Button micro-interactions */
+.phx-btn-glow {
+  position: relative;
+  overflow: hidden;
+  transition: all 0.2s ease;
+}
+.phx-btn-glow:active {
+  transform: scale(0.98);
+}
+
+/* Review card premium styling */
+.phx-review-card {
+  position: relative;
+  border-left: 3px solid transparent;
+  background-image: linear-gradient(white, white), linear-gradient(180deg, #006591, #10B981);
+  background-origin: border-box;
+  background-clip: padding-box, border-box;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+  height: 100%;
+}
+.phx-review-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 24px -8px rgba(0, 101, 145, 0.12);
+}
+
+/* ═══════ MARQUEE SLIDERS ═══════ */
+@keyframes phxMarquee {
+  0% { transform: translateX(0%); }
+  100% { transform: translateX(-50%); }
+}
+@keyframes phxMarqueeReverse {
+  0% { transform: translateX(-50%); }
+  100% { transform: translateX(0%); }
+}
+.phx-marquee-track {
+  display: flex;
+  width: max-content;
+  animation: phxMarquee 45s linear infinite;
+  will-change: transform;
+}
+.phx-marquee-track-rev {
+  display: flex;
+  width: max-content;
+  animation: phxMarqueeReverse 40s linear infinite;
+  will-change: transform;
+}
+.phx-marquee-container:hover .phx-marquee-track,
+.phx-marquee-container:hover .phx-marquee-track-rev {
+  animation-play-state: paused;
+}
+
+/* Hologram Shimmer */
+@keyframes phxHoloShimmer {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+.phx-holo-badge {
+  background: linear-gradient(
+    115deg,
+    rgba(255, 215, 0, 0.2) 0%,
+    rgba(255, 255, 255, 0.75) 25%,
+    rgba(14, 165, 233, 0.35) 50%,
+    rgba(217, 70, 239, 0.25) 75%,
+    rgba(255, 215, 0, 0.2) 100%
+  );
+  background-size: 200% 100%;
+  animation: phxHoloShimmer 6s ease-in-out infinite;
+}
+
+/* Mega menu styles */
+.phx-mega-menu {
+  transition: opacity 0.18s cubic-bezier(0.16, 1, 0.3, 1), transform 0.18s cubic-bezier(0.16, 1, 0.3, 1), visibility 0.18s;
+  will-change: opacity, transform;
+}
+.phx-mega-menu.phx-menu-open {
+  opacity: 1 !important;
+  visibility: visible !important;
+  transform: translateY(0) scale(1) !important;
+  pointer-events: auto !important;
+  display: block !important;
+}
+.phx-mega-menu.phx-menu-closed {
+  opacity: 0 !important;
+  visibility: hidden !important;
+  transform: translateY(-4px) scale(0.99) !important;
+  pointer-events: none !important;
+}
+.phx-cat-link {
+  transition: all 0.15s ease;
+  border-radius: 6px;
+}
+.phx-cat-link:hover {
+  background-color: #eff6ff;
+  color: #006591;
+  padding-left: 8px;
+}
+.phx-cat-link:hover .phx-cat-arrow {
+  opacity: 1;
+  transform: translateX(2px);
+}
+.phx-cat-arrow {
+  transition: all 0.15s ease;
+  opacity: 0;
+}
+.phx-cat-highlight {
+  background-color: #fef08a !important;
+  color: #854d0e !important;
+  border-radius: 2px;
+  padding: 0 2px;
+}
+@media (hover: hover) {
+  #nav-products-wrapper:hover + #products-mega-menu,
+  #products-mega-menu:hover {
+    opacity: 1 !important;
+    visibility: visible !important;
+    transform: translateY(0) scale(1) !important;
+    pointer-events: auto !important;
+  }
+}
+
+/* ═══════ HERO BANNER SLIDER TRANSITIONS ═══════ */
+.hero-slide {
+  transition: opacity 0.45s cubic-bezier(0.4, 0, 0.2, 1), transform 0.45s cubic-bezier(0.4, 0, 0.2, 1);
+  will-change: opacity, transform;
+}
+.hero-slide.opacity-0 {
+  opacity: 0 !important;
+  pointer-events: none !important;
+  z-index: 0 !important;
+  visibility: hidden;
+  transform: scale(0.985);
+}
+.hero-slide.opacity-100 {
+  opacity: 1 !important;
+  pointer-events: auto !important;
+  z-index: 10 !important;
+  visibility: visible;
+  transform: scale(1);
+}
+
