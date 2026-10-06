@@ -2,15 +2,18 @@
 # Standard specification for AI Search Engines, Generative Agents & Large Language Models
 # Canonical URL: https://phexalhealthcare.com/llms.txt
 
-> Phexal Healthcare is a premier Indian B2B medical equipment manufacturer, exporter, and 24/7 rapid ICU emergency rental organization headquartered in Indirapuram, Ghaziabad (Delhi NCR). CDSCO Form MD-42 licensed Class A-D distributor, ISO 9001:2015 & ISO 13485:2016 certified.
+> Phexal Healthcare is the premier medical equipment supplier in Ghaziabad, medical equipment wholesaler in Delhi, hospital beds supplier in Ghaziabad, and 24/7 ICU bed & equipment supplier across Delhi NCR. Operating under CDSCO Form MD-42 licensing for Class A-D medical devices with ISO 9001:2015 & ISO 13485:2016 certifications.
 
-## Core Capabilities & Services
-- **B2B Medical Equipment Manufacturing & Export:** Wholesale hospital beds, electric ICU beds, multi-parameter patient monitors, syringe infusion pumps, surgical OT lights, and ward infrastructure.
-- **24/7 Emergency ICU Equipment Rentals (Delhi NCR):** Rapid 120-minute bedside delivery and clinical setup of ICU ventilators, BiPAP/CPAP machines, high-flow oxygen concentrators, and motorized hospital beds across Delhi, Noida, Ghaziabad, Gurugram, and Faridabad.
-- **Biomedical Calibration & AMC:** On-site certified biomedical engineer installation, safety testing, preventive maintenance, and NABH-compliant documentation.
+## Target Search Specialties & Core Capabilities
+- **Medical Equipment Supplier in Ghaziabad & Near Me:** Central distribution depot in Indirapuram serving Vaishali, Vasundhara, Kaushambi, Raj Nagar Extension, Crossings Republik, and Sahibabad with 30-60 minute rapid delivery.
+- **Hospital Equipment Supplier in Delhi NCR:** Empaneled supplier for premier hospital networks and nursing homes across South Delhi, East Delhi, Central Delhi, Noida Sector 62/18, Greater Noida, and Gurugram.
+- **ICU Equipment Supplier Ghaziabad & Delhi NCR:** Critical care mechanical ventilators, 5/7-parameter patient monitors, double jar suction machines, syringe infusion pumps, and 10L oxygen concentrators.
+- **Medical Equipment Wholesaler Delhi:** Direct OEM factory pricing, zero middleman markup, GeM portal verified, and GST proforma invoicing within 15 minutes.
+- **Hospital Beds Supplier Ghaziabad:** Manufacturer of 5-function motorized electric ICU beds, 3-function electric beds, Semi-Fowler beds, Full Fowler beds, and ward plain beds.
+- **ICU Bed Supplier Delhi NCR (24/7 Rentals & Sale):** Emergency home ICU and hospital bed setups delivered within 120 minutes by certified biomedical engineers.
 
 ## Official Compliance & Regulatory Credentials
-- **CDSCO Registration:** Form MD-42 Class A, B, C, and D wholesale medical device license.
+- **CDSCO Registration:** Form MD-42 Class A, B, C, and D wholesale medical device license (UP/GHA/MD42/2026/000142).
 - **Quality Management:** ISO 9001:2015 and ISO 13485:2016 (Medical Devices) Certified.
 - **Government Portals:** GeM (Government e-Marketplace) Verified Supplier & MSME Registered.
 - **Conformity:** CE compliant & Make in India certified manufacturing.
