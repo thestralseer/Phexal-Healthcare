@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html class="light scroll-smooth" lang="en">
+<html class="light scroll-smooth overflow-x-hidden w-full max-w-full" lang="en">
 <head>
 
 
@@ -7,9 +7,9 @@
 
 <meta content="width=device-width, initial-scale=1.0, maximum-scale=5.0" name="viewport"/>
 
-<title>404 - Clinical Route Not Found | Phexal Healthcare</title>
+<title>404 Page Not Found | Phexal Healthcare - Medical Equipment Sales & Rentals</title>
 
-<meta name="description" content="Learn about Phexal Healthcare, India’s premier medical equipment manufacturer, exporter, and 24/7 ICU rental organization headquartered in Indirapuram, Ghaziabad."/>
+<meta name="description" content="The requested medical equipment page was not found. Browse our CDSCO certified hospital equipment catalog or contact Phexal Healthcare 24/7 in Delhi-NCR."/>
 
 <meta name="keywords" content="Phexal Healthcare, CDSCO MD-42 licensed, B2B medical equipment, ICU ventilator rental Delhi NCR, hospital bed manufacturer, Indirapuram medical supplier"/>
 
@@ -42,7 +42,7 @@
 
 <meta property="og:title" content="404 - Clinical Route Not Found | Phexal Healthcare"/>
 
-<meta property="og:description" content="The requested medical equipment page or clinical route could not be found. Return to Phexal Healthcare."/>
+<meta property="og:description" content="The requested medical equipment page was not found. Browse our CDSCO certified hospital equipment catalog or contact Phexal Healthcare 24/7 in Delhi-NCR."/>
 
 <meta property="og:image" content="https://phexalhealthcare.com/images/hero_biomedical_command.jpg"/>
 
@@ -66,7 +66,7 @@
 
 <meta name="twitter:title" content="About Phexal Healthcare | CDSCO MD-42 Licensed Medical Equipment Leader"/>
 
-<meta name="twitter:description" content="Learn about Phexal Healthcare, India’s premier medical equipment manufacturer, exporter, and 24/7 ICU rental organization headquartered in Indirapuram, Ghaziabad."/>
+<meta name="twitter:description" content="The requested medical equipment page was not found. Browse our CDSCO certified hospital equipment catalog or contact Phexal Healthcare 24/7 in Delhi-NCR."/>
 
 <meta name="twitter:image" content="https://phexalhealthcare.com/images/hero_biomedical_command.jpg"/>
 
@@ -93,7 +93,7 @@
 
 <style>
 
-html,body{margin:0;padding:0;overscroll-behavior:none;}main>:first-child{margin-top:0!important;}main>:last-child{margin-bottom:0!important;}::-webkit-scrollbar{display:none;}.no-scrollbar::-webkit-scrollbar{display:none;}.no-scrollbar{-ms-overflow-style:none;scrollbar-width:none;}
+html,body{margin:0;padding:0;overscroll-behavior:none;overflow-x:hidden!important;max-width:100vw!important;width:100%;}main>:first-child{margin-top:0!important;}main>:last-child{margin-bottom:0!important;}::-webkit-scrollbar{display:none;}.no-scrollbar::-webkit-scrollbar{display:none;}.no-scrollbar{-ms-overflow-style:none;scrollbar-width:none;}main>:first-child{margin-top:0!important;}main>:last-child{margin-bottom:0!important;}::-webkit-scrollbar{display:none;}.no-scrollbar::-webkit-scrollbar{display:none;}.no-scrollbar{-ms-overflow-style:none;scrollbar-width:none;}
 
 /* ═══════ PHEXAL PREMIUM VISUAL LAYER ═══════ */
 .phx-gradient-text{background:linear-gradient(135deg,#0b1c30 0%,#006591 40%,#10B981 100%);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;}
@@ -1198,7 +1198,7 @@ function handleProductImgError(img) {
 })();
 </script>
 </head>
-<body class="bg-surface font-body-md text-body-md text-on-surface antialiased selection:bg-secondary/20 selection:text-secondary">
+<body class="bg-surface font-body-md text-body-md text-on-surface antialiased selection:bg-secondary/20 selection:text-secondary overflow-x-hidden w-full max-w-full relative">
 <header class="fixed top-0 left-0 w-full z-50" id="phx-header">
 
 
@@ -1359,7 +1359,7 @@ function handleProductImgError(img) {
 
 
 
-        <a class='flex items-center gap-2.5 shrink-0' href='index.html'>
+        <a href="/" aria-label="Phexal Healthcare Home" class="flex items-center gap-2.5 shrink-0">
 
 
 
@@ -1476,12 +1476,170 @@ function handleProductImgError(img) {
 
 
                     <!-- Enquiry Cart Icon -->
+          <button type="button" class="relative inline-flex items-center justify-center w-10 h-10 rounded-xl bg-sky-50 hover:bg-sky-100 text-[#006591] border border-sky-200/60 transition-all cursor-pointer" onclick="openCartDrawer();" title="Enquiry Cart" aria-label="Open RFQ Basket">
+            <span class="material-symbols-outlined text-[20px]">shopping_cart</span>
+            <span class="phx-cart-badge absolute -top-1 -right-1 w-4 h-4 rounded-full bg-red-500 text-white text-[9px] font-bold flex items-center justify-center">0</span>
+          </button>
+
+
+
+
+
+
+
+          <!-- WhatsApp Button -->
+
+
+
+          <a href="https://wa.me/918070008050" target="_blank" rel="noopener" data-wa-link class="inline-flex items-center gap-1.5 px-3 py-2 rounded-xl bg-emerald-500 hover:bg-emerald-600 text-white text-sm font-semibold transition-all shadow-sm" title="WhatsApp">
+
+
+
+            <span class="material-symbols-outlined text-[18px]">chat</span>
+
+
+
+            <span class="hidden sm:inline">WhatsApp</span>
+
+
+
+          </a>
+
+
+
+
+
+
+
+          <!-- Mobile Hamburger (visible below lg) -->
+
+
+
+          <!-- Mobile Products Dropdown Button -->
+          <button type="button" aria-label="Open Navigation Menu" aria-expanded="false" aria-controls="phx-mobile-drawer" class="lg:hidden inline-flex items-center justify-center w-10 h-10 rounded-xl text-slate-600 hover:text-slate-900 hover:bg-slate-100 transition-colors" id="phx-mobile-toggle" onclick="openMobileDrawer()">
+
+
+
+            <span class="material-symbols-outlined text-[26px]">menu</span>
+
+
+
+          </button>
+
+
+
+        </div>
+
+
+
+      </div>
+
+
+
+
+
+
+
+      <!-- Mobile Search Bar (visible below md) -->
+
+
+
+      <div class="md:hidden pb-3">
+
+
+
+        <div class="relative w-full">
+
+
+
+          <span class="absolute inset-y-0 left-0 flex items-center pl-3 pointer-events-none text-slate-400">
+
+
+
+            <span class="material-symbols-outlined text-[18px]">search</span>
+
+
+
+          </span>
+
+
+
+          <input type="text" placeholder="Search products, equipment..." class="phx-header-search w-full h-9 pl-9 pr-3 text-sm bg-slate-50 border border-slate-200 rounded-lg text-slate-800 placeholder:text-slate-400 transition-all"/>
+
+
+
+        </div>
+
+
+
+      </div>
+
+
+
+    </div>
+
+
+
+  </div>
+
+
+
+
+
+
+
+    <!-- ══════ TIER 3: MOBILE SUB-NAVIGATION BAR (Always Visible below lg) ══════ -->
+  <div class="block lg:hidden bg-gradient-to-r from-[#0a1e33] via-[#0b2540] to-[#0a1e33] border-t border-b border-white/10 shadow-sm" id="phx-mobile-nav-bar">
+    <nav class="flex items-center gap-1.5 overflow-x-auto no-scrollbar px-3 py-1.5 whitespace-nowrap text-xs" aria-label="Mobile Main Navigation" style="-webkit-overflow-scrolling:touch;scrollbar-width:none;">
+      <a href="/" class="flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-slate-300 hover:text-white hover:bg-white/10 font-medium transition-colors shrink-0"><span class="material-symbols-outlined text-[15px]">home</span><span>Home</span></a>
+      <button type="button" onclick="window.openMobileProductsMenu(event);" class="flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-slate-300 hover:text-white hover:bg-white/10 font-medium transition-colors shrink-0 cursor-pointer"><span class="material-symbols-outlined text-[15px]">medical_services</span><span>Products</span><span class="material-symbols-outlined text-[13px] opacity-70">expand_more</span></button>
+      <a href="rentals.html" class="flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-slate-300 hover:text-white hover:bg-white/10 font-medium transition-colors shrink-0"><span class="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-pulse"></span><span>24/7 Rentals</span></a>
+      <a href="quality.html" class="flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-slate-300 hover:text-white hover:bg-white/10 font-medium transition-colors shrink-0"><span class="material-symbols-outlined text-[15px]">verified</span><span>Quality</span></a>
+      <a href="about.html" class="flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-white font-bold bg-white/20 shadow-xs border border-white/25 shrink-0"><span class="material-symbols-outlined text-[15px]">corporate_fare</span><span>About</span></a>
+      <a href="contact.html" class="flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-slate-300 hover:text-white hover:bg-white/10 font-medium transition-colors shrink-0"><span class="material-symbols-outlined text-[15px]">mail</span><span>Contact</span></a>
+      <a href="blogs.html" class="flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-slate-300 hover:text-white hover:bg-white/10 font-medium transition-colors shrink-0"><span class="material-symbols-outlined text-[15px]">article</span><span>Blogs</span></a>
+      <a href="gallery.html" class="flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-slate-300 hover:text-white hover:bg-white/10 font-medium transition-colors shrink-0"><span class="material-symbols-outlined text-[15px]">photo_library</span><span>Gallery</span></a>
+      <a href="contact.html#quick-rfq" class="flex items-center gap-1 px-3 py-1.5 rounded-lg text-white font-bold bg-gradient-to-r from-sky-500 to-cyan-400 shadow-xs shrink-0"><span class="material-symbols-outlined text-[15px]">request_quote</span><span>RFQ</span></a>
+    </nav>
+  </div>
+
+<!-- ══════ TIER 2: MAIN NAVIGATION BAR ══════ -->
+
+
+
+  <div class="hidden lg:block bg-gradient-to-r from-[#0a1e33] via-[#0b2540] to-[#0a1e33] border-b border-white/5 shadow-md" id="header-nav-bar">
+
+
+
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+
+
+
+      <nav class="flex items-center justify-between h-12" aria-label="Main Navigation">
+
+
+
+        <div class="flex items-center gap-1">
+
+
+
+          <a class='px-3 py-1.5 text-xs lg:text-sm font-bold text-white bg-white/20 rounded-lg transition-all shadow-sm' data-path='home' href='/'>Home</a>
+
+
+
+          <a class='px-3 py-1.5 text-xs lg:text-sm font-medium text-white/80 hover:text-white hover:bg-white/10 rounded-lg transition-all' data-path='about-phexal' href='about.html'>About Us</a>
 
 
 
                     <div class="relative group" id="phx-nav-products-container">
 
-            <a class="px-3 py-1.5 text-xs lg:text-sm font-medium text-white/80 hover:text-white hover:bg-white/10 rounded-lg transition-all" data-path="b2b-export-catalog" href="products.html" id="phx-nav-products-btn">Products</a>
+            <a class='px-3 py-1.5 text-xs lg:text-sm font-bold text-white bg-white/10 hover:bg-white/20 rounded-lg transition-all shadow-sm flex items-center gap-1 cursor-pointer' data-path='b2b-export-catalog' href='products.html' id='phx-nav-products-btn'>
+
+              <span>Products</span>
+
+              <span class="material-symbols-outlined text-[16px] transition-transform duration-200" id="mega-arrow">expand_more</span>
+
+            </a>
 
           </div>
 
@@ -1567,7 +1725,7 @@ function handleProductImgError(img) {
 
 
 
-  <div class="fixed top-0 right-0 h-full w-[85vw] max-w-sm bg-white shadow-2xl z-[60] transform translate-x-full transition-transform duration-300 ease-in-out overflow-y-auto" id="phx-mobile-drawer">
+  <div class="fixed top-0 right-0 h-full w-[85vw] max-w-sm bg-white shadow-2xl z-[60] transform translate-x-full transition-transform duration-300 ease-in-out overflow-y-auto" id="phx-mobile-drawer" role="dialog" aria-modal="true" aria-label="Mobile Navigation Menu">
 
 
 
@@ -1579,23 +1737,14 @@ function handleProductImgError(img) {
 
 
 
-      <div class="flex items-center gap-2">
-
-
-
-        <img alt="Phexal" class="h-8 w-auto" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAOSqSwiKDukAT9btFBUi-5VPKrEa9V_bl5dvw_3Mk2c43FbzrMA3zq8zWk3cph6WjjTJVRNVdHAni1UfRdMqP3HXR3WQ7usiQSdDwv2JcEs9VjKumZEwGpHrGpNqY2ahlU0fiQGggA7x9cDB2oMum3h9Fy3xKYm6_7QiGK7fAG7fWnByaJHdXsu9jYJjBqjKFoPpYu35FRUyJlgE7x5BfVZmWFOX9sNUJ0j1qOtt1T3iwjJwyljGNBLT8Rn23w92R_fYE"/>
-
-
-
+      <a href="/" aria-label="Phexal Healthcare Home" class="flex items-center gap-2" onclick="closeMobileDrawer()">
+        <img alt="Phexal" class="h-8 w-auto" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAOSqSwiKDukAT9btFBUi-5VPKrEa9V_bl5dvw_3Mk2c43FbzrMA3zq8zWk3cph6WjjTJVRNVdHAni1UfRdMqP3HXR3WQ7usiQSdDwv2JcEs9VjKumZEwGpHrGpNqY2ahlU0fiQGggA7x9cDB2oMum3h9Fy3xKYm6_7QiGK7fAG7fWnByaJHdXsu9jYJjBqjKFoPpYu35FRUyJlgE7x5BfVZmWFOX9sNUJ0j1qOtt1T3iwjJwyljGNBLT8Rn23w92R_fYE" loading="lazy"/>
         <span class="font-bold text-slate-900 uppercase tracking-tight">PHEXAL</span>
+      </a>
 
 
 
-      </div>
-
-
-
-      <button type="button" id="phx-mobile-close" class="w-9 h-9 rounded-lg flex items-center justify-center hover:bg-slate-100 text-slate-500" onclick="closeMobileDrawer()">
+      <button type="button" id="phx-mobile-close" aria-label="Close Navigation Menu" class="w-9 h-9 rounded-lg flex items-center justify-center hover:bg-slate-100 text-slate-500" onclick="closeMobileDrawer()">
 
 
 
@@ -2110,7 +2259,7 @@ function handleProductImgError(img) {
 
               <div class="relative w-14 h-14 rounded-lg bg-slate-50 border border-slate-200/60 overflow-hidden shrink-0 flex items-center justify-center">
 
-                <img src="/images/products/phx-bed-plain-eco.png" alt="Plain Bed Eco" class="w-full h-full object-contain p-1 group-hover:scale-110 transition-transform duration-200" loading="lazy" onerror="this.onerror=null; this.src='/images/products/phx-bed-plain-eco.jpg'" />
+                <img src="/images/products/phx-bed-plain-eco.png?v=medroof2026" alt="Plain Bed Eco" class="w-full h-full object-contain p-1 group-hover:scale-110 transition-transform duration-200" loading="lazy" onerror="this.onerror=null; this.src='/images/products/phx-bed-plain-eco.png?v=medroof2026'" />
 
               </div>
 
@@ -2138,7 +2287,7 @@ function handleProductImgError(img) {
 
               <div class="relative w-14 h-14 rounded-lg bg-slate-50 border border-slate-200/60 overflow-hidden shrink-0 flex items-center justify-center">
 
-                <img src="/images/products/phx-bed-plain-deluxe.png" alt="Plain Bed Deluxe" class="w-full h-full object-contain p-1 group-hover:scale-110 transition-transform duration-200" loading="lazy" onerror="this.onerror=null; this.src='/images/products/phx-bed-plain-deluxe.jpg'" />
+                <img src="/images/products/phx-bed-plain-deluxe.png?v=medroof2026" alt="Plain Bed Deluxe" class="w-full h-full object-contain p-1 group-hover:scale-110 transition-transform duration-200" loading="lazy" onerror="this.onerror=null; this.src='/images/products/phx-bed-plain-deluxe.png?v=medroof2026'" />
 
               </div>
 
@@ -2166,7 +2315,7 @@ function handleProductImgError(img) {
 
               <div class="relative w-14 h-14 rounded-lg bg-slate-50 border border-slate-200/60 overflow-hidden shrink-0 flex items-center justify-center">
 
-                <img src="/images/products/phx-bed-semifowler-eco.png" alt="Semi Fowler Bed Eco" class="w-full h-full object-contain p-1 group-hover:scale-110 transition-transform duration-200" loading="lazy" onerror="this.onerror=null; this.src='/images/products/phx-bed-semifowler-eco.jpg'" />
+                <img src="/images/products/phx-bed-semifowler-eco.png?v=medroof2026" alt="Semi Fowler Bed Eco" class="w-full h-full object-contain p-1 group-hover:scale-110 transition-transform duration-200" loading="lazy" onerror="this.onerror=null; this.src='/images/products/phx-bed-semifowler-eco.png?v=medroof2026'" />
 
               </div>
 
@@ -2194,7 +2343,7 @@ function handleProductImgError(img) {
 
               <div class="relative w-14 h-14 rounded-lg bg-slate-50 border border-slate-200/60 overflow-hidden shrink-0 flex items-center justify-center">
 
-                <img src="/images/products/phx-bed-semifowler-deluxe.png" alt="Semi Fowler Bed Super Deluxe" class="w-full h-full object-contain p-1 group-hover:scale-110 transition-transform duration-200" loading="lazy" onerror="this.onerror=null; this.src='/images/products/phx-bed-semifowler-deluxe.jpg'" />
+                <img src="/images/products/phx-bed-semifowler-deluxe.png?v=medroof2026" alt="Semi Fowler Bed Super Deluxe" class="w-full h-full object-contain p-1 group-hover:scale-110 transition-transform duration-200" loading="lazy" onerror="this.onerror=null; this.src='/images/products/phx-bed-semifowler-deluxe.png?v=medroof2026'" />
 
               </div>
 
@@ -2222,7 +2371,7 @@ function handleProductImgError(img) {
 
               <div class="relative w-14 h-14 rounded-lg bg-slate-50 border border-slate-200/60 overflow-hidden shrink-0 flex items-center justify-center">
 
-                <img src="/images/products/phx-bed-semifowler-elec.png" alt="Semi Fowler Bed Electric" class="w-full h-full object-contain p-1 group-hover:scale-110 transition-transform duration-200" loading="lazy" onerror="this.onerror=null; this.src='/images/products/phx-bed-semifowler-elec.jpg'" />
+                <img src="/images/products/phx-bed-semifowler-elec.png?v=medroof2026" alt="Semi Fowler Bed Electric" class="w-full h-full object-contain p-1 group-hover:scale-110 transition-transform duration-200" loading="lazy" onerror="this.onerror=null; this.src='/images/products/phx-bed-semifowler-elec.png?v=medroof2026'" />
 
               </div>
 
@@ -2250,7 +2399,7 @@ function handleProductImgError(img) {
 
               <div class="relative w-14 h-14 rounded-lg bg-slate-50 border border-slate-200/60 overflow-hidden shrink-0 flex items-center justify-center">
 
-                <img src="/images/products/phx-bed-fowler-eco.png" alt="Fowler Bed Eco" class="w-full h-full object-contain p-1 group-hover:scale-110 transition-transform duration-200" loading="lazy" onerror="this.onerror=null; this.src='/images/products/phx-bed-fowler-eco.jpg'" />
+                <img src="/images/products/phx-bed-fowler-eco.png?v=medroof2026" alt="Fowler Bed Eco" class="w-full h-full object-contain p-1 group-hover:scale-110 transition-transform duration-200" loading="lazy" onerror="this.onerror=null; this.src='/images/products/phx-bed-fowler-eco.png?v=medroof2026'" />
 
               </div>
 
@@ -2278,7 +2427,7 @@ function handleProductImgError(img) {
 
               <div class="relative w-14 h-14 rounded-lg bg-slate-50 border border-slate-200/60 overflow-hidden shrink-0 flex items-center justify-center">
 
-                <img src="/images/products/phx-bed-fowler-deluxe.png" alt="Fowler Bed Super Deluxe" class="w-full h-full object-contain p-1 group-hover:scale-110 transition-transform duration-200" loading="lazy" onerror="this.onerror=null; this.src='/images/products/phx-bed-fowler-deluxe.jpg'" />
+                <img src="/images/products/phx-bed-fowler-deluxe.png?v=medroof2026" alt="Fowler Bed Super Deluxe" class="w-full h-full object-contain p-1 group-hover:scale-110 transition-transform duration-200" loading="lazy" onerror="this.onerror=null; this.src='/images/products/phx-bed-fowler-deluxe.png?v=medroof2026'" />
 
               </div>
 
@@ -2306,7 +2455,7 @@ function handleProductImgError(img) {
 
               <div class="relative w-14 h-14 rounded-lg bg-slate-50 border border-slate-200/60 overflow-hidden shrink-0 flex items-center justify-center">
 
-                <img src="/images/products/phx-bed-fowler-elec.png" alt="Fowler Bed Electric" class="w-full h-full object-contain p-1 group-hover:scale-110 transition-transform duration-200" loading="lazy" onerror="this.onerror=null; this.src='/images/products/phx-bed-fowler-elec.jpg'" />
+                <img src="/images/products/phx-bed-fowler-elec.png?v=medroof2026" alt="Fowler Bed Electric" class="w-full h-full object-contain p-1 group-hover:scale-110 transition-transform duration-200" loading="lazy" onerror="this.onerror=null; this.src='/images/products/phx-bed-fowler-elec.png?v=medroof2026'" />
 
               </div>
 
@@ -2334,7 +2483,7 @@ function handleProductImgError(img) {
 
               <div class="relative w-14 h-14 rounded-lg bg-slate-50 border border-slate-200/60 overflow-hidden shrink-0 flex items-center justify-center">
 
-                <img src="/images/products/phx-bed-paramount.png" alt="Five Function Bed (Paramount Motorized ICU)" class="w-full h-full object-contain p-1 group-hover:scale-110 transition-transform duration-200" loading="lazy" onerror="this.onerror=null; this.src='/images/products/phx-bed-paramount.jpg'" />
+                <img src="/images/products/phx-bed-paramount.png?v=medroof2026" alt="Five Function Bed (Paramount Motorized ICU)" class="w-full h-full object-contain p-1 group-hover:scale-110 transition-transform duration-200" loading="lazy" onerror="this.onerror=null; this.src='/images/products/phx-bed-paramount.png?v=medroof2026'" />
 
               </div>
 
@@ -2362,7 +2511,7 @@ function handleProductImgError(img) {
 
               <div class="relative w-14 h-14 rounded-lg bg-slate-50 border border-slate-200/60 overflow-hidden shrink-0 flex items-center justify-center">
 
-                <img src="/images/products/phx-bed-pediatric.png" alt="Pediatric Bed" class="w-full h-full object-contain p-1 group-hover:scale-110 transition-transform duration-200" loading="lazy" onerror="this.onerror=null; this.src='/images/products/phx-bed-pediatric.jpg'" />
+                <img src="/images/products/phx-bed-pediatric.png?v=medroof2026" alt="Pediatric Bed" class="w-full h-full object-contain p-1 group-hover:scale-110 transition-transform duration-200" loading="lazy" onerror="this.onerror=null; this.src='/images/products/phx-bed-pediatric.png?v=medroof2026'" />
 
               </div>
 
@@ -2390,7 +2539,7 @@ function handleProductImgError(img) {
 
               <div class="relative w-14 h-14 rounded-lg bg-slate-50 border border-slate-200/60 overflow-hidden shrink-0 flex items-center justify-center">
 
-                <img src="/images/products/phx-bed-baby-bassinet.png" alt="Baby Bassinet" class="w-full h-full object-contain p-1 group-hover:scale-110 transition-transform duration-200" loading="lazy" onerror="this.onerror=null; this.src='/images/products/phx-bed-baby-bassinet.jpg'" />
+                <img src="/images/products/phx-bed-baby-bassinet.png?v=medroof2026" alt="Baby Bassinet" class="w-full h-full object-contain p-1 group-hover:scale-110 transition-transform duration-200" loading="lazy" onerror="this.onerror=null; this.src='/images/products/phx-bed-baby-bassinet.png?v=medroof2026'" />
 
               </div>
 
@@ -2418,7 +2567,7 @@ function handleProductImgError(img) {
 
               <div class="relative w-14 h-14 rounded-lg bg-slate-50 border border-slate-200/60 overflow-hidden shrink-0 flex items-center justify-center">
 
-                <img src="/images/products/phx-bed-recliner.png" alt="Hospital Bed Recliner" class="w-full h-full object-contain p-1 group-hover:scale-110 transition-transform duration-200" loading="lazy" onerror="this.onerror=null; this.src='/images/products/phx-bed-recliner.jpg'" />
+                <img src="/images/products/phx-bed-recliner.png?v=medroof2026" alt="Hospital Bed Recliner" class="w-full h-full object-contain p-1 group-hover:scale-110 transition-transform duration-200" loading="lazy" onerror="this.onerror=null; this.src='/images/products/phx-bed-recliner.png?v=medroof2026'" />
 
               </div>
 
@@ -5056,7 +5205,7 @@ function handleProductImgError(img) {
 
 </header>
 
-<main class="pt-32 sm:pt-40 pb-20 sm:pb-28 px-4 sm:px-6 lg:px-8 bg-gradient-to-b from-slate-50 via-sky-50/30 to-slate-50 min-h-[85vh] flex items-center justify-center relative overflow-hidden">
+<main class="pt-32 sm:pt-40 pb-20 sm:pb-28 px-4 sm:px-6 lg:px-8 bg-gradient-to-b from-slate-50 via-sky-50/30 to-slate-50 min-h-[85vh] flex items-center justify-center relative overflow-hidden overflow-x-hidden w-full max-w-full">
   
   <!-- Subtle ambient decorative medical glow orbs -->
   <div class="phx-orb phx-orb-1 w-96 h-96 bg-sky-200/50 top-10 left-1/4"></div>
@@ -5216,7 +5365,7 @@ function handleProductImgError(img) {
 
         <div class="flex items-center gap-3">
 
-          <img alt="Phexal Healthcare Logo" class="h-9 w-auto object-contain bg-white rounded p-1" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBpjS4ChvIY1iWzRjXmx4qAmGZVyMQWTisrJyM3vscMDjaNhozhzUznJU2uNa7s2jcJdRF20gMsAECp-ETKWewC6pQwNdpOZeBhTrC9okWOzMC325nV4ZtFbS1_WrF7lLTaNF-FQUQ1cprou59Bbv5-F_xusdScbZQ-yq2jLolh62VMG8pwRHjzWBY9W71aY6YuBdM8JYbwuSojWeuXubyFXEcIOO9vr7eooBHe3pevGadGcMb2F_wb-7rYPTwuQbiH4VE"/>
+          <img alt="Phexal Healthcare Logo" class="h-9 w-auto object-contain bg-white rounded p-1" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBpjS4ChvIY1iWzRjXmx4qAmGZVyMQWTisrJyM3vscMDjaNhozhzUznJU2uNa7s2jcJdRF20gMsAECp-ETKWewC6pQwNdpOZeBhTrC9okWOzMC325nV4ZtFbS1_WrF7lLTaNF-FQUQ1cprou59Bbv5-F_xusdScbZQ-yq2jLolh62VMG8pwRHjzWBY9W71aY6YuBdM8JYbwuSojWeuXubyFXEcIOO9vr7eooBHe3pevGadGcMb2F_wb-7rYPTwuQbiH4VE" loading="lazy"/>
 
           <span class="text-lg font-black tracking-tight text-white font-headline-sm">Phexal Healthcare</span>
 
@@ -5393,9 +5542,7 @@ function handleProductImgError(img) {
     <div class="pt-8 flex flex-col md:flex-row items-center justify-between gap-4 text-xs text-slate-400 text-center md:text-left">
 
       <div>
-
-        © <span id="copyright-year">2026</span> <strong class="text-slate-300">Phexal Healthcare Private Limited</strong>. All institutional &amp; international rights reserved.
-
+        &copy; <span class="copyright-year" id="copyright-year">2026</span> <strong class="text-slate-300">Phexal Healthcare</strong>. All rights reserved.
       </div>
 
       <div class="flex flex-wrap justify-center items-center gap-4 sm:gap-6 text-slate-400">
@@ -8797,5 +8944,211 @@ document.addEventListener('DOMContentLoaded', function() {
   });
 });
 </script>
+
+<!-- ════════════════════════════════════════════════════════════════════════
+     PHEXAL HEALTHCARE: ACCESSIBILITY, TOAST NOTIFICATION & MOBILE ENGINE
+     ════════════════════════════════════════════════════════════════════════ -->
+<script>
+(function() {
+  'use strict';
+
+  // 1. Universal Accessible Toast Feedback Engine
+  window.showPhexalToast = function(message, type, duration) {
+    type = type || 'success';
+    duration = duration || 4500;
+
+    var container = document.getElementById('phx-toast-container');
+    if (!container) {
+      container = document.createElement('div');
+      container.id = 'phx-toast-container';
+      container.className = 'fixed top-5 right-5 z-[99999] flex flex-col gap-2.5 max-w-sm w-[calc(100vw-32px)] sm:w-96 pointer-events-none';
+      container.setAttribute('aria-live', 'polite');
+      container.setAttribute('aria-atomic', 'true');
+      document.body.appendChild(container);
+    }
+
+    var toast = document.createElement('div');
+    toast.className = 'pointer-events-auto transform transition-all duration-300 ease-out -translate-y-2 opacity-0 flex items-start gap-3 p-3.5 sm:p-4 rounded-xl border shadow-xl backdrop-blur-md';
+
+    var icon = 'check_circle';
+    if (type === 'error') {
+      toast.className += ' bg-rose-950/95 text-white border-rose-600/80 shadow-rose-950/40';
+      icon = 'error';
+      toast.setAttribute('role', 'alert');
+    } else if (type === 'info') {
+      toast.className += ' bg-slate-900/95 text-white border-sky-500/70 shadow-slate-950/40';
+      icon = 'info';
+      toast.setAttribute('role', 'status');
+    } else {
+      toast.className += ' bg-emerald-950/95 text-white border-emerald-500/70 shadow-emerald-950/40';
+      icon = 'check_circle';
+      toast.setAttribute('role', 'status');
+    }
+
+    toast.innerHTML = 
+      '<span class="material-symbols-outlined text-[20px] sm:text-[22px] shrink-0 mt-0.5 ' + 
+      (type === 'error' ? 'text-rose-400' : (type === 'info' ? 'text-sky-400' : 'text-emerald-400')) + 
+      '">' + icon + '</span>' +
+      '<div class="flex-1 text-xs sm:text-sm font-medium leading-snug">' + message + '</div>' +
+      '<button type="button" aria-label="Dismiss notification" class="text-slate-400 hover:text-white shrink-0 p-1 -mr-1 -mt-1 rounded-lg transition-colors">' +
+        '<span class="material-symbols-outlined text-[16px]">close</span>' +
+      '</button>';
+
+    container.appendChild(toast);
+
+    requestAnimationFrame(function() {
+      toast.classList.remove('-translate-y-2', 'opacity-0');
+      toast.classList.add('translate-y-0', 'opacity-100');
+    });
+
+    function dismiss() {
+      toast.classList.remove('translate-y-0', 'opacity-100');
+      toast.classList.add('-translate-y-2', 'opacity-0');
+      setTimeout(function() {
+        if (toast.parentNode) toast.parentNode.removeChild(toast);
+      }, 300);
+    }
+
+    var closeBtn = toast.querySelector('button');
+    if (closeBtn) closeBtn.onclick = dismiss;
+    setTimeout(dismiss, duration);
+  };
+
+  // 2. Robust Accessible Mobile Drawer & Focus Trap
+  var lastFocusedElement = null;
+
+  window.openMobileDrawer = function(e) {
+    if (e && e.preventDefault) e.preventDefault();
+    var drawer = document.getElementById('phx-mobile-drawer');
+    var overlay = document.getElementById('phx-mobile-overlay');
+    var toggleBtn = document.getElementById('phx-mobile-toggle');
+    var closeBtn = document.getElementById('phx-mobile-close');
+
+    if (!drawer) return;
+    lastFocusedElement = document.activeElement;
+
+    drawer.classList.add('is-open');
+    drawer.classList.remove('translate-x-full');
+    drawer.style.transform = 'translateX(0)';
+    drawer.setAttribute('aria-hidden', 'false');
+
+    if (toggleBtn) {
+      toggleBtn.setAttribute('aria-expanded', 'true');
+    }
+    if (overlay) {
+      overlay.classList.add('active');
+      overlay.style.visibility = 'visible';
+      overlay.style.opacity = '1';
+      overlay.style.pointerEvents = 'auto';
+      overlay.setAttribute('aria-hidden', 'false');
+    }
+
+    document.body.classList.add('phx-drawer-open');
+    document.body.style.overflow = 'hidden';
+
+    setTimeout(function() {
+      if (closeBtn) {
+        closeBtn.focus();
+      } else {
+        var focusable = drawer.querySelector('button, [href], input, select, textarea');
+        if (focusable) focusable.focus();
+      }
+    }, 50);
+  };
+
+  window.closeMobileDrawer = function(e) {
+    if (e && e.preventDefault) e.preventDefault();
+    var drawer = document.getElementById('phx-mobile-drawer');
+    var overlay = document.getElementById('phx-mobile-overlay');
+    var toggleBtn = document.getElementById('phx-mobile-toggle');
+
+    if (drawer) {
+      drawer.classList.remove('is-open');
+      drawer.classList.add('translate-x-full');
+      drawer.style.transform = '';
+      drawer.setAttribute('aria-hidden', 'true');
+    }
+    if (overlay) {
+      overlay.classList.remove('active');
+      overlay.style.visibility = 'hidden';
+      overlay.style.opacity = '0';
+      overlay.style.pointerEvents = 'none';
+      overlay.setAttribute('aria-hidden', 'true');
+    }
+    if (toggleBtn) {
+      toggleBtn.setAttribute('aria-expanded', 'false');
+    }
+
+    document.body.classList.remove('phx-drawer-open');
+    document.body.style.overflow = '';
+
+    if (lastFocusedElement && typeof lastFocusedElement.focus === 'function') {
+      try { lastFocusedElement.focus(); } catch (err) {}
+    }
+  };
+
+  document.addEventListener('keydown', function(e) {
+    var drawer = document.getElementById('phx-mobile-drawer');
+    if (!drawer || !drawer.classList.contains('is-open')) return;
+
+    if (e.key === 'Escape') {
+      window.closeMobileDrawer();
+      return;
+    }
+
+    if (e.key === 'Tab') {
+      var focusable = drawer.querySelectorAll('button:not([disabled]), [href], input:not([disabled]), select:not([disabled]), textarea:not([disabled]), [tabindex]:not([tabindex="-1"])');
+      if (!focusable.length) return;
+      var first = focusable[0];
+      var last = focusable[focusable.length - 1];
+
+      if (e.shiftKey) {
+        if (document.activeElement === first) {
+          last.focus();
+          e.preventDefault();
+        }
+      } else {
+        if (document.activeElement === last) {
+          first.focus();
+          e.preventDefault();
+        }
+      }
+    }
+  });
+
+  // 3. Dynamic Current Copyright Year Rendering & Form Notification Wiring
+  document.addEventListener('DOMContentLoaded', function() {
+    var currentYear = new Date().getFullYear();
+    document.querySelectorAll('#copyright-year, .copyright-year').forEach(function(el) {
+      el.textContent = currentYear;
+    });
+
+    var contactForm = document.getElementById('phexal-contact-rfq-form');
+    if (contactForm && !contactForm._toastWired) {
+      contactForm._toastWired = true;
+      contactForm.addEventListener('submit', function(e) {
+        if (contactForm.checkValidity()) {
+          window.showPhexalToast('Quote inquiry submitted! Connecting with Phexal Healthcare on WhatsApp...', 'success');
+        } else {
+          window.showPhexalToast('Please fill in all required hospital and contact details.', 'error');
+        }
+      });
+    }
+
+    var quoteForm = document.getElementById('phx-quote-form');
+    if (quoteForm && !quoteForm._toastWired) {
+      quoteForm._toastWired = true;
+      quoteForm.addEventListener('submit', function(e) {
+        if (quoteForm.checkValidity()) {
+          window.showPhexalToast('Instant RFQ created! Connecting to Phexal Healthcare on WhatsApp...', 'success');
+        } else {
+          window.showPhexalToast('Please check all fields before submitting.', 'error');
+        }
+      });
+    }
+  });
+})();
+</script>
+
 </body>
 </html>
