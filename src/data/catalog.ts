@@ -651,7 +651,7 @@ export const PRODUCTS: Product[] = [
     "rating": 4.9,
     "reviewsCount": 25,
     "leadTime": "Immediate Dispatch",
-    "manufacturer": "Phexal Healthcare OEM",
+    "manufacturer": "Phexal Healthcare (Supplier & Distributor)",
     "warranty": "2 Years Frame Warranty",
     "certifications": [
       "ISO 13485:2016",
@@ -713,7 +713,7 @@ export const PRODUCTS: Product[] = [
     "rating": 4.9,
     "reviewsCount": 26,
     "leadTime": "Immediate Dispatch",
-    "manufacturer": "Phexal Healthcare OEM",
+    "manufacturer": "Phexal Healthcare (Supplier & Distributor)",
     "warranty": "2 Years Frame AMC",
     "certifications": [
       "ISO 13485:2016",
@@ -775,7 +775,7 @@ export const PRODUCTS: Product[] = [
     "rating": 4.9,
     "reviewsCount": 27,
     "leadTime": "Immediate Dispatch",
-    "manufacturer": "Phexal Healthcare OEM",
+    "manufacturer": "Phexal Healthcare (Supplier & Distributor)",
     "warranty": "2 Years Mechanical Warranty",
     "certifications": [
       "ISO 13485:2016",
@@ -837,7 +837,7 @@ export const PRODUCTS: Product[] = [
     "rating": 4.9,
     "reviewsCount": 28,
     "leadTime": "Immediate Dispatch",
-    "manufacturer": "Phexal Healthcare OEM",
+    "manufacturer": "Phexal Healthcare (Supplier & Distributor)",
     "warranty": "3 Years Comprehensive",
     "certifications": [
       "ISO 13485:2016",
@@ -899,7 +899,7 @@ export const PRODUCTS: Product[] = [
     "rating": 4.9,
     "reviewsCount": 29,
     "leadTime": "Immediate Dispatch",
-    "manufacturer": "Phexal Healthcare OEM",
+    "manufacturer": "Phexal Healthcare (Supplier & Distributor)",
     "warranty": "3 Years Actuator Warranty",
     "certifications": [
       "ISO 13485:2016",
@@ -961,7 +961,7 @@ export const PRODUCTS: Product[] = [
     "rating": 4.9,
     "reviewsCount": 30,
     "leadTime": "Immediate Dispatch",
-    "manufacturer": "Phexal Healthcare OEM",
+    "manufacturer": "Phexal Healthcare (Supplier & Distributor)",
     "warranty": "2 Years Frame AMC",
     "certifications": [
       "ISO 13485:2016",
@@ -1023,7 +1023,7 @@ export const PRODUCTS: Product[] = [
     "rating": 4.9,
     "reviewsCount": 31,
     "leadTime": "Immediate Dispatch",
-    "manufacturer": "Phexal Healthcare OEM",
+    "manufacturer": "Phexal Healthcare (Supplier & Distributor)",
     "warranty": "3 Years Comprehensive",
     "certifications": [
       "ISO 13485:2016",
@@ -1085,7 +1085,7 @@ export const PRODUCTS: Product[] = [
     "rating": 4.9,
     "reviewsCount": 32,
     "leadTime": "Immediate Dispatch",
-    "manufacturer": "Phexal Healthcare OEM",
+    "manufacturer": "Phexal Healthcare (Supplier & Distributor)",
     "warranty": "3 Years Actuator Warranty",
     "certifications": [
       "ISO 13485:2016",
@@ -1209,7 +1209,7 @@ export const PRODUCTS: Product[] = [
     "rating": 4.9,
     "reviewsCount": 34,
     "leadTime": "Immediate Dispatch",
-    "manufacturer": "Phexal Healthcare OEM",
+    "manufacturer": "Phexal Healthcare (Supplier & Distributor)",
     "warranty": "2 Years Comprehensive",
     "certifications": [
       "ISO 13485:2016",
@@ -1271,7 +1271,7 @@ export const PRODUCTS: Product[] = [
     "rating": 4.9,
     "reviewsCount": 35,
     "leadTime": "Immediate Dispatch",
-    "manufacturer": "Phexal Healthcare OEM",
+    "manufacturer": "Phexal Healthcare (Supplier & Distributor)",
     "warranty": "2 Years Frame Warranty",
     "certifications": [
       "ISO 13485:2016",
@@ -1333,7 +1333,7 @@ export const PRODUCTS: Product[] = [
     "rating": 4.9,
     "reviewsCount": 36,
     "leadTime": "Immediate Dispatch",
-    "manufacturer": "Phexal Healthcare OEM",
+    "manufacturer": "Phexal Healthcare (Supplier & Distributor)",
     "warranty": "2 Years Frame AMC",
     "certifications": [
       "ISO 13485:2016",
@@ -1396,7 +1396,7 @@ export const PRODUCTS: Product[] = [
     "reviewsCount": 37,
     "leadTime": "Immediate Dispatch",
     "manufacturer": "Karma Healthcare / Phexal",
-    "warranty": "1 Year Manufacturer Warranty",
+    "warranty": "1-Year Standard Warranty",
     "certifications": [
       "ISO 13485:2016",
       "CDSCO MD-42",
@@ -1457,7 +1457,7 @@ export const PRODUCTS: Product[] = [
     "rating": 4.9,
     "reviewsCount": 38,
     "leadTime": "Immediate Dispatch",
-    "manufacturer": "Phexal Healthcare OEM",
+    "manufacturer": "Phexal Healthcare (Supplier & Distributor)",
     "warranty": "2 Years Motor & Battery Warranty",
     "certifications": [
       "ISO 13485:2016",
@@ -1519,7 +1519,7 @@ export const PRODUCTS: Product[] = [
     "rating": 4.9,
     "reviewsCount": 39,
     "leadTime": "Immediate Dispatch",
-    "manufacturer": "Phexal Healthcare OEM",
+    "manufacturer": "Phexal Healthcare (Supplier & Distributor)",
     "warranty": "1 Year Replacement Warranty",
     "certifications": [
       "ISO 13485:2016",
@@ -1581,7 +1581,7 @@ export const PRODUCTS: Product[] = [
     "rating": 4.9,
     "reviewsCount": 40,
     "leadTime": "Immediate Dispatch",
-    "manufacturer": "Phexal Healthcare OEM",
+    "manufacturer": "Phexal Healthcare (Supplier & Distributor)",
     "warranty": "1 Year Frame Warranty",
     "certifications": [
       "ISO 13485:2016",
@@ -1643,7 +1643,7 @@ export const PRODUCTS: Product[] = [
     "rating": 4.9,
     "reviewsCount": 41,
     "leadTime": "Immediate Dispatch",
-    "manufacturer": "Phexal Healthcare OEM",
+    "manufacturer": "Phexal Healthcare (Supplier & Distributor)",
     "warranty": "1 Year Warranty",
     "certifications": [
       "ISO 13485:2016",
@@ -1705,7 +1705,7 @@ export const PRODUCTS: Product[] = [
     "rating": 4.9,
     "reviewsCount": 42,
     "leadTime": "Immediate Dispatch",
-    "manufacturer": "Phexal Healthcare OEM",
+    "manufacturer": "Phexal Healthcare (Supplier & Distributor)",
     "warranty": "2 Years Actuator Warranty",
     "certifications": [
       "ISO 13485:2016",
@@ -1767,7 +1767,7 @@ export const PRODUCTS: Product[] = [
     "rating": 4.9,
     "reviewsCount": 43,
     "leadTime": "Immediate Dispatch",
-    "manufacturer": "Phexal Healthcare OEM",
+    "manufacturer": "Phexal Healthcare (Supplier & Distributor)",
     "warranty": "3 Years Structural Warranty",
     "certifications": [
       "ISO 13485:2016",
@@ -1829,7 +1829,7 @@ export const PRODUCTS: Product[] = [
     "rating": 4.9,
     "reviewsCount": 44,
     "leadTime": "Immediate Dispatch",
-    "manufacturer": "Phexal Healthcare OEM",
+    "manufacturer": "Phexal Healthcare (Supplier & Distributor)",
     "warranty": "2 Years Comprehensive",
     "certifications": [
       "ISO 13485:2016",
@@ -1891,7 +1891,7 @@ export const PRODUCTS: Product[] = [
     "rating": 4.9,
     "reviewsCount": 45,
     "leadTime": "Immediate Dispatch",
-    "manufacturer": "Phexal Healthcare OEM",
+    "manufacturer": "Phexal Healthcare (Supplier & Distributor)",
     "warranty": "1 Year Hydraulic Warranty",
     "certifications": [
       "ISO 13485:2016",
@@ -1953,7 +1953,7 @@ export const PRODUCTS: Product[] = [
     "rating": 4.9,
     "reviewsCount": 46,
     "leadTime": "Immediate Dispatch",
-    "manufacturer": "Phexal Healthcare OEM",
+    "manufacturer": "Phexal Healthcare (Supplier & Distributor)",
     "warranty": "2 Years Frame Warranty",
     "certifications": [
       "ISO 13485:2016",
@@ -2015,7 +2015,7 @@ export const PRODUCTS: Product[] = [
     "rating": 4.9,
     "reviewsCount": 47,
     "leadTime": "Immediate Dispatch",
-    "manufacturer": "Phexal Healthcare OEM",
+    "manufacturer": "Phexal Healthcare (Supplier & Distributor)",
     "warranty": "2 Years Warranty",
     "certifications": [
       "ISO 13485:2016",
@@ -2077,7 +2077,7 @@ export const PRODUCTS: Product[] = [
     "rating": 4.9,
     "reviewsCount": 48,
     "leadTime": "Immediate Dispatch",
-    "manufacturer": "Phexal Healthcare OEM",
+    "manufacturer": "Phexal Healthcare (Supplier & Distributor)",
     "warranty": "3 Years Warranty",
     "certifications": [
       "ISO 13485:2016",
@@ -2139,7 +2139,7 @@ export const PRODUCTS: Product[] = [
     "rating": 4.9,
     "reviewsCount": 49,
     "leadTime": "Immediate Dispatch",
-    "manufacturer": "Phexal Healthcare OEM",
+    "manufacturer": "Phexal Healthcare (Supplier & Distributor)",
     "warranty": "2 Years Frame Warranty",
     "certifications": [
       "ISO 13485:2016",
@@ -2201,7 +2201,7 @@ export const PRODUCTS: Product[] = [
     "rating": 4.9,
     "reviewsCount": 50,
     "leadTime": "Immediate Dispatch",
-    "manufacturer": "Phexal Healthcare OEM",
+    "manufacturer": "Phexal Healthcare (Supplier & Distributor)",
     "warranty": "3 Years Actuator Warranty",
     "certifications": [
       "ISO 13485:2016",
@@ -2263,7 +2263,7 @@ export const PRODUCTS: Product[] = [
     "rating": 4.9,
     "reviewsCount": 51,
     "leadTime": "Immediate Dispatch",
-    "manufacturer": "Phexal Healthcare OEM",
+    "manufacturer": "Phexal Healthcare (Supplier & Distributor)",
     "warranty": "2 Years Frame AMC",
     "certifications": [
       "ISO 13485:2016",
@@ -2325,7 +2325,7 @@ export const PRODUCTS: Product[] = [
     "rating": 4.9,
     "reviewsCount": 52,
     "leadTime": "Immediate Dispatch",
-    "manufacturer": "Phexal Healthcare OEM",
+    "manufacturer": "Phexal Healthcare (Supplier & Distributor)",
     "warranty": "2 Years Warranty",
     "certifications": [
       "ISO 13485:2016",
@@ -2387,7 +2387,7 @@ export const PRODUCTS: Product[] = [
     "rating": 4.9,
     "reviewsCount": 53,
     "leadTime": "Immediate Dispatch",
-    "manufacturer": "Phexal Healthcare OEM",
+    "manufacturer": "Phexal Healthcare (Supplier & Distributor)",
     "warranty": "3 Years Warranty",
     "certifications": [
       "ISO 13485:2016",
@@ -2449,7 +2449,7 @@ export const PRODUCTS: Product[] = [
     "rating": 4.9,
     "reviewsCount": 54,
     "leadTime": "Immediate Dispatch",
-    "manufacturer": "Phexal Healthcare OEM",
+    "manufacturer": "Phexal Healthcare (Supplier & Distributor)",
     "warranty": "2 Years Warranty",
     "certifications": [
       "ISO 13485:2016",
@@ -2511,7 +2511,7 @@ export const PRODUCTS: Product[] = [
     "rating": 4.9,
     "reviewsCount": 25,
     "leadTime": "Immediate Dispatch",
-    "manufacturer": "Phexal Healthcare OEM",
+    "manufacturer": "Phexal Healthcare (Supplier & Distributor)",
     "warranty": "2 Years Warranty",
     "certifications": [
       "ISO 13485:2016",
@@ -2573,7 +2573,7 @@ export const PRODUCTS: Product[] = [
     "rating": 4.9,
     "reviewsCount": 26,
     "leadTime": "Immediate Dispatch",
-    "manufacturer": "Phexal Healthcare OEM",
+    "manufacturer": "Phexal Healthcare (Supplier & Distributor)",
     "warranty": "2 Years Warranty",
     "certifications": [
       "ISO 13485:2016",
@@ -2635,7 +2635,7 @@ export const PRODUCTS: Product[] = [
     "rating": 4.9,
     "reviewsCount": 27,
     "leadTime": "Immediate Dispatch",
-    "manufacturer": "Phexal Healthcare OEM",
+    "manufacturer": "Phexal Healthcare (Supplier & Distributor)",
     "warranty": "1 Year Replacement Warranty",
     "certifications": [
       "ISO 13485:2016",
@@ -2697,7 +2697,7 @@ export const PRODUCTS: Product[] = [
     "rating": 4.9,
     "reviewsCount": 28,
     "leadTime": "Immediate Dispatch",
-    "manufacturer": "Phexal Healthcare OEM",
+    "manufacturer": "Phexal Healthcare (Supplier & Distributor)",
     "warranty": "2 Years Comprehensive",
     "certifications": [
       "ISO 13485:2016",
@@ -2759,7 +2759,7 @@ export const PRODUCTS: Product[] = [
     "rating": 4.9,
     "reviewsCount": 29,
     "leadTime": "Immediate Dispatch",
-    "manufacturer": "Phexal Healthcare OEM",
+    "manufacturer": "Phexal Healthcare (Supplier & Distributor)",
     "warranty": "2 Years Warranty",
     "certifications": [
       "ISO 13485:2016",
@@ -2821,7 +2821,7 @@ export const PRODUCTS: Product[] = [
     "rating": 4.9,
     "reviewsCount": 30,
     "leadTime": "Immediate Dispatch",
-    "manufacturer": "Phexal Healthcare OEM",
+    "manufacturer": "Phexal Healthcare (Supplier & Distributor)",
     "warranty": "2 Years Warranty",
     "certifications": [
       "ISO 13485:2016",
@@ -2945,7 +2945,7 @@ export const PRODUCTS: Product[] = [
     "rating": 4.9,
     "reviewsCount": 32,
     "leadTime": "Immediate Dispatch",
-    "manufacturer": "Phexal Healthcare OEM",
+    "manufacturer": "Phexal Healthcare (Supplier & Distributor)",
     "warranty": "2 Years Frame Warranty",
     "certifications": [
       "ISO 13485:2016",
@@ -3007,7 +3007,7 @@ export const PRODUCTS: Product[] = [
     "rating": 4.9,
     "reviewsCount": 33,
     "leadTime": "Immediate Dispatch",
-    "manufacturer": "Phexal Healthcare OEM",
+    "manufacturer": "Phexal Healthcare (Supplier & Distributor)",
     "warranty": "2 Years Warranty",
     "certifications": [
       "ISO 13485:2016",
@@ -3069,7 +3069,7 @@ export const PRODUCTS: Product[] = [
     "rating": 4.9,
     "reviewsCount": 34,
     "leadTime": "Immediate Dispatch",
-    "manufacturer": "Phexal Healthcare OEM",
+    "manufacturer": "Phexal Healthcare (Supplier & Distributor)",
     "warranty": "3 Years SS Warranty",
     "certifications": [
       "ISO 13485:2016",
@@ -3131,7 +3131,7 @@ export const PRODUCTS: Product[] = [
     "rating": 4.9,
     "reviewsCount": 35,
     "leadTime": "Immediate Dispatch",
-    "manufacturer": "Phexal Healthcare OEM",
+    "manufacturer": "Phexal Healthcare (Supplier & Distributor)",
     "warranty": "3 Years SS Warranty",
     "certifications": [
       "ISO 13485:2016",
@@ -3193,7 +3193,7 @@ export const PRODUCTS: Product[] = [
     "rating": 4.9,
     "reviewsCount": 36,
     "leadTime": "Immediate Dispatch",
-    "manufacturer": "Phexal Healthcare OEM",
+    "manufacturer": "Phexal Healthcare (Supplier & Distributor)",
     "warranty": "2 Years Warranty",
     "certifications": [
       "ISO 13485:2016",
@@ -3255,7 +3255,7 @@ export const PRODUCTS: Product[] = [
     "rating": 4.9,
     "reviewsCount": 37,
     "leadTime": "Immediate Dispatch",
-    "manufacturer": "Phexal Healthcare OEM",
+    "manufacturer": "Phexal Healthcare (Supplier & Distributor)",
     "warranty": "2 Years Warranty",
     "certifications": [
       "ISO 13485:2016",
@@ -3317,7 +3317,7 @@ export const PRODUCTS: Product[] = [
     "rating": 4.9,
     "reviewsCount": 38,
     "leadTime": "Immediate Dispatch",
-    "manufacturer": "Phexal Healthcare OEM",
+    "manufacturer": "Phexal Healthcare (Supplier & Distributor)",
     "warranty": "2 Years Warranty",
     "certifications": [
       "ISO 13485:2016",
@@ -3379,7 +3379,7 @@ export const PRODUCTS: Product[] = [
     "rating": 4.9,
     "reviewsCount": 39,
     "leadTime": "Immediate Dispatch",
-    "manufacturer": "Phexal Healthcare OEM",
+    "manufacturer": "Phexal Healthcare (Supplier & Distributor)",
     "warranty": "3 Years Warranty",
     "certifications": [
       "ISO 13485:2016",
@@ -3441,7 +3441,7 @@ export const PRODUCTS: Product[] = [
     "rating": 4.9,
     "reviewsCount": 40,
     "leadTime": "Immediate Dispatch",
-    "manufacturer": "Phexal Healthcare OEM",
+    "manufacturer": "Phexal Healthcare (Supplier & Distributor)",
     "warranty": "2 Years Warranty",
     "certifications": [
       "ISO 13485:2016",
@@ -3503,7 +3503,7 @@ export const PRODUCTS: Product[] = [
     "rating": 4.9,
     "reviewsCount": 41,
     "leadTime": "Immediate Dispatch",
-    "manufacturer": "Phexal Healthcare OEM",
+    "manufacturer": "Phexal Healthcare (Supplier & Distributor)",
     "warranty": "2 Years Replacement Warranty",
     "certifications": [
       "ISO 13485:2016",
@@ -3565,7 +3565,7 @@ export const PRODUCTS: Product[] = [
     "rating": 4.9,
     "reviewsCount": 42,
     "leadTime": "Immediate Dispatch",
-    "manufacturer": "Phexal Healthcare OEM",
+    "manufacturer": "Phexal Healthcare (Supplier & Distributor)",
     "warranty": "2 Years Warranty",
     "certifications": [
       "ISO 13485:2016",
@@ -3751,7 +3751,7 @@ export const PRODUCTS: Product[] = [
     "rating": 4.9,
     "reviewsCount": 45,
     "leadTime": "Immediate Dispatch",
-    "manufacturer": "Phexal Healthcare OEM",
+    "manufacturer": "Phexal Healthcare (Supplier & Distributor)",
     "warranty": "2 Years Warranty",
     "certifications": [
       "ISO 13485:2016",
@@ -3937,7 +3937,7 @@ export const PRODUCTS: Product[] = [
     "rating": 4.9,
     "reviewsCount": 48,
     "leadTime": "Immediate Dispatch",
-    "manufacturer": "Phexal Healthcare OEM",
+    "manufacturer": "Phexal Healthcare (Supplier & Distributor)",
     "warranty": "5 Years Unit Warranty",
     "certifications": [
       "ISO 13485:2016",
@@ -4247,7 +4247,7 @@ export const PRODUCTS: Product[] = [
     "rating": 4.9,
     "reviewsCount": 53,
     "leadTime": "Immediate Dispatch",
-    "manufacturer": "Phexal Healthcare OEM",
+    "manufacturer": "Phexal Healthcare (Supplier & Distributor)",
     "warranty": "1 Year Warranty",
     "certifications": [
       "ISO 13485:2016",
@@ -4309,7 +4309,7 @@ export const PRODUCTS: Product[] = [
     "rating": 4.9,
     "reviewsCount": 54,
     "leadTime": "Immediate Dispatch",
-    "manufacturer": "Phexal Healthcare OEM",
+    "manufacturer": "Phexal Healthcare (Supplier & Distributor)",
     "warranty": "2 Years Motor Warranty",
     "certifications": [
       "ISO 13485:2016",
@@ -4371,7 +4371,7 @@ export const PRODUCTS: Product[] = [
     "rating": 4.9,
     "reviewsCount": 25,
     "leadTime": "Immediate Dispatch",
-    "manufacturer": "Phexal Healthcare OEM",
+    "manufacturer": "Phexal Healthcare (Supplier & Distributor)",
     "warranty": "2 Years Warranty",
     "certifications": [
       "ISO 13485:2016",
@@ -4867,7 +4867,7 @@ export const PRODUCTS: Product[] = [
     "rating": 4.9,
     "reviewsCount": 33,
     "leadTime": "Immediate Dispatch",
-    "manufacturer": "Phexal Healthcare OEM",
+    "manufacturer": "Phexal Healthcare (Supplier & Distributor)",
     "warranty": "2 Years Comprehensive",
     "certifications": [
       "ISO 13485:2016",
@@ -4929,7 +4929,7 @@ export const PRODUCTS: Product[] = [
     "rating": 4.9,
     "reviewsCount": 34,
     "leadTime": "Immediate Dispatch",
-    "manufacturer": "Phexal Healthcare OEM",
+    "manufacturer": "Phexal Healthcare (Supplier & Distributor)",
     "warranty": "2 Years Warranty",
     "certifications": [
       "ISO 13485:2016",
@@ -5115,7 +5115,7 @@ export const PRODUCTS: Product[] = [
     "rating": 4.9,
     "reviewsCount": 37,
     "leadTime": "Immediate Dispatch",
-    "manufacturer": "Phexal Healthcare OEM",
+    "manufacturer": "Phexal Healthcare (Supplier & Distributor)",
     "warranty": "2 Years Warranty",
     "certifications": [
       "ISO 13485:2016",
@@ -5177,7 +5177,7 @@ export const PRODUCTS: Product[] = [
     "rating": 4.9,
     "reviewsCount": 38,
     "leadTime": "Immediate Dispatch",
-    "manufacturer": "Phexal Healthcare OEM",
+    "manufacturer": "Phexal Healthcare (Supplier & Distributor)",
     "warranty": "2 Years Warranty",
     "certifications": [
       "ISO 13485:2016",
@@ -5363,7 +5363,7 @@ export const PRODUCTS: Product[] = [
     "rating": 4.9,
     "reviewsCount": 41,
     "leadTime": "Immediate Dispatch",
-    "manufacturer": "Phexal Healthcare OEM",
+    "manufacturer": "Phexal Healthcare (Supplier & Distributor)",
     "warranty": "5 Years Warranty",
     "certifications": [
       "ISO 13485:2016",
@@ -5425,7 +5425,7 @@ export const PRODUCTS: Product[] = [
     "rating": 4.9,
     "reviewsCount": 42,
     "leadTime": "Immediate Dispatch",
-    "manufacturer": "Phexal Healthcare OEM",
+    "manufacturer": "Phexal Healthcare (Supplier & Distributor)",
     "warranty": "5 Years Warranty",
     "certifications": [
       "ISO 13485:2016",
@@ -5487,7 +5487,7 @@ export const PRODUCTS: Product[] = [
     "rating": 4.9,
     "reviewsCount": 43,
     "leadTime": "Immediate Dispatch",
-    "manufacturer": "Phexal Healthcare OEM",
+    "manufacturer": "Phexal Healthcare (Supplier & Distributor)",
     "warranty": "2 Years Warranty",
     "certifications": [
       "ISO 13485:2016",
@@ -5549,7 +5549,7 @@ export const PRODUCTS: Product[] = [
     "rating": 4.9,
     "reviewsCount": 44,
     "leadTime": "Immediate Dispatch",
-    "manufacturer": "Phexal Healthcare OEM",
+    "manufacturer": "Phexal Healthcare (Supplier & Distributor)",
     "warranty": "3 Years LED Module Warranty",
     "certifications": [
       "ISO 13485:2016",
@@ -5611,7 +5611,7 @@ export const PRODUCTS: Product[] = [
     "rating": 4.9,
     "reviewsCount": 45,
     "leadTime": "Immediate Dispatch",
-    "manufacturer": "Phexal Healthcare OEM",
+    "manufacturer": "Phexal Healthcare (Supplier & Distributor)",
     "warranty": "3 Years Hydraulic Warranty",
     "certifications": [
       "ISO 13485:2016",
@@ -5673,7 +5673,7 @@ export const PRODUCTS: Product[] = [
     "rating": 4.9,
     "reviewsCount": 46,
     "leadTime": "Immediate Dispatch",
-    "manufacturer": "Phexal Healthcare OEM",
+    "manufacturer": "Phexal Healthcare (Supplier & Distributor)",
     "warranty": "2 Years Warranty",
     "certifications": [
       "ISO 13485:2016",
@@ -5735,7 +5735,7 @@ export const PRODUCTS: Product[] = [
     "rating": 4.9,
     "reviewsCount": 47,
     "leadTime": "Immediate Dispatch",
-    "manufacturer": "Phexal Healthcare OEM",
+    "manufacturer": "Phexal Healthcare (Supplier & Distributor)",
     "warranty": "2 Years Warranty",
     "certifications": [
       "ISO 13485:2016",
@@ -5797,7 +5797,7 @@ export const PRODUCTS: Product[] = [
     "rating": 4.9,
     "reviewsCount": 48,
     "leadTime": "Immediate Dispatch",
-    "manufacturer": "Phexal Healthcare OEM",
+    "manufacturer": "Phexal Healthcare (Supplier & Distributor)",
     "warranty": "2 Years Warranty",
     "certifications": [
       "ISO 13485:2016",
@@ -5859,7 +5859,7 @@ export const PRODUCTS: Product[] = [
     "rating": 4.9,
     "reviewsCount": 49,
     "leadTime": "Immediate Dispatch",
-    "manufacturer": "Phexal Healthcare OEM",
+    "manufacturer": "Phexal Healthcare (Supplier & Distributor)",
     "warranty": "2 Years Replacement Warranty",
     "certifications": [
       "ISO 13485:2016",
@@ -5921,7 +5921,7 @@ export const PRODUCTS: Product[] = [
     "rating": 4.9,
     "reviewsCount": 50,
     "leadTime": "Immediate Dispatch",
-    "manufacturer": "Phexal Healthcare OEM",
+    "manufacturer": "Phexal Healthcare (Supplier & Distributor)",
     "warranty": "3 Years Warranty",
     "certifications": [
       "ISO 13485:2016",
@@ -5983,7 +5983,7 @@ export const PRODUCTS: Product[] = [
     "rating": 4.9,
     "reviewsCount": 51,
     "leadTime": "Immediate Dispatch",
-    "manufacturer": "Phexal Healthcare OEM",
+    "manufacturer": "Phexal Healthcare (Supplier & Distributor)",
     "warranty": "5 Years Hydrostatic Test Certificate",
     "certifications": [
       "ISO 13485:2016",
@@ -6045,7 +6045,7 @@ export const PRODUCTS: Product[] = [
     "rating": 4.9,
     "reviewsCount": 52,
     "leadTime": "Immediate Dispatch",
-    "manufacturer": "Phexal Healthcare OEM",
+    "manufacturer": "Phexal Healthcare (Supplier & Distributor)",
     "warranty": "5 Years Cylinder Life Warranty",
     "certifications": [
       "ISO 13485:2016",
@@ -6107,7 +6107,7 @@ export const PRODUCTS: Product[] = [
     "rating": 4.9,
     "reviewsCount": 53,
     "leadTime": "Immediate Dispatch",
-    "manufacturer": "Phexal Healthcare OEM",
+    "manufacturer": "Phexal Healthcare (Supplier & Distributor)",
     "warranty": "5 Years Hydrostatic Test Certificate",
     "certifications": [
       "ISO 13485:2016",

@@ -24,6 +24,11 @@
   status = 200
 
 [[redirects]]
+  from = "/certificates"
+  to = "/quality.html"
+  status = 200
+
+[[redirects]]
   from = "/contact"
   to = "/contact.html"
   status = 200
@@ -39,13 +44,28 @@
   status = 200
 
 [[redirects]]
+  from = "/privacy"
+  to = "/privacy.html"
+  status = 200
+
+[[redirects]]
+  from = "/terms"
+  to = "/terms.html"
+  status = 200
+
+[[redirects]]
   from = "/product"
   to = "/product.html"
   status = 200
 
+# Rewrite product extensionless slugs to static HTML files if they exist
+[[redirects]]
+  from = "/products/:slug"
+  to = "/products/:slug.html"
+  status = 200
+
+# Unmatched routes return true 404
 [[redirects]]
   from = "/*"
   to = "/404.html"
   status = 404
-
-

@@ -483,7 +483,7 @@ export const ACCREDITATION_PORTFOLIO: AccreditationItem[] = [
  validTo: '31 Dec 2028',
  status: 'INSPECTION PASSED',
  badgeColor: 'bg-amber-600',
- description: 'Verified OEM & Institutional Seller status on Government e-Marketplace for direct supply to central/state government hospitals, AIIMS, defense medical facilities, and railways.',
+ description: 'Verified Supplier & Institutional Seller status on Government e-Marketplace for direct supply to central/state government hospitals, AIIMS, defense medical facilities, and railways.',
  keyHighlights: [
  'Direct GeM catalog integration with transparent pricing',
  'Approved for public health institutional tenders',
@@ -620,7 +620,7 @@ export const SIX_PILLARS_FRAMEWORK: QualityPillar[] = [
  'Root Cause Analysis (RCA) and 8D CAPA report generated within 48 hours of any filed query',
  'Free loaner unit dispatch within Delhi NCR in under 2 hours during emergency hospital breakdowns'
  ],
- acceptanceCriteria: 'Response to emergency hospital clinical inquiries within 15 minutes and batch containment within 4 hours.',
+ acceptanceCriteria: 'Response to emergency hospital clinical inquiries promptly and batch containment within 4 hours.',
  iconName: 'Clock'
  }
 ];

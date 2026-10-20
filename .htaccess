@@ -23,9 +23,17 @@
   RewriteRule ^about/?$ about.html [L]
   RewriteRule ^rentals/?$ rentals.html [L]
   RewriteRule ^quality/?$ quality.html [L]
+  RewriteRule ^certificates/?$ quality.html [L]
   RewriteRule ^contact/?$ contact.html [L]
   RewriteRule ^blogs/?$ blogs.html [L]
   RewriteRule ^gallery/?$ gallery.html [L]
+  RewriteRule ^privacy/?$ privacy.html [L]
+  RewriteRule ^terms/?$ terms.html [L]
+
+  # Rewrite /products/<slug> to /products/<slug>.html if it exists
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{DOCUMENT_ROOT}/products/$1.html -f
+  RewriteRule ^products/([^/]+)/?$ products/$1.html [L]
 </IfModule>
 
 # 2. Custom 404 Error Page

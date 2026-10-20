@@ -227,7 +227,7 @@ export const ProductPage: React.FC = () => {
             <div className="grid grid-cols-3 gap-3">
               <div className="p-3 rounded-xl bg-slate-50 border border-slate-100 text-center phx-card-hover">
                 <ShieldCheck className="w-5 h-5 text-emerald-600 mx-auto mb-1.5" />
-                <span className="text-[11px] font-bold text-slate-800 block">Verified OEM</span>
+                <span className="text-[11px] font-bold text-slate-800 block">Verified Supplier</span>
                 <span className="text-[10px] text-slate-500">Hospital Grade</span>
               </div>
               <div className="p-3 rounded-xl bg-slate-50 border border-slate-100 text-center phx-card-hover">
@@ -296,7 +296,7 @@ export const ProductPage: React.FC = () => {
                 Wholesale Pricing on Inquiry
               </span>
               <p className="text-[11px] text-slate-300 mt-1.5 leading-relaxed max-w-lg">
-                Bulk institutional rates, OEM volume tiers, and custom GST proforma dispatched within 15 minutes via WhatsApp desk.
+                Bulk institutional rates, OEM volume tiers, and custom GST proforma dispatched promptly via WhatsApp desk.
               </p>
             </div>
 
@@ -413,7 +413,7 @@ export const ProductPage: React.FC = () => {
                     Instant Hospital / Institutional RFQ
                   </span>
                   <span className="text-[10px] font-bold text-emerald-700 bg-emerald-100/70 px-2 py-0.5 rounded-full">
-                    15 Min Response
+                    Fast Proforma Response
                   </span>
                 </div>
 
@@ -553,7 +553,7 @@ Units: ${quantity}`
                     </tr>
                   ))}
                   <tr>
-                    <td className="py-3.5 px-6 font-bold text-slate-700">Manufacturer & Origin</td>
+                    <td className="py-3.5 px-6 font-bold text-slate-700">Supplier & Origin</td>
                     <td className="py-3.5 px-6 text-slate-900">{product.manufacturer}</td>
                   </tr>
                   <tr className="bg-slate-50/50">
@@ -711,7 +711,7 @@ Units: ${quantity}`
                 Need a Quote for {product.name}?
               </h2>
               <p className="text-sm text-slate-400 mt-1">
-                Our procurement team will prepare a formal GST proforma within 15 minutes.
+                Our procurement team will prepare a formal GST proforma promptly with fast turnaround.
               </p>
             </div>
             <div className="flex gap-3">

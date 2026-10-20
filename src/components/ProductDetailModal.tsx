@@ -155,7 +155,7 @@ Delivery Lead: ${product.leadTime}`
  <div className="grid grid-cols-3 gap-2 pt-2">
  <div className="p-2.5 rounded-xl bg-slate-50 border border-slate-100 text-center">
  <ShieldCheck className="w-4 h-4 text-emerald-600 mx-auto mb-1" />
- <span className="text-[10px] font-bold text-slate-800 block">Verified OEM</span>
+ <span className="text-[10px] font-bold text-slate-800 block">Verified Supplier</span>
  <span className="text-[9px] text-slate-500">Hospital Grade</span>
  </div>
  <div className="p-2.5 rounded-xl bg-slate-50 border border-slate-100 text-center">
@@ -210,7 +210,7 @@ Delivery Lead: ${product.leadTime}`
  </span>
  </div>
  <p className="text-[11px] text-slate-300 mt-1 leading-relaxed">
- Bulk institutional rates, OEM volume tiers, and custom GST proforma are dispatched within 15 minutes via our dedicated WhatsApp desk.
+ Bulk institutional rates, OEM volume tiers, and custom GST proforma are dispatched promptly with fast turnaround via our dedicated WhatsApp desk.
  </p>
  </div>
 

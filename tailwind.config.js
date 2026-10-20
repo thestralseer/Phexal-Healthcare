@@ -10,6 +10,8 @@ export default {
     "./gallery.html",
     "./contact.html",
     "./*.html",
+    "./products/**/*.html",
+    "./public/**/*.html",
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   darkMode: "class",

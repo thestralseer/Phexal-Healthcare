@@ -56,7 +56,7 @@ export const AboutPage: React.FC = () => {
           </h1>
 
           <p className="text-sm sm:text-base text-slate-300 max-w-3xl mx-auto mt-4 leading-relaxed font-normal">
-            Official Indian B2B medical equipment manufacturer, authorized metrology calibration hub, and 24/7 ICU life-support provider. Empowering 500+ hospital networks across India and 40+ international healthcare jurisdictions.
+            Official Indian B2B medical equipment supplier & distributor, authorized metrology calibration hub, and 24/7 ICU life-support provider. Empowering 500+ hospital networks across India and 40+ international healthcare jurisdictions.
           </p>
         </div>
       </section>
@@ -126,10 +126,10 @@ export const AboutPage: React.FC = () => {
                   <span>Our Founding Mission</span>
                 </div>
                 <h2 className="text-2xl sm:text-3xl lg:text-4xl font-black text-slate-900 tracking-tight leading-tight font-heading">
-                  Built on Clinical Rigor, Direct Manufacturer Pricing &amp; Patient Safety
+                  Built on Clinical Rigor, Direct Wholesale Pricing &amp; Patient Safety
                 </h2>
                 <p className="text-sm sm:text-base text-slate-600 mt-4 leading-relaxed">
-                  Founded with a commitment to bridge the gap between high-end multinational medical technology and affordable Indian clinical healthcare, Phexal Healthcare has evolved from an emergency pandemic life-support response team into a premier B2B medical equipment manufacturer and global exporter.
+                  Founded with a commitment to bridge the gap between high-end multinational medical technology and affordable Indian clinical healthcare, Phexal Healthcare has evolved from an emergency pandemic life-support response team into a premier B2B medical equipment supplier, distributor, and global exporter.
                 </p>
                 <p className="text-sm sm:text-base text-slate-600 mt-3 leading-relaxed">
                   Operating from our central 15,000+ sq.ft logistics and metrology hub in Indirapuram (facing NH-24 corridor), we supply over 500 hospital chains, nursing homes, and government medical institutions with factory-calibrated devices that comply strictly with CDSCO and ISO 13485 standards.
@@ -153,7 +153,7 @@ export const AboutPage: React.FC = () => {
                   </div>
                   <h3 className="text-sm font-bold text-slate-900">Our Vision</h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    To be Asia's most dependable and technologically rigorous medical device manufacturer, expanding indigenously manufactured ICU and surgical solutions across 60+ countries by 2028.
+                    To be Asia's most dependable and technologically rigorous medical equipment supplier, expanding indigenously certified ICU and surgical solutions across 60+ countries by 2028.
                   </p>
                 </div>
               </div>
@@ -334,7 +334,7 @@ export const AboutPage: React.FC = () => {
               <div className="text-2xl font-black text-purple-600 mb-1">2026</div>
               <div className="text-xs font-bold text-slate-900 uppercase tracking-wide mb-2">Global Export &amp; 24/7 ICU Fleet</div>
               <p className="text-xs text-slate-600 leading-relaxed">
-                Expanded regular container exports across 40+ countries; scaled 120-minute emergency bedside setup fleet with real-time IoT equipment tracking.
+                Expanded regular container exports across 40+ countries; scaled fast same-day emergency bedside setup fleet with real-time IoT equipment tracking.
               </p>
             </div>
           </div>

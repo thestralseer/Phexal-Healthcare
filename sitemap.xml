@@ -3,998 +3,596 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://phexalhealthcare.com/</loc>
-    <lastmod>2026-10-05</lastmod>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://phexalhealthcare.com/products.html</loc>
-    <lastmod>2026-10-05</lastmod>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.95</priority>
   </url>
   <url>
     <loc>https://phexalhealthcare.com/rentals.html</loc>
-    <lastmod>2026-10-05</lastmod>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.90</priority>
   </url>
   <url>
     <loc>https://phexalhealthcare.com/quality.html</loc>
-    <lastmod>2026-10-05</lastmod>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://phexalhealthcare.com/about.html</loc>
-    <lastmod>2026-10-05</lastmod>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.80</priority>
   </url>
   <url>
     <loc>https://phexalhealthcare.com/gallery.html</loc>
-    <lastmod>2026-10-05</lastmod>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.80</priority>
   </url>
   <url>
     <loc>https://phexalhealthcare.com/blogs.html</loc>
-    <lastmod>2026-10-05</lastmod>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.80</priority>
   </url>
   <url>
     <loc>https://phexalhealthcare.com/contact.html</loc>
-    <lastmod>2026-10-05</lastmod>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/products.html?category=hospital-furniture</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://phexalhealthcare.com/products.html?category=general-beds</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://phexalhealthcare.com/products.html?category=semi-fowler</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://phexalhealthcare.com/products.html?category=fowler-beds</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://phexalhealthcare.com/products.html?category=icu-beds</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://phexalhealthcare.com/products.html?category=pediatric-beds</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://phexalhealthcare.com/products.html?category=maternity-beds</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://phexalhealthcare.com/products.html?category=ward-furniture</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://phexalhealthcare.com/products.html?category=mobility-care</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://phexalhealthcare.com/products.html?category=wheelchairs</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://phexalhealthcare.com/products.html?category=walking-aids</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://phexalhealthcare.com/products.html?category=patient-care</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://phexalhealthcare.com/products.html?category=donor-chairs</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://phexalhealthcare.com/products.html?category=evacuation-chairs</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://phexalhealthcare.com/products.html?category=clinic-stools</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://phexalhealthcare.com/products.html?category=ward-lockers</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://phexalhealthcare.com/products.html?category=examination-transport</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://phexalhealthcare.com/products.html?category=delivery-tables</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://phexalhealthcare.com/products.html?category=delivery-beds</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://phexalhealthcare.com/products.html?category=exam-tables</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://phexalhealthcare.com/products.html?category=exam-couches</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://phexalhealthcare.com/products.html?category=ward-tables</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://phexalhealthcare.com/products.html?category=foot-steps</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://phexalhealthcare.com/products.html?category=stretchers</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://phexalhealthcare.com/products.html?category=trolleys-ward</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://phexalhealthcare.com/products.html?category=stretcher-trolleys</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://phexalhealthcare.com/products.html?category=transfer-trolleys</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://phexalhealthcare.com/products.html?category=cylinder-trolleys</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://phexalhealthcare.com/products.html?category=instrument-trolleys</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://phexalhealthcare.com/products.html?category=dressing-trolleys</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://phexalhealthcare.com/products.html?category=biowaste-trolleys</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://phexalhealthcare.com/products.html?category=diet-trolleys</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://phexalhealthcare.com/products.html?category=iv-stands</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://phexalhealthcare.com/products.html?category=bed-accessories</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://phexalhealthcare.com/products.html?category=diagnostic-monitoring</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://phexalhealthcare.com/products.html?category=patient-monitors</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://phexalhealthcare.com/products.html?category=fetal-monitors</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://phexalhealthcare.com/products.html?category=ecg-machines</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://phexalhealthcare.com/products.html?category=defibrillators</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://phexalhealthcare.com/products.html?category=infusion-pumps</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://phexalhealthcare.com/products.html?category=ultrasound</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://phexalhealthcare.com/products.html?category=cautery-machines</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://phexalhealthcare.com/products.html?category=waste-cutters</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://phexalhealthcare.com/products.html?category=fumigators</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://phexalhealthcare.com/products.html?category=hospital-castors</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://phexalhealthcare.com/products.html?category=autoclaves</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://phexalhealthcare.com/products.html?category=bp-monitors</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://phexalhealthcare.com/products.html?category=respiratory-critical</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://phexalhealthcare.com/products.html?category=icu-ventilators</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://phexalhealthcare.com/products.html?category=bipap-cpap</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://phexalhealthcare.com/products.html?category=oxygen-concentrators</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://phexalhealthcare.com/products.html?category=anaesthesia</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://phexalhealthcare.com/products.html?category=suction-units</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://phexalhealthcare.com/products.html?category=neonatal-care</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://phexalhealthcare.com/products.html?category=gas-accessories</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://phexalhealthcare.com/products.html?category=nebulizers</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://phexalhealthcare.com/products.html?category=surgical-rehab</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://phexalhealthcare.com/products.html?category=surgical-instruments</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://phexalhealthcare.com/products.html?category=holloware</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://phexalhealthcare.com/products.html?category=ot-lights</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://phexalhealthcare.com/products.html?category=ot-tables</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://phexalhealthcare.com/products.html?category=ward-curtains</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://phexalhealthcare.com/products.html?category=physiotherapy</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://phexalhealthcare.com/products.html?category=training-simulators</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <loc>https://phexalhealthcare.com/privacy.html</loc>
+    <lastmod>2026-10-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.50</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/products.html?category=bed-mattresses</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://phexalhealthcare.com/products.html?category=emergency-carts</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://phexalhealthcare.com/products.html?category=oxygen-gas-supply</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://phexalhealthcare.com/products.html?category=gas-cylinders</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://phexalhealthcare.com/products.html?category=portable-cylinders</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <loc>https://phexalhealthcare.com/terms.html</loc>
+    <lastmod>2026-10-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.50</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-bed-plain-eco</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/plain-bed-eco.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-bed-plain-deluxe</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/plain-bed-deluxe.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-bed-semifowler-eco</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/semi-fowler-bed-eco.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-bed-semifowler-deluxe</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/semi-fowler-bed-super-deluxe.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-bed-semifowler-elec</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/semi-fowler-bed-electric.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-bed-fowler-eco</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/fowler-bed-eco.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-bed-fowler-deluxe</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/fowler-bed-super-deluxe.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-bed-fowler-elec</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/fowler-bed-electric.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-bed-paramount</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/five-function-bed-paramount-motorized-icu.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-bed-pediatric</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/pediatric-bed.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-bed-baby-bassinet</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/baby-bassinet.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-bed-recliner</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/hospital-bed-recliner.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-wc-karma</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/wheelchair-karma-ryder-2-lightweight.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-wc-auto</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/auto-wheelchair-motorized-electric.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-mob-stick</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/walking-stick-adjustable-quadripod.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-mob-walker</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/walker-foldable-reciprocal-aluminium.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-mob-commode</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/commode-chair-foldable-sanitary.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-mob-blood-chair</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/blood-donation-chair-motorized-multi-position.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-mob-waiting-chair</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/waiting-chair-3-seater-ss-perforated.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-mob-stair-chair</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/stair-chair-emergency-evacuation-track.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-mob-patient-stool</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/patient-stool-ss-revolving-gas-lift.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-mob-screen-4fold</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/four-fold-screen-mobile-ward-partition.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-mob-bedside-locker</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/bed-side-locker-crca-steel-ss-top.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-mob-bedside-locker-abs</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/bed-side-locker-abs-injection-moulded.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-exam-delivery-table</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/delivery-table-obstetric-telescopic-2-section.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-exam-delivery-bed</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/delivery-bed-ldr-motorized-multi-function.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-exam-table</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/examination-table-2-section-padded-top.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-exam-couch</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/examination-couch-cabinet-storage-drawers.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-exam-couch-deluxe</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/examination-couch-deluxe-adjustable-backrest.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-exam-food-table</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/food-table-overbed-hydraulic-gas-spring.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-exam-footstep-single</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/foot-step-single-non-slip-ss-step.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-exam-footstep-double</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/foot-step-double-heavy-duty-dual-step.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-exam-folding-stretcher</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/folding-stretcher-2-fold-4-fold-aluminium.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-exam-ambulance-stretcher</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/ambulance-stretcher-automatic-roll-in-lock.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-exam-scoop-stretcher</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/scoop-stretcher-aluminium-orthopaedic-trauma.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-exam-spine-board</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/spine-board-high-density-polyethylene-x-ray.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-stretcher-trolley</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/stretcher-trolley-hydraulic-emergency.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-trl-ambulance</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/ambulance-trolley-stainless-steel-patient-transfer.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-trl-cylinder</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/cylinder-trolley-oxygen-cylinder-cart.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-trl-instrument</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/instrument-trolley-2-tier-ss304-surgical.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-trl-instrument-3shelf</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/instrument-trolley-3-shelves-ss304-utility.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-trl-instrument-box</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/instrument-trolley-box-type-lockable-drawers.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-trl-dressing</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/dressing-trolley-with-ss-bowl-waste-bucket.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-trl-biowaste</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/bio-waste-trolley-color-coded-hospital-infection.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-trl-food</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/food-trolley-multi-shelf-stainless-steel-diet.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-trl-iv-stand</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/i-v-stand-ss304-heavy-cast-base-4-hook.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-trl-bed-panels</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/hospital-bed-panels-detachable-abs-head-foot-bows.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-trl-bed-railing</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/hospital-bed-railing-collapsible-aluminium-safety-guard.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-mon-mindray</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/patient-monitor-3-para-umec-10.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-mon-contec</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/patient-monitor-5-para-contec-cms8000.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-diag-fetal-monitor</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/fetal-monitor-antepartum-twin-fhr-toco-ctg.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-ecg-bpl</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/e-c-g-machine-bpl-cardiart-12-6-channel.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-defib-biphasic</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/defibrillator-biphasic-defibrillator-monitor.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-defib-aed</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/automatic-external-defibrillator-biphasic-aed-voice.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-pump-syringe</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/syringe-pump-micro-precision-infusion.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-pump-volumetric</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/volumetric-iv-infusion-pump-medipump-vp-5000.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-usg-doppler</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/portable-ultrasound-scanner-color-doppler.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-cautery-esu</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/cautery-machine-400w-electrosurgical-unit.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-diag-needle-cutter</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/needle-cutter-electric-syringe-destroyer-hub-cutter.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-diag-fumigator</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/fumigator-ss-aerosol-ot-icu-disinfection-fogger.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-diag-bed-wheels</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/hospital-bed-wheels-125mm-150mm-central-locking-castors.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-autoclave-steam</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/autoclave-hospital-class-b-steam-sterilizer.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-bp-omron</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/digital-blood-pressure-monitor-omron-hem-7120.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-icu-sv300</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/ventilator-machine-mindray-sv300-icu.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-bipap-bmc</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/bi-pap-machine-bmc-resmart-g2s-b30vt.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-resp-cpap</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/c-pap-machine-auto-cpap-with-heated-humidifier.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-o2-ageasy</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/oxygen-concentrator-ageasy-10l-dual-flow.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-o2-longfian</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/oxygen-concentrator-longfian-5l-high-purity.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-resp-anaesthesia-machine</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/anaesthesia-machine-2-gas-continuous-flow-rotameter.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-resp-anaesthesia-workstation</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/anaesthesia-workstation-integrated-electronic-ventilator.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-suction-dev</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/suction-machine-devilbiss-vacu-aide-q-su.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-warmer-infant</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/baby-radiant-warmer-neocare-microprocessor.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-resp-baby-incubator</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/baby-incubator-microprocessor-servo-skin-air-control.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-resp-fa-valve</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/f-a-valve-with-flow-meter-polycarbonate-humidifier-regulator.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-neb-philips</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/pediatric-compressor-nebuliser-philips-sami.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-surg-set</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/general-surgery-instruments-set-62-pcs-indosurgicals.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-surg-tc-set</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/t-c-general-instrument-set-tungsten-carbide-microsurgical.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-surg-drums-trays</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/dressing-drum-kidney-tray-instrument-tray-ss304-holloware.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-ot-light-mobile</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/mobile-o-t-light-battery-backup-examination-lamp.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-ot-light</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/led-o-t-light-twin-dome-ceiling-shadowless.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-ot-table</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/ot-surgical-table-electro-hydraulic-multi-position.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-surg-curtains</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/i-c-u-ward-curtains-antimicrobial-flame-retardant.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-surg-physio</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/physiotherapy-goods-tens-us-therapy-rehab-aids.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-surg-mannequin</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/mannequin-training-dummies-cpr-clinical-skills-simulator.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-surg-mattress</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/hospital-bed-mattress-4-section-pu-foam-waterproof.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-cart-crash</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/abs-anesthesia-cart-emergency-crash-cart.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-gas-o2-cylinder</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/oxygen-cylinder-bulk-type-d-46-7l-high-pressure.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-gas-aluminum-cylinder</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/aluminum-cylinder-lightweight-portable-click-regulator.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://phexalhealthcare.com/product.html?id=phx-gas-hospital-cylinder</loc>
-    <lastmod>2026-10-05</lastmod>
+    <loc>https://phexalhealthcare.com/products/hospital-cylinder-type-b-10l-manifold-cluster.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.85</priority>
   </url>
 </urlset>

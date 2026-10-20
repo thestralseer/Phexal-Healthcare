@@ -137,6 +137,11 @@ export const Footer: React.FC = () => {
 
  <div className="mt-12 pt-6 border-t border-slate-800 flex flex-col sm:flex-row items-center justify-between text-xs text-slate-500 gap-3">
  <p>© {new Date().getFullYear()} Phexal Healthcare. All rights reserved.</p>
+          <div className="flex items-center gap-4">
+            <a href="/privacy" className="hover:text-slate-300 transition-colors py-2 min-h-[44px] inline-flex items-center">Privacy Policy (DPDP Act)</a>
+            <span>•</span>
+            <a href="/terms" className="hover:text-slate-300 transition-colors py-2 min-h-[44px] inline-flex items-center">Terms of Service</a>
+          </div>
  <p>CDSCO Form MD-42 Reg. UP/GHA/MD42/2026/000142 | CDSCO Licensed & CE Compliant.</p>
  </div>
  </div>

@@ -38,11 +38,11 @@ export const HomePage: React.FC = () => {
   const heroSlides = [
     {
       badge: 'Hospital Surgical Equipment',
-      title: 'Reliable Double Jar Suction Machines Manufacturers in India',
+      title: 'Reliable Double Jar Suction Machine Supplier in India',
       subtitle: 'Experience top-notch double jar suction machines designed for hospitals and clinics, combining durability, precision, and unmatched performance in India.',
       exploreUrl: '/product/phx-suction-dev',
       enquiryUrl: '/contact',
-      image: '/images/products/phx-suction-dev.png',
+      image: '/images/products/phx-suction-dev.webp',
       tag: 'High Vacuum Dual-Jar'
     },
     {
@@ -51,7 +51,7 @@ export const HomePage: React.FC = () => {
       subtitle: 'Delivering safe and effective light therapy for neonatal jaundice. Designed for precision, reliability, and gentle treatment to ensure the best infant care.',
       exploreUrl: '/product/phx-warmer-infant',
       enquiryUrl: '/contact',
-      image: '/images/products/phx-warmer-infant.png',
+      image: '/images/products/phx-warmer-infant.webp',
       tag: 'NICU Microprocessor Warmer'
     },
     {
@@ -60,7 +60,7 @@ export const HomePage: React.FC = () => {
       subtitle: 'Engineered for critical care units, NABH/JCI clinical protocols, dual CPR release, and remote Nurse Control Panels with anti-microbial epoxy coating.',
       exploreUrl: '/product/phx-bed-paramount',
       enquiryUrl: '/contact',
-      image: '/images/products/phx-bed-paramount.png',
+      image: '/images/products/phx-bed-paramount.webp',
       tag: '5-Function Motorized ICU'
     },
     {
@@ -156,7 +156,7 @@ export const HomePage: React.FC = () => {
       tag: "Google Verified",
       initials: "DA",
       color: "bg-sky-100 text-[#006591]",
-      text: "During an acute hospital ICU surge, Phexal dispatched two high-end mechanical ventilators and motorized ICU beds to our facility in under 45 minutes. Their biomedical engineer calibrated everything at bedside seamlessly. Exceptional clinical support."
+      text: "During an acute hospital ICU surge, Phexal dispatched two high-end mechanical ventilators and motorized ICU beds to our facility with prompt same-day dispatch. Their biomedical engineer calibrated everything at bedside seamlessly. Exceptional clinical support."
     },
     {
       name: "Meenakshi Sundaram",
@@ -187,7 +187,7 @@ export const HomePage: React.FC = () => {
     },
     {
       q: "How quickly can Phexal deliver an emergency ICU setup in Delhi NCR?",
-      a: "We guarantee 120-minute emergency delivery and bedside setup across Delhi, Noida, Greater Noida, Ghaziabad, and Gurgaon, 24/7. Our biomedical engineers accompany the equipment to perform complete calibration and clinical briefing."
+      a: "We guarantee fast same-day emergency delivery and bedside setup across Delhi, Noida, Greater Noida, Ghaziabad, and Gurgaon, 24/7. Our biomedical engineers accompany the equipment to perform complete calibration and clinical briefing."
     },
     {
       q: "Is Phexal Healthcare registered and licensed with CDSCO?",
@@ -195,7 +195,7 @@ export const HomePage: React.FC = () => {
     },
     {
       q: "How can I request a formal wholesale quotation or proforma invoice?",
-      a: "You can contact us directly by phone at +91 80700 08050, connect with our sales team via WhatsApp, or submit an inquiry using our online RFQ form. Our team issues formal GST proforma invoices within 15 minutes."
+      a: "You can contact us directly by phone at +91 80700 08050, connect with our sales team via WhatsApp, or submit an inquiry using our online RFQ form. Our team issues formal GST proforma invoices promptly with fast turnaround."
     }
   ];
 
@@ -297,7 +297,7 @@ export const HomePage: React.FC = () => {
                             src={slide.image}
                             alt={slide.title}
                             className="max-h-[290px] sm:max-h-[330px] lg:max-h-[355px] max-w-full object-contain filter drop-shadow-[0_20px_40px_rgba(0,0,0,0.30)] transition-all duration-700 ease-out group-hover:scale-105 group-hover:-translate-y-1.5"
-                            onError={(e) => { (e.target as HTMLImageElement).src = '/images/products/phx-bed-paramount.png'; }}
+                            onError={(e) => { (e.target as HTMLImageElement).src = '/images/products/phx-bed-paramount.webp'; }}
                           />
                         </div>
 
@@ -555,10 +555,10 @@ export const HomePage: React.FC = () => {
                   <span>About Phexal Healthcare</span>
                 </div>
                 <h2 className="text-2xl sm:text-3xl lg:text-4xl font-black tracking-tight text-white leading-tight font-heading">
-                  India's Trusted Medical Device Manufacturer &amp; ICU Infrastructure Partner
+                  India's Trusted Medical Equipment Supplier &amp; ICU Infrastructure Partner
                 </h2>
                 <p className="text-xs sm:text-sm text-slate-300 mt-3 leading-relaxed">
-                  Headquartered in Indirapuram, Ghaziabad, Phexal Healthcare operates as a CDSCO Form MD-42 licensed medical equipment manufacturer, international exporter, and emergency ICU supplier. We bridge the gap between world-class engineering and affordable clinical healthcare.
+                  Headquartered in Indirapuram, Ghaziabad, Phexal Healthcare operates as a CDSCO Form MD-42 licensed medical equipment supplier & distributor, international exporter, and emergency ICU supplier. We bridge the gap between world-class engineering and affordable clinical healthcare.
                 </p>
               </div>
 
@@ -575,7 +575,7 @@ export const HomePage: React.FC = () => {
                   },
                   {
                     id: 'pricing' as const,
-                    title: '2. Direct OEM Manufacturer Pricing',
+                    title: '2. Direct Wholesale Pricing',
                     subtitle: 'Zero Middleman Markup • GeM Tender Ready',
                     tag: 'Wholesale Rates',
                     desc: 'Institutional wholesale rates with transparent GST billing, GeM tender readiness, and comprehensive CDSCO compliance.',
@@ -583,7 +583,7 @@ export const HomePage: React.FC = () => {
                   },
                   {
                     id: 'emergency' as const,
-                    title: '3. 120-Minute Emergency NCR Dispatch',
+                    title: '3. Fast Same-Day Delivery in Delhi-NCR',
                     subtitle: '24/7 Rapid Bedside Response Team',
                     tag: '24/7 Rapid SLA',
                     desc: 'Fully equipped mobile response fleet delivering critical care equipment to Delhi, Noida, Gurgaon, and Ghaziabad bedside within 2 hours.',
@@ -746,7 +746,7 @@ export const HomePage: React.FC = () => {
             <div>
               <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-amber-50 border border-amber-200 text-amber-800 text-xs font-bold uppercase tracking-wider mb-2">
                 <Star className="w-4 h-4 text-amber-500 fill-amber-500" />
-                <span>Google 4.9 ★ Rated Healthcare Provider</span>
+                <span>4.9 ★ Rated Healthcare Provider (38 Reviews)</span>
               </div>
               <h2 className="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight font-heading">
                 Verified Feedback from Doctors &amp; Hospital Directors
@@ -764,7 +764,7 @@ export const HomePage: React.FC = () => {
               </div>
               <div className="border-l border-slate-200 pl-3">
                 <div className="text-sm font-black text-slate-900 leading-none">4.9 / 5.0</div>
-                <div className="text-[10px] text-slate-500 font-medium mt-0.5">52+ Verified Reviews</div>
+                <div className="text-[10px] text-slate-500 font-medium mt-0.5">38 Verified Reviews</div>
               </div>
             </div>
           </div>
@@ -819,7 +819,7 @@ export const HomePage: React.FC = () => {
                 Request a Formal Quotation in 30 Seconds
               </h2>
               <p className="text-xs sm:text-sm text-sky-100 leading-relaxed">
-                Direct wholesale pricing with GST invoice &amp; calibration certificates dispatched in 15 minutes.
+                Direct wholesale pricing with GST invoice &amp; calibration certificates dispatched promptly with fast turnaround.
               </p>
               <div className="flex items-center gap-4 text-xs text-sky-200 pt-1">
                 <div className="flex items-center gap-1.5">
