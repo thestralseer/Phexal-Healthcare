@@ -9,5 +9,7 @@
 /privacy         /privacy.html    200
 /terms           /terms.html      200
 /product         /product.html    200
+/googlee254a389b8037254.html /googlee254a389b8037254.html 200
+/google30d7ae0130cb110a.html /google30d7ae0130cb110a.html 200
 /products/:slug  /products/:slug.html 200
 /*               /404.html        404

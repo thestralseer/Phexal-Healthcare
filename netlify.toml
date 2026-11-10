@@ -58,6 +58,17 @@
   to = "/product.html"
   status = 200
 
+# Explicit Google Search Console verification bypass
+[[redirects]]
+  from = "/googlee254a389b8037254.html"
+  to = "/googlee254a389b8037254.html"
+  status = 200
+
+[[redirects]]
+  from = "/google30d7ae0130cb110a.html"
+  to = "/google30d7ae0130cb110a.html"
+  status = 200
+
 # Rewrite product extensionless slugs to static HTML files if they exist
 [[redirects]]
   from = "/products/:slug"
